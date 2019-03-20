@@ -1,0 +1,391 @@
+<html class="gr__core_ecu_edu"><style type="text/css" id="night-mode-pro-style"></style><link type="text/css" rel="stylesheet" id="night-mode-pro-link"><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<title>ANOVA Homework</title>
+<meta name="description" content="ANOVA homework assignment for Karl Wuensch's students.">
+<meta name="KEYWORDS" content="ANOVA, statistics, Factorial ANOVA, REGWQ">
+
+<style>
+<!--
+
+.style1 {
+	text-align: center;
+	border-width: 1px;
+}
+.style2 {
+	border-width: 1px;
+}
+-->
+</style>
+
+</head>
+<body data-gr-c-s-loaded="true">
+
+<font face="Arial, Helvetica, sans-serif">
+<b><font size="5" color="#008000">
+<font size="6" face="Arial, Helvetica, sans-serif" color="#993366">
+<p align="left">
+<font size="5" face="Arial, Helvetica, sans-serif" color="#993366">
+<a href="http://www.ecu.edu/">
+<font size="6" color="#592A8A">East Carolina University</font></a></font><font size="5"><br>
+</font><font size="4">
+<a href="http://www.ecu.edu/psyc/"><font color="#000000">
+Department of Psychology</font></a></font></p>
+</font><hr></font><p align="CENTER"><font size="5" color="#008000">ANOVA/REGWQ Homework</font><sup><font size="5" face="Arial, Helvetica, sans-serif" color="#008000">©</font></sup></p></b>
+
+<hr><p>&nbsp;&nbsp;&nbsp; Read <a href="http://core.ecu.edu/psyc/wuenschk/SimData/XD-T-Corr.htm">Correlated T-Test Homework</a>
+ for a brief description of the research which inspired me to write the 
+simulator from which the data for this assignment came.  Buss et al. 
+also measured participants' pulse rates during the imagining.  It is the
+ pulse rate 
+<u>difference</u> scores that were simulated for this assignment.&nbsp; They 
+were calculated as (pulse rate while imagining infidelity) minus (pulse rate at 
+baseline).</p>
+
+<p>&nbsp;&nbsp;&nbsp; I have provided you with simulated data for each 
+of the four groups: Men imagining sexual infidelity, men imagining 
+emotional infidelity, women imagining sexual infidelity, and women 
+imagining emotional infidelity. These data are deposited in my SimData 
+directory on the core server 
+and linked below.&nbsp; Your file will have a name of the form 
+'Buss-nn,' where 'nn' is the identification number I use to identify 
+your data files.&nbsp; When you look at the data file you will find that
+ each participant has one line of data. The first score for each 
+participant is the code for the variable 
+<b><font color="#FF0000">group</font></b>, where 1 codes male, sexual 
+image; 2 codes male, emotional image; 3 codes female, sexual image; and 4
+ codes female, emotional image.  The second variable is 
+<font color="#FF0000"><b>gender/sex</b></font>, where 1 codes male and 2 codes female.  The third variable is 
+<font color="#FF0000"><b>type of imagined infidelity</b></font>, where 1 codes sexual and 2 codes emotional.  The final variable is 
+<font color="#FF0000"><b>pulse_increase</b></font> 
+<span style="background-color: #FFFF00">(when interpreting your results, remember that this is a 
+difference score, representing the amount by which pulse rate increased relative 
+to the baseline neutral imagining -- a negative value would indicate that the 
+pulse was lower after imagining infidelity)</span>.&nbsp; The delimiter is a blank 
+space -- there is a blank space between each score and the next.&nbsp; There is 
+one line of data for each subject.&nbsp; You will not be using the gender/sex 
+and type of imagined infidelity variables in this assignment, but will in a 
+future assignment using the same data set.</p>
+<p>&nbsp;&nbsp;&nbsp; Please do use Proc Format and a Format statement to label 
+the numeric values for the grouping variable (or SPSS Value Labels).</p>
+<ul>
+	<li>Use 
+	<a href="http://core.ecu.edu/psyc/wuenschk/docs30/GPower3-ANOVA1.pdf">G*Power
+	</a>to answer the following questions:<ul>
+		<li>&nbsp;How many subjects would you need to have 80% power if the 
+		population effect size were small (<b><i>f</i></b> = 0.10) and you used a 
+		.05 criterion of statistical significance?</li>
+		<li>&nbsp;If you were only able to obtain 96 subjects in each of the 
+		four groups, what would power be if the population effect size were 
+		small (<b><i>f</i></b> = 0.10)?</li>
+		<li>&nbsp;If you were only able to obtain 96 subjects in each of the 
+		four groups, what would power be if the population effect size were 
+		medium (<b><i>f</i></b> = 0.25)?</li>
+	</ul>
+	</li>
+	<li>Use a one-way independent samples ANOVA to test the null hypothesis
+ that the four populations have identical means.  Use a .05 criterion 
+for significance.</li>
+	<li>Compute (semipartial) eta-squared and place a 90% confidence interval about it.&nbsp;
+	<a href="http://core.ecu.edu/psyc/wuenschk/docs30/CI-Eta2-Alpha.doc">Why 
+	90%?</a></li>
+	<li>Conduct pairwise comparisons using the REGWQ procedure.  Hold familywise alpha at a maximum of .05.</li>
+	<li>Prepare a Word table which presents the results of the REGWQ procedure.&nbsp; 
+	Model it after that shown in my document
+	<a href="http://core.ecu.edu/psyc/WuenschK/docs30/ANOVA1_Write-Up.pdf">
+	Presentation of a One-Way ANOVA</a>.&nbsp; This same document illustrates 
+	how to presents results in APA-style. </li>
+	<li><b><font color="#800080">Send an email to all members of the class</font></b> 
+	in which you briefly present the results of the REGWQ.&nbsp; For example, 
+	"Pulse rate increases accompanying thoughts of sexual or emotional 
+	infidelity were significantly higher in men than in women.&nbsp; All other 
+	differences fell short of statistical significance.&nbsp; The subject line 
+	of that email should be "PSYC 7431:&nbsp; Terse report of my REGWQ results."<ul>
+	<li>Each of you has received a random sample from the same population from 
+	which all other students' data were sampled.&nbsp; Accordingly, the class is 
+	conducting a mini Monte-Carlo simulation.</li>
+	<li>Do notice that the pattern of results differs somewhat across 
+	students/samples.</li>
+	<li>Keep this in mind when you try to replicate previously published 
+	research and you obtain results somewhat different than those obtained 
+	previously.</li>
+	<li>Such differences may well be due solely to sampling error, and you would 
+	be wasting your time trying to explain them in terms of possible differences 
+	with respect to subject population, procedural details, and so on.</li>
+</ul>
+
+	</li>
+	<li><b><font color="#800080">Prepare a Word document</font></b> <font color="#008000"><b>(n</b></font><b><font color="#008000">ame the Word document "Nnnnn_REGWQ" where "Nnnnn" 
+	is your last name) </font></b>which contains:<ul>
+		<li>At the top, your answers to the questions about power,</li>
+		<li>Followed by 
+		an APA-style summary statement in which you present<ul>
+		<li>Clear indication of what the groups are (they differ on both gender 
+		of subjects and type of imagined infidelity) and the variable on which the 
+		groups are being compared (the variable is <u>not</u> pulse rates, it is 
+		<u>difference in</u> pulse rates -- treatment minus baseline difference scores).</li>
+		<li>The results of the ANOVA (<i>F</i>, <i>df</i>, <i>MSE</i>, <i>p</i>, 
+		and both a point estimate of and a <b>90%</b> confidence interval for eta-squared) -- do not present 
+		the pairwise comparisons before presenting the result of the omnibus 
+		ANOVA.</li>
+		<li>A table of means and standard deviations which indicates which means differ 
+		significantly from which other means.</li>
+		<li>A terse verbal description of the pattern of significant differences 
+		between means.</li>
+		<li>A brief interpretation of the results.</li>
+	</ul>
+		</li>
+	</ul>
+	</li>
+	<li>In a separate document, all of the statistical output.&nbsp; Name this document <b><font color="#008000">
+	"Nnnnn_Output" where "Nnnnn" is your last name</font></b></li>
+	<li>Attach both documents to a piece of <b><font color="#800080">
+	<a href="mailto:WuenschK@ECU.edu?subject=PSYC 7431:  ANOVA_REGWQ Homework">email sent to me</a></font></b> with the subject line "<b>PSYC 
+	7431:&nbsp; ANOVA_REGWQ Homework</b>." </li>
+	<li>This assignment is due, in Professor Karl's Inbox, at
+	<span class="Apple-converted-space">
+	<font size="3" color="#FF0000">noon on 
+	Friday the 9<sup>th</sup> of February, 2018</font></span>.</li>
+</ul>
+
+<p>&nbsp;&nbsp;&nbsp; As you know, the REGWQ, and most other techniques for 
+pairwise comparisons, were developed as a substitute for the ANOVA, not as a 
+procedure to run after the ANOVA.&nbsp; That said, editors and reviewers 
+(ignorant folk) generally resist publishing a REGWQ analysis without an 
+accompanying ANOVA.&nbsp; Only once have I managed to get the REGWQ published 
+without the ANOVA.&nbsp; See Table 3 and the accompanying text in:</p>
+<ul>
+	<li>
+	<p style="margin-top: 2px; margin-bottom: 2px;">Aziz, S., Wuensch,
+K. L., &amp; Brandon, H. R.&nbsp; (2010).&nbsp;<a href="http://core.ecu.edu/psyc/WuenschK/Articles/PsychologicalRecord2010.pdf"> A comparison among
+worker types using a composites approach and median splits</a>.&nbsp; <i>The
+Psychological Record</i>, <i>60</i>, 627-642.</p></li>
+</ul>
+
+<p style="margin-top: 2px; margin-bottom: 2px;"><b>Tips.</b></p>
+<ul>
+	<li>
+	<p style="margin-top: 2px; margin-bottom: 2px;">Our grouping variable is 
+comprised of three orthogonal (given equal sample sizes) effects: 1. The effect 
+of sex/gender ignoring type of imagined infidelity, 2. The effect of type of 
+imagined infidelity ignoring sex/gender, and 3. The interaction between 
+sex/gender and type of imagined infidelity. While you should be able to come up 
+with three sets of orthogonal contrast coefficients that capture each of these 
+effects, individually, I have not asked you to do so.</p></li>
+	<li>
+	<p style="margin-top: 2px; margin-bottom: 2px;">Given that these effects are confounded in the one-way ANOVA, I recommend that 
+you present the results this way: First, make clear what the groups are and what 
+the outcome variable is. Second, indicate whether or not the groups differed 
+significantly on the outcome variable. Third, present the results of the pairwise comparisons.</p>
+	</li>
+	<li>
+	<p style="margin-top: 2px; margin-bottom: 2px;">Be very careful with respect 
+	to identification of the comparison/outcome variable.&nbsp; It is not "pulse 
+	rate."</p></li>
+	<li>
+	<p style="margin-top: 2px; margin-bottom: 2px;">Do note that our design is 
+	partly experimental, partly non-experimental.&nbsp; Some would call it 
+	"quasi-experimental."&nbsp; We have manipulated one variable (type of 
+	imagined infidelity) but not the other (sex/gender).</p></li>
+</ul>
+<p style="margin-top: 2px; margin-bottom: 2px;">&nbsp;</p>
+
+<hr>
+<center><h2> Links to the Data Files</h2>
+<b>
+</b><p align="CENTER"><b>
+</b>
+
+	</p><div align="center">
+		<table id="table6" width="69%" border="1">
+			<tbody><tr>
+				<td width="347">
+	<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+	<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-01.dat">Al-Hammori, Deanna</a></font></p></td>
+				<td width="347">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-02.dat">Bond, Dillon</a></font></p></td>
+				<td width="315">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-03.dat">Capiaghi, Alex</a></font></p></td>
+				<td width="315">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-04.dat">Conder, Lauren</a></font></p></td>
+			</tr>
+			<tr>
+				<td width="347">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-05.dat">Crespo, Julian</a></font></p></td>
+				<td width="347">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-06.dat">Demott, Bea</a></font></p></td>
+				<td width="315">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-07.dat">Donelan, Jennifer</a></font></p></td>
+				<td width="315">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-08.dat">Dos Santos, Anne</a></font></p></td>
+			</tr>
+			<tr>
+				<td width="347">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-09.dat">Eddy, Will</a></font></p></td>
+				<td width="347">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-10.dat">Haley, Erin</a></p></td>
+				<td width="315">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-11.dat">Mcadams, Ellie</a></font></p></td>
+				<td width="315">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-12.dat">Mcintyre, Joel</a></font></p></td>
+			</tr>
+			<tr>
+				<td width="347">
+	<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+	<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-13.dat">Meier, Brittany</a></font></p></td>
+				<td width="347">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-14.dat">Nguyen, Vanessa</a></font></p></td>
+				<td width="315">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-15.dat">Owens, Brittnie</a></font></p></td>
+				<td width="315">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-16.dat">Rajaei, Afarin</a></font></p></td>
+			</tr>
+			<tr>
+				<td width="347">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-12.dat">Sall, Kayla</a></font></p></td>
+				<td width="347">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-18.dat">Skinner, Lonnisa</a></font></p></td>
+				<td width="315">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-19.dat">Smith, Chris</a></font></p></td>
+				<td width="315">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-20.dat">Welch, Melissa</a></font></p></td>
+			</tr>
+			<tr>
+				<td width="347">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<font face="Arial, Helvetica, sans-serif">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-21.dat">Williams, Juinell</a></font></p></td>
+				<td width="347">
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Buss-22.dat">Wynn, Taylor</a></p></td>
+				<td colspan="2" width="630">
+<p align="center">
+<font size="3" face="Arial, Helvetica, sans-serif" color="#008000">
+
+<font size="3" face="Arial, Helvetica, sans-serif">
+
+<b><font color="#FF3300">Recommended Viewing:</font></b>&nbsp;
+	
+</font>
+<font color="#FF0000">***</font>
+<a href="http://www.sunnyskyz.com/blog/79/The-27-Naughtiest-Cats-In-The-World-And-I-Can-t-Stop-Laughing">
+Naughty Cats</a> <font color="#FF0000">***</font></font></p></td>
+				</tr>
+			</tbody></table>
+	</div>
+	
+
+<p> &nbsp;</p>
+<font color="#008000">
+<font size="3" face="Arial, Helvetica, sans-serif">
+
+</font>
+</font>
+<font size="3" face="Arial, Helvetica, sans-serif" color="#008000">
+
+</font>
+</center>
+<p style="margin-top: 3px; margin-bottom: 3px" align="center">
+<img src="ANOVA%20Homework_files/snake.gif" alt="snake on a stick" width="480" height="32" border="0"></p>
+
+<ul>
+	<li>
+	<p style="margin-top: 3px; margin-bottom: 3px">
+	<a href="http://core.ecu.edu/psyc/wuenschk/SimData/XD-REGWQ-Tips.docx">Tips</a> -- a document designed to help you get 
+	a good grade on this assignment.</p></li>
+	<li>
+	<p style="margin-top: 3px; margin-bottom: 3px">
+	<a href="http://core.ecu.edu/psyc/wuenschk/SimData/Type_II_Regwq.docx">REGWQ 
+	and Power: A Mini Monte Carlo</a> -- please read this document carefully.</p></li>
+	<li>
+	<p style="margin-top: 3px; margin-bottom: 3px">
+	<a href="http://core.ecu.edu/psyc/wuenschk/SAS/SAS-Programs.htm">Visit Karl's SAS Programs Page</a> 
+	-- find ANOVA programs here.</p></li>
+	<li>
+	<p style="margin-top: 3px; margin-bottom: 3px">
+	<a href="http://core.ecu.edu/psyc/wuenschk/SPSS/SPSS-Lessons.htm">Visit 
+	Karl's SPSS Lessons Page</a> -- find lessons on ANOVA here.</p><ul>
+	<li>
+	<p style="margin-top: 3px; margin-bottom: 3px">Example of what
+	<a href="http://core.ecu.edu/psyc/WuenschK/SimData/REGWQ-Example.sav">the 
+	data</a> should like after being imported into SPSS.</p></li>
+	<li>
+	<p style="margin-top: 3px; margin-bottom: 3px">Example of what the
+	<a href="http://core.ecu.edu/psyc/WuenschK/SimData/REGWQ_Example-Output.docx">
+	SPSS output</a> should look like.</p></li>
+</ul>
+	</li>
+	<li>
+	<p style="margin-top: 3px; margin-bottom: 3px">
+	<a href="http://core.ecu.edu/psyc/wuenschk/index.htm">Visit Karl's Index Page</a> -- search for other information on Karl's pages</p></li>
+</ul>
+<p>&nbsp;</p>
+<p><a href="http://core.ecu.edu/psyc/wuenschk/klw.htm">
+<img src="ANOVA%20Homework_files/web2.gif" alt="spider in web" align="LEFT"></a> <br>
+<a href="http://core.ecu.edu/psyc/wuenschk/klw.htm">Contact Information for the Webmaster</a>,<br> Dr. Karl L. Wuensch<br>
+<br><br>This page most recently revised on 27-Feb-2019.&nbsp; 
+<b><font face="Arial"></font></b></p><p align="CENTER"><b><font face="Arial">
+
+<font face="Arial, Helvetica, sans-serif">
+<sup><font size="5" face="Arial, Helvetica, sans-serif">©</font></sup></font> Copyright 2019, Karl L. Wuensch - All rights reserved.
+
+
+</font></b></p></font></body><script>
+  {
+    const open = XMLHttpRequest.prototype.open;
+    XMLHttpRequest.prototype.open = function (method, url) {
+      open.apply(this, arguments);
+      this.addEventListener('readystatechange', function _() {
+        if(this.readyState == this.HEADERS_RECEIVED) {
+          const contentType = this.getResponseHeader('Content-Type') || '';
+          if (contentType.startsWith('video/') || contentType.startsWith('audio/')) {
+            window.postMessage({
+              source: 'xmlhttprequest-open',
+              url,
+              mime: contentType,
+              method,
+              contentType
+            }, '*');
+          }
+          this.removeEventListener('readystatechange', _);
+        }
+      })
+    }
+  }
+  </script></html>
