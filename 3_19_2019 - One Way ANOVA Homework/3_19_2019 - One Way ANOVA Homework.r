@@ -38,3 +38,5 @@ DAT$`type of imagined infidelity` <- as.numeric(DAT$`type of imagined infidelity
 library(mutoss)
 REGWQ_OUTPUT <- regwq(`type of imagined infidelity` ~ PULSE, data = DATA, alpha = 0.05)
 
+# soMETHING DIFFERENT
+
