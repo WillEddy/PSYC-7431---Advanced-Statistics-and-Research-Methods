@@ -39,3 +39,8 @@ library(mutoss)
 REGWQ_OUTPUT <- regwq(`type of imagined infidelity` ~ PULSE, data = DATA, alpha = 0.05)
 
 
+
+# NOTES FROM SCHOEMANN
+# Use function pairwise.t.test. Uses holm correction instead. Use p.adjust modifier
+# edge cases are where it matters what correction you use.
+# 
