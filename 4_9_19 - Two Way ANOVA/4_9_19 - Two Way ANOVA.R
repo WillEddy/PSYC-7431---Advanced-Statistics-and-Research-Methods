@@ -37,6 +37,14 @@ aggregate(DATA$Pulse_Increase, by=list(DATA$Type.of.Imagined.Infidelity), FUN=me
 
 omnibus <-aov(DATA$Pulse_Increase ~ DATA$Gender.Sex*DATA$Type.of.Imagined.Infidelity)
 summary(omnibus)
+# eta-squared for Gender.Sex
+99/(99+5794)
+# eta-squared for Type.of.Imagined.Infidelity
+2/(2+5794)
+# eta-squared for Gender.Sex*Type.of.Imagined.Infidelity
+44/(44+5794)
+
+
 
 # Simple Main Effects
 
