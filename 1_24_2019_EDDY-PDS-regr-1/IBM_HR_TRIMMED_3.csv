@@ -1,0 +1,1408 @@
+﻿EmployeeNumber,Attrition,Department,DistanceFromHome,Education,EmployeeCount,EnvironmentSatisfaction,JobInvolvement,JobLevel,JobRole,JobSatisfaction,NumCompaniesWorked,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StandardHours,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance
+81,No,Research & Development,25,3,1,1,3,3,Sales Executive,1,7,No,11,3,4,80,0,28,3,2
+83,No,Research & Development,8,3,1,3,3,3,Healthcare Representative,3,1,No,13,3,2,80,3,17,2,3
+84,No,Research & Development,8,3,1,4,3,4,Manager,3,2,Yes,14,3,3,80,3,21,2,3
+85,No,Research & Development,11,3,1,2,2,2,Manufacturing Director,2,1,No,13,3,3,80,0,6,3,3
+86,No,Research & Development,7,3,1,2,3,3,Research Scientist,1,2,No,17,3,3,80,1,25,2,3
+88,No,Research & Development,1,3,1,2,3,1,Research Scientist,1,4,No,13,3,4,80,1,5,2,2
+90,Yes,Research & Development,9,3,1,4,2,1,Research Scientist,3,0,Yes,17,3,1,80,1,2,0,2
+91,No,Research & Development,1,1,1,1,2,2,Sales Executive,3,7,No,11,3,4,80,0,20,2,2
+94,No,Research & Development,2,3,1,3,3,1,Research Scientist,2,0,No,23,4,4,80,1,6,3,3
+95,No,Research & Development,1,4,1,3,3,1,Research Scientist,2,1,No,17,3,2,80,0,1,4,3
+96,No,Research & Development,1,3,1,2,3,2,Research Scientist,2,1,No,17,3,2,80,2,10,3,3
+97,No,Research & Development,6,3,1,2,4,1,Laboratory Technician,4,3,No,12,3,2,80,0,5,3,3
+98,No,Research & Development,8,4,1,3,3,2,Manufacturing Director,4,1,No,23,4,4,80,0,11,2,3
+100,No,Research & Development,1,4,1,3,2,2,Sales Executive,1,0,No,14,3,2,80,0,16,2,3
+101,No,Research & Development,6,4,1,4,3,3,Research Director,1,4,Yes,14,3,2,80,0,17,3,4
+102,No,Research & Development,7,4,1,1,3,3,Research Director,3,4,No,13,3,1,80,0,16,3,4
+103,No,Research & Development,5,2,1,2,3,2,Human Resources,2,8,Yes,22,4,4,80,1,16,2,3
+104,No,Research & Development,1,1,1,4,2,2,Laboratory Technician,4,1,Yes,12,3,3,80,2,10,1,2
+105,No,Research & Development,1,3,1,2,2,1,Research Scientist,3,1,No,18,3,1,80,0,6,3,3
+106,No,Research & Development,1,2,1,1,3,3,Sales Executive,4,3,No,14,3,4,80,1,24,4,3
+107,No,Research & Development,6,3,1,2,1,2,Research Scientist,4,7,Yes,12,3,4,80,3,17,3,3
+110,No,Research & Development,1,2,1,1,3,2,Manufacturing Director,2,1,No,15,3,3,80,0,5,2,3
+112,No,Research & Development,7,3,1,4,1,3,Manufacturing Director,4,4,No,11,3,1,80,0,37,3,2
+113,No,Research & Development,2,1,1,3,3,1,Sales Representative,1,3,No,13,3,3,80,1,3,3,3
+116,No,Research & Development,9,4,1,4,3,1,Laboratory Technician,4,3,No,23,4,2,80,2,10,4,3
+117,No,Research & Development,2,3,1,3,2,2,Healthcare Representative,4,1,No,19,3,1,80,3,11,3,3
+118,Yes,Research & Development,9,2,1,3,2,3,Sales Executive,4,1,No,16,3,4,80,0,9,3,3
+119,No,Research & Development,1,4,1,3,2,4,Healthcare Representative,2,1,No,22,4,4,80,1,22,3,2
+120,No,Research & Development,21,4,1,3,3,2,Sales Executive,4,0,Yes,22,4,4,80,0,11,2,1
+121,No,Research & Development,4,2,1,3,2,2,Sales Executive,2,1,Yes,12,3,2,80,3,11,4,2
+124,No,Research & Development,1,3,1,3,2,3,Healthcare Representative,1,2,Yes,13,3,3,80,1,21,5,2
+125,No,Research & Development,6,4,1,2,3,2,Sales Executive,3,1,No,16,3,1,80,0,12,0,3
+126,No,Research & Development,2,4,1,1,3,3,Research Director,3,9,No,12,3,1,80,1,16,5,1
+128,No,Research & Development,3,2,1,1,3,2,Sales Executive,3,0,No,21,4,1,80,1,4,2,2
+129,No,Research & Development,4,3,1,2,3,2,Sales Executive,3,1,No,15,3,2,80,0,5,3,4
+131,No,Research & Development,10,4,1,4,3,4,Sales Executive,3,0,No,13,3,3,80,0,38,1,2
+132,No,Research & Development,23,3,1,2,3,2,Laboratory Technician,2,4,No,12,3,3,80,1,17,3,4
+133,Yes,Research & Development,6,4,1,3,3,1,Human Resources,1,4,Yes,22,4,4,80,0,7,3,3
+134,No,Research & Development,1,1,1,4,3,1,Research Scientist,1,1,No,13,3,4,80,0,1,2,3
+137,Yes,Research & Development,6,3,1,4,2,1,Laboratory Technician,4,1,Yes,18,3,2,80,0,1,5,3
+138,No,Research & Development,6,4,1,1,3,2,Research Scientist,3,1,No,14,3,3,80,0,16,3,3
+139,No,Research & Development,2,2,1,3,2,2,Healthcare Representative,4,5,No,14,3,4,80,1,17,2,4
+140,No,Research & Development,2,4,1,3,2,5,Manager,4,9,No,21,4,4,80,1,30,3,3
+141,No,Research & Development,1,3,1,1,3,5,Research Director,2,3,Yes,19,3,1,80,0,28,1,2
+142,Yes,Research & Development,5,3,1,3,2,2,Sales Executive,3,1,Yes,11,3,4,80,0,6,1,3
+143,No,Research & Development,7,1,1,4,2,1,Research Scientist,4,1,No,11,3,3,80,2,2,2,3
+144,No,Research & Development,15,3,1,2,3,1,Laboratory Technician,4,1,No,15,3,3,80,0,1,5,3
+145,No,Research & Development,1,4,1,1,2,3,Healthcare Representative,1,3,No,20,4,3,80,0,23,1,2
+147,Yes,Research & Development,7,3,1,1,1,2,Laboratory Technician,3,1,Yes,24,4,4,80,0,9,3,3
+148,No,Research & Development,26,3,1,4,4,4,Manager,4,2,Yes,12,3,3,80,0,23,3,3
+150,No,Research & Development,18,1,1,2,3,1,Laboratory Technician,3,0,No,12,3,3,80,1,6,2,3
+151,No,Research & Development,6,4,1,3,2,2,Research Scientist,2,6,No,15,3,3,80,1,12,3,3
+152,No,Research & Development,3,3,1,3,3,3,Sales Executive,4,2,No,12,3,1,80,0,12,3,3
+153,No,Research & Development,5,3,1,3,2,3,Manager,1,2,No,12,3,4,80,0,14,6,3
+154,No,Research & Development,11,2,1,2,3,3,Sales Executive,4,0,No,14,3,3,80,1,10,6,3
+155,No,Research & Development,3,2,1,1,3,1,Laboratory Technician,4,5,No,22,4,1,80,1,7,2,3
+158,No,Research & Development,26,2,1,3,3,4,Manager,4,1,Yes,12,3,4,80,2,25,3,4
+159,No,Research & Development,23,3,1,1,1,1,Research Scientist,3,1,No,25,4,3,80,3,10,2,2
+160,No,Research & Development,22,2,1,3,3,2,Sales Executive,2,0,No,13,3,1,80,1,8,2,4
+161,Yes,Research & Development,14,4,1,2,3,1,Research Scientist,2,9,Yes,18,3,1,80,3,7,2,3
+162,No,Research & Development,6,3,1,1,3,5,Research Director,3,7,No,13,3,3,80,0,23,5,3
+163,Yes,Research & Development,6,4,1,2,1,2,Sales Executive,3,4,Yes,18,3,2,80,0,12,3,2
+164,No,Research & Development,6,3,1,3,2,1,Research Scientist,2,1,No,19,3,3,80,0,5,3,2
+165,Yes,Research & Development,23,4,1,4,3,3,Healthcare Representative,4,1,No,12,3,4,80,1,40,3,2
+167,Yes,Research & Development,22,1,1,4,3,1,Sales Representative,3,1,Yes,19,3,4,80,0,0,2,2
+169,No,Research & Development,2,1,1,3,3,1,Laboratory Technician,4,0,No,14,3,3,80,1,3,2,3
+170,No,Research & Development,20,4,1,3,3,2,Manufacturing Director,1,1,No,14,3,3,80,0,16,2,2
+171,No,Research & Development,28,3,1,2,4,1,Research Scientist,3,4,No,12,3,4,80,0,18,2,3
+174,No,Research & Development,12,3,1,3,3,3,Sales Executive,4,4,No,11,3,4,80,0,16,3,3
+175,Yes,Research & Development,20,3,1,2,1,2,Sales Executive,3,3,Yes,11,3,3,80,1,4,2,3
+176,No,Research & Development,9,1,1,3,3,3,Sales Executive,3,3,Yes,13,3,3,80,1,12,2,3
+177,No,Research & Development,25,1,1,3,3,1,Human Resources,3,1,No,23,4,4,80,1,8,3,3
+178,No,Research & Development,6,2,1,2,3,2,Manufacturing Director,2,6,No,20,4,4,80,2,7,0,3
+179,Yes,Research & Development,8,4,1,1,1,3,Manufacturing Director,4,2,No,15,3,4,80,0,18,2,3
+182,No,Research & Development,4,4,1,4,2,2,Sales Executive,3,4,No,14,3,3,80,1,17,1,4
+183,No,Research & Development,28,3,1,1,2,2,Sales Executive,3,2,No,18,3,4,80,0,6,3,3
+184,No,Research & Development,9,3,1,3,3,2,Human Resources,4,0,Yes,19,3,4,80,0,12,2,1
+190,Yes,Research & Development,9,3,1,1,3,1,Laboratory Technician,1,7,No,22,4,1,80,0,10,2,4
+192,No,Research & Development,29,3,1,3,3,1,Research Scientist,4,5,No,13,3,2,80,0,9,2,2
+193,No,Research & Development,3,5,1,4,3,2,Research Scientist,3,3,Yes,20,4,2,80,0,19,2,3
+194,No,Research & Development,18,3,1,1,3,1,Research Scientist,3,1,No,14,3,3,80,0,5,4,2
+195,No,Research & Development,9,2,1,4,1,2,Sales Executive,4,0,No,17,3,4,80,3,9,2,4
+197,No,Research & Development,5,3,1,4,3,1,Research Scientist,1,5,No,14,3,4,80,1,8,3,3
+198,No,Research & Development,2,1,1,2,2,1,Laboratory Technician,4,0,No,13,3,4,80,0,6,3,3
+199,No,Research & Development,10,3,1,4,2,4,Manager,1,4,No,13,3,2,80,1,21,2,2
+200,No,Research & Development,9,4,1,3,3,1,Laboratory Technician,1,2,No,21,4,4,80,1,7,2,3
+201,No,Research & Development,3,1,1,2,3,1,Laboratory Technician,2,1,No,14,3,4,80,0,1,3,3
+202,No,Research & Development,26,3,1,2,3,2,Research Scientist,2,1,No,11,3,1,80,1,20,2,3
+204,No,Research & Development,1,5,1,3,3,3,Sales Executive,2,1,No,13,3,1,80,2,10,3,3
+205,No,Research & Development,6,2,1,2,3,2,Sales Representative,3,2,Yes,20,4,4,80,1,13,3,1
+206,No,Research & Development,9,3,1,2,3,2,Laboratory Technician,2,8,No,18,3,3,80,1,20,2,1
+207,No,Research & Development,8,3,1,2,3,3,Sales Executive,4,1,No,14,3,4,80,0,9,2,3
+208,No,Research & Development,1,1,1,4,3,2,Manufacturing Director,3,1,No,13,3,1,80,1,10,1,3
+211,No,Research & Development,7,4,1,2,2,2,Manufacturing Director,3,2,No,17,3,3,80,0,10,2,3
+214,No,Research & Development,9,3,1,2,2,1,Research Scientist,2,4,Yes,20,4,2,80,1,9,3,2
+215,No,Research & Development,4,4,1,3,2,3,Sales Executive,4,7,No,11,3,1,80,1,15,2,2
+216,No,Research & Development,2,4,1,3,3,1,Sales Representative,3,6,No,18,3,4,80,1,6,3,3
+217,No,Research & Development,19,1,1,3,3,1,Research Scientist,4,1,No,24,4,1,80,2,2,6,3
+218,No,Research & Development,9,3,1,4,3,1,Research Scientist,2,6,No,18,3,4,80,1,6,1,1
+221,No,Research & Development,21,3,1,3,3,1,Research Scientist,4,1,No,11,3,3,80,1,5,2,1
+223,No,Research & Development,24,2,1,3,4,3,Healthcare Representative,4,3,Yes,16,3,2,80,1,12,2,1
+224,No,Research & Development,3,3,1,3,2,1,Research Scientist,3,1,Yes,15,3,4,80,1,1,2,2
+226,No,Research & Development,11,3,1,3,3,5,Manager,2,3,No,15,3,2,80,0,21,5,3
+227,No,Research & Development,14,3,1,1,3,1,Research Scientist,3,4,No,12,3,1,80,1,13,2,3
+228,No,Research & Development,5,3,1,2,3,3,Sales Executive,4,2,No,12,3,3,80,1,12,2,3
+230,No,Research & Development,1,4,1,1,2,2,Sales Executive,4,4,No,22,4,3,80,0,12,2,4
+231,No,Research & Development,6,5,1,3,3,1,Research Scientist,3,3,No,20,4,1,80,0,8,2,3
+233,No,Research & Development,17,3,1,3,3,1,Research Scientist,2,0,Yes,16,3,4,80,1,6,3,2
+235,Yes,Research & Development,1,1,1,3,1,1,Sales Representative,1,0,No,21,4,1,80,0,1,5,4
+238,No,Research & Development,3,2,1,4,3,1,Laboratory Technician,2,4,No,12,3,3,80,0,13,3,2
+239,No,Research & Development,9,3,1,3,3,2,Laboratory Technician,1,1,No,11,3,3,80,2,12,4,3
+240,No,Research & Development,4,2,1,3,3,2,Sales Executive,1,4,Yes,11,3,1,80,1,9,3,4
+241,No,Research & Development,8,3,1,3,3,1,Research Scientist,1,4,Yes,18,3,3,80,1,19,3,3
+242,No,Research & Development,2,3,1,3,3,1,Research Scientist,4,0,No,14,3,1,80,0,4,2,4
+243,Yes,Research & Development,2,3,1,2,2,1,Laboratory Technician,4,1,No,22,4,3,80,0,1,3,2
+244,No,Research & Development,1,2,1,2,3,3,Sales Executive,1,1,No,25,4,3,80,3,24,2,3
+245,No,Research & Development,9,2,1,3,3,1,Laboratory Technician,4,1,No,12,3,3,80,0,2,3,3
+246,No,Research & Development,12,1,1,3,3,1,Research Scientist,4,8,Yes,23,4,3,80,1,7,0,3
+247,No,Research & Development,27,2,1,4,3,1,Research Scientist,2,2,No,15,3,4,80,0,9,3,3
+248,Yes,Research & Development,20,2,1,2,3,1,Sales Representative,2,1,Yes,22,4,4,80,0,4,5,2
+249,No,Research & Development,1,3,1,3,2,1,Laboratory Technician,3,2,No,15,3,4,80,1,5,2,2
+250,No,Research & Development,13,2,1,4,4,2,Manufacturing Director,1,1,No,11,3,3,80,2,5,3,3
+252,No,Research & Development,14,3,1,4,3,1,Research Scientist,2,1,No,13,3,4,80,1,8,5,3
+253,No,Research & Development,4,1,1,4,3,5,Manager,3,1,No,14,3,2,80,1,21,2,3
+254,No,Research & Development,14,4,1,3,4,5,Research Director,2,8,No,11,3,4,80,0,36,3,3
+256,No,Research & Development,2,1,1,4,2,2,Manufacturing Director,3,1,No,17,3,3,80,0,10,2,2
+258,No,Research & Development,3,3,1,4,3,4,Healthcare Representative,2,3,No,18,3,3,80,0,21,6,3
+259,No,Research & Development,1,4,1,3,2,5,Manager,3,0,No,14,3,1,80,1,34,5,3
+260,No,Research & Development,9,3,1,4,3,1,Research Scientist,2,1,No,16,3,4,80,0,7,2,2
+261,Yes,Research & Development,23,2,1,2,2,2,Manufacturing Director,3,3,Yes,13,3,1,80,0,8,1,3
+262,No,Research & Development,7,3,1,4,4,1,Research Scientist,4,4,No,14,3,4,80,3,7,3,4
+264,No,Research & Development,2,2,1,1,2,4,Manager,4,9,No,23,4,4,80,1,22,1,3
+267,No,Research & Development,21,3,1,2,4,1,Research Scientist,1,1,Yes,12,3,1,80,1,8,3,2
+269,No,Research & Development,2,3,1,2,3,2,Laboratory Technician,2,5,No,11,3,4,80,0,10,5,3
+270,No,Research & Development,21,2,1,3,3,2,Manufacturing Director,3,2,No,16,3,2,80,1,11,5,3
+271,No,Research & Development,2,4,1,4,3,2,Manufacturing Director,3,9,No,14,3,2,80,0,14,3,3
+273,No,Research & Development,29,3,1,4,3,2,Manufacturing Director,4,3,No,18,3,1,80,1,9,3,1
+274,No,Research & Development,1,1,1,3,2,2,Manufacturing Director,1,5,No,19,3,3,80,1,6,1,3
+275,No,Research & Development,18,4,1,4,3,2,Manufacturing Director,4,1,Yes,15,3,1,80,2,7,0,3
+277,No,Research & Development,10,4,1,4,3,1,Research Scientist,3,1,Yes,17,3,4,80,1,5,4,4
+281,No,Research & Development,19,2,1,3,3,2,Laboratory Technician,4,8,Yes,15,3,3,80,1,15,2,4
+282,Yes,Research & Development,29,1,1,2,3,2,Healthcare Representative,1,7,Yes,19,3,2,80,0,17,2,3
+283,Yes,Research & Development,27,3,1,2,3,3,Sales Executive,4,1,No,22,4,4,80,3,10,3,2
+284,No,Research & Development,5,3,1,4,4,1,Research Scientist,2,1,Yes,16,3,1,80,1,4,2,2
+286,No,Research & Development,18,1,1,2,3,1,Laboratory Technician,4,1,No,13,3,1,80,0,8,2,3
+287,No,Research & Development,9,5,1,4,2,2,Healthcare Representative,4,9,No,14,3,4,80,1,5,5,1
+288,No,Research & Development,1,4,1,4,3,3,Healthcare Representative,1,7,No,16,3,3,80,1,17,3,3
+291,Yes,Research & Development,4,4,1,4,1,3,Sales Executive,4,1,No,11,3,3,80,0,14,2,2
+292,No,Research & Development,1,1,1,3,2,3,Manufacturing Director,3,1,No,22,4,3,80,0,12,2,3
+293,No,Research & Development,20,3,1,4,3,2,Sales Executive,3,1,No,14,3,4,80,0,7,2,3
+296,No,Research & Development,8,4,1,2,2,3,Research Director,2,5,No,16,3,4,80,2,16,5,1
+297,Yes,Research & Development,3,3,1,4,3,1,Research Scientist,1,5,Yes,11,3,3,80,0,8,5,3
+298,No,Research & Development,6,3,1,4,3,3,Manager,4,3,Yes,18,3,3,80,0,16,3,3
+299,Yes,Research & Development,26,4,1,3,2,2,Sales Executive,1,5,No,15,3,3,80,0,9,5,2
+300,Yes,Research & Development,1,3,1,3,3,1,Research Scientist,3,0,No,14,3,4,80,0,7,1,2
+302,No,Research & Development,6,3,1,4,2,3,Sales Executive,4,6,No,12,3,4,80,0,23,2,3
+303,No,Research & Development,3,3,1,4,3,2,Sales Executive,1,2,No,14,3,4,80,1,16,4,3
+304,No,Research & Development,5,2,1,4,3,2,Laboratory Technician,2,8,No,16,3,4,80,0,16,3,4
+305,No,Research & Development,4,4,1,3,2,1,Research Scientist,2,6,No,21,4,4,80,0,7,3,3
+306,No,Research & Development,11,3,1,2,3,3,Research Director,4,1,Yes,14,3,3,80,3,10,1,3
+307,No,Research & Development,3,3,1,1,3,3,Sales Executive,3,0,No,12,3,3,80,2,17,6,2
+308,No,Research & Development,1,4,1,3,1,2,Manufacturing Director,3,0,No,12,3,4,80,1,6,2,3
+309,No,Research & Development,3,3,1,3,2,1,Research Scientist,4,3,No,17,3,1,80,1,7,6,3
+311,No,Research & Development,4,4,1,1,3,1,Sales Representative,4,4,No,17,3,3,80,1,13,2,3
+312,No,Research & Development,1,1,1,2,3,3,Sales Executive,4,1,No,14,3,4,80,1,11,5,3
+314,No,Research & Development,1,3,1,3,3,3,Sales Executive,3,1,No,14,3,1,80,0,10,3,4
+315,Yes,Research & Development,18,1,1,3,2,1,Research Scientist,4,1,Yes,13,3,3,80,0,4,3,2
+316,No,Research & Development,2,3,1,3,2,1,Laboratory Technician,4,7,No,15,3,2,80,0,6,3,2
+319,No,Research & Development,4,2,1,3,3,5,Manager,4,1,No,11,3,4,80,0,22,3,3
+321,No,Research & Development,6,2,1,2,3,1,Human Resources,3,8,No,17,3,4,80,0,7,2,2
+323,No,Research & Development,1,4,1,4,3,5,Manager,4,3,No,11,3,3,80,1,32,3,2
+325,Yes,Research & Development,14,3,1,3,3,1,Laboratory Technician,4,5,Yes,13,3,3,80,1,8,2,1
+327,No,Research & Development,16,3,1,4,3,4,Manager,4,5,Yes,22,4,3,80,1,22,3,3
+328,Yes,Research & Development,2,2,1,1,3,1,Laboratory Technician,1,7,No,20,4,1,80,0,13,3,4
+329,No,Research & Development,2,4,1,1,2,5,Manager,3,1,Yes,18,3,4,80,0,33,2,4
+330,No,Research & Development,4,2,1,3,3,1,Sales Representative,2,2,No,11,3,1,80,1,6,5,3
+331,Yes,Research & Development,1,3,1,4,2,1,Laboratory Technician,3,0,Yes,14,3,4,80,0,4,2,1
+332,No,Research & Development,1,4,1,3,3,1,Laboratory Technician,3,7,No,14,3,3,80,3,7,1,3
+333,No,Research & Development,26,4,1,3,3,2,Sales Executive,4,0,No,18,3,1,80,0,4,2,3
+334,No,Research & Development,19,2,1,3,3,2,Research Scientist,1,2,No,16,3,1,80,2,17,2,2
+335,No,Research & Development,24,2,1,1,3,2,Research Scientist,4,1,No,17,3,1,80,2,9,3,3
+336,No,Research & Development,1,3,1,3,4,5,Manager,4,0,No,11,3,3,80,1,25,2,3
+337,No,Research & Development,3,4,1,2,3,3,Research Director,3,9,No,12,3,1,80,1,9,3,3
+338,No,Research & Development,5,4,1,3,2,1,Research Scientist,4,1,No,13,3,3,80,1,2,2,2
+339,No,Research & Development,2,4,1,4,2,2,Manufacturing Director,1,6,No,13,3,2,80,1,13,3,3
+340,No,Research & Development,1,2,1,3,2,1,Research Scientist,1,2,No,14,3,1,80,1,17,2,2
+341,No,Research & Development,7,4,1,1,4,2,Manufacturing Director,3,4,No,17,3,4,80,1,9,1,3
+342,Yes,Research & Development,10,3,1,1,3,3,Manufacturing Director,3,6,No,11,3,2,80,2,17,5,3
+343,No,Research & Development,2,4,1,3,3,3,Healthcare Representative,3,0,No,25,4,4,80,0,20,1,3
+346,No,Research & Development,15,3,1,3,3,1,Research Scientist,4,1,No,19,3,1,80,0,6,1,3
+347,No,Research & Development,17,2,1,4,4,2,Research Scientist,1,3,Yes,13,3,3,80,0,10,1,3
+349,No,Research & Development,20,2,1,4,3,2,Sales Executive,4,2,No,14,3,4,80,1,10,2,3
+350,No,Research & Development,1,3,1,1,3,2,Manufacturing Director,3,0,No,12,3,4,80,2,5,3,3
+351,No,Research & Development,2,3,1,4,2,1,Laboratory Technician,1,0,Yes,11,3,3,80,1,10,4,3
+352,No,Research & Development,2,2,1,1,3,5,Research Director,3,0,No,19,3,4,80,1,22,5,3
+353,No,Research & Development,1,3,1,3,3,1,Research Scientist,4,1,No,11,3,2,80,0,1,0,2
+355,Yes,Research & Development,29,2,1,3,2,1,Laboratory Technician,2,0,No,11,3,2,80,0,6,2,4
+359,No,Research & Development,7,3,1,2,4,1,Laboratory Technician,2,1,No,20,4,3,80,0,5,3,1
+361,No,Research & Development,2,2,1,4,2,2,Sales Executive,4,3,No,18,3,4,80,1,13,0,3
+362,No,Research & Development,2,1,1,4,2,2,Laboratory Technician,1,4,No,13,3,4,80,0,9,5,3
+363,No,Research & Development,2,3,1,3,1,4,Manager,2,3,Yes,12,3,2,80,1,28,2,2
+364,Yes,Research & Development,2,4,1,1,3,1,Laboratory Technician,3,2,No,11,3,3,80,0,5,5,1
+366,No,Research & Development,2,3,1,1,2,2,Sales Executive,2,2,No,19,3,2,80,2,10,2,3
+367,No,Research & Development,23,3,1,2,2,2,Healthcare Representative,4,0,No,21,4,2,80,1,10,2,3
+369,No,Research & Development,5,2,1,2,4,2,Healthcare Representative,1,1,No,12,3,4,80,2,6,2,3
+372,No,Research & Development,20,2,1,3,3,4,Healthcare Representative,4,0,Yes,14,3,2,80,0,21,2,3
+373,No,Research & Development,6,3,1,4,3,1,Laboratory Technician,4,0,No,11,3,3,80,1,16,4,3
+374,No,Research & Development,1,3,1,4,3,5,Manager,1,0,Yes,14,3,3,80,0,37,2,3
+376,Yes,Research & Development,29,4,1,1,3,3,Manager,2,1,Yes,12,3,4,80,1,10,2,2
+377,No,Research & Development,9,3,1,4,3,1,Research Scientist,4,1,No,23,4,4,80,1,5,3,2
+378,No,Research & Development,6,4,1,3,3,2,Sales Executive,4,4,No,14,3,2,80,1,7,5,4
+379,No,Research & Development,3,2,1,4,2,1,Research Scientist,3,1,No,17,3,1,80,0,3,4,4
+380,No,Research & Development,1,4,1,1,3,3,Research Director,4,2,Yes,18,3,1,80,2,15,2,3
+381,No,Research & Development,22,3,1,2,4,3,Manager,2,7,No,18,3,2,80,1,10,6,2
+382,No,Research & Development,7,2,1,1,4,2,Sales Executive,1,1,Yes,24,4,3,80,1,8,3,3
+384,No,Research & Development,1,3,1,3,3,2,Manufacturing Director,2,1,No,20,4,1,80,1,6,6,1
+385,No,Research & Development,4,1,1,1,3,5,Research Director,2,3,No,14,3,1,80,2,28,4,2
+386,No,Research & Development,3,4,1,3,3,4,Research Director,3,3,Yes,16,3,4,80,3,21,5,2
+387,No,Research & Development,1,1,1,2,3,2,Sales Executive,3,1,No,25,4,3,80,0,20,3,3
+388,No,Research & Development,2,2,1,2,3,2,Sales Executive,4,1,No,18,3,1,80,0,10,3,2
+389,No,Research & Development,20,2,1,2,3,2,Laboratory Technician,4,3,Yes,19,3,4,80,1,12,4,3
+390,No,Research & Development,11,2,1,1,3,2,Healthcare Representative,1,1,Yes,13,3,3,80,1,5,3,3
+391,No,Research & Development,1,3,1,4,3,1,Research Scientist,4,1,No,12,3,2,80,0,17,3,3
+392,Yes,Research & Development,24,3,1,4,3,1,Laboratory Technician,3,3,Yes,22,4,4,80,1,19,0,1
+393,No,Research & Development,23,4,1,4,3,2,Healthcare Representative,4,9,No,14,3,2,80,1,10,2,3
+394,Yes,Research & Development,16,4,1,1,3,1,Laboratory Technician,2,2,Yes,13,3,4,80,1,5,2,3
+395,No,Research & Development,8,2,1,4,3,1,Research Scientist,4,1,No,21,4,4,80,0,5,3,3
+396,No,Research & Development,10,4,1,3,3,5,Research Director,1,9,Yes,11,3,4,80,0,22,4,3
+397,No,Research & Development,3,3,1,3,3,2,Research Scientist,2,4,No,12,3,4,80,0,10,2,3
+399,No,Research & Development,5,3,1,4,3,1,Sales Representative,2,1,No,11,3,3,80,1,2,5,2
+401,Yes,Research & Development,4,4,1,4,2,2,Sales Executive,4,1,Yes,12,3,2,80,0,8,0,3
+403,No,Research & Development,9,3,1,2,3,1,Research Scientist,4,1,Yes,12,3,3,80,3,4,3,2
+404,No,Research & Development,26,3,1,3,3,4,Sales Executive,2,5,No,14,3,4,80,1,23,2,4
+405,Yes,Research & Development,3,3,1,3,3,1,Laboratory Technician,3,1,No,13,3,3,80,0,0,2,3
+406,No,Research & Development,16,3,1,3,3,3,Sales Executive,2,0,No,15,3,3,80,2,12,3,2
+407,No,Research & Development,18,4,1,3,4,1,Laboratory Technician,4,4,No,18,3,4,80,2,4,2,3
+408,No,Research & Development,2,3,1,4,1,2,Manufacturing Director,2,5,No,18,3,4,80,1,13,3,3
+410,No,Research & Development,2,4,1,4,3,4,Manager,2,1,No,19,3,2,80,0,22,2,3
+411,No,Research & Development,10,3,1,4,2,1,Sales Representative,3,1,No,12,3,1,80,0,0,2,3
+412,No,Research & Development,16,2,1,2,4,2,Healthcare Representative,1,0,No,19,3,3,80,0,9,2,3
+416,No,Research & Development,7,3,1,2,4,2,Sales Executive,4,4,No,11,3,2,80,1,10,3,2
+417,No,Research & Development,1,3,1,3,4,3,Healthcare Representative,4,0,No,17,3,1,80,3,19,5,2
+419,No,Research & Development,24,4,1,2,3,2,Laboratory Technician,2,7,No,15,3,3,80,1,11,3,3
+420,No,Research & Development,7,3,1,4,2,2,Sales Executive,3,1,No,14,3,3,80,1,13,3,2
+421,No,Research & Development,25,2,1,1,2,3,Research Director,2,3,No,17,3,3,80,1,19,2,3
+422,No,Research & Development,1,4,1,4,1,2,Healthcare Representative,3,2,Yes,13,3,4,80,1,12,2,3
+423,No,Research & Development,5,4,1,3,3,1,Research Scientist,4,0,Yes,12,3,3,80,1,6,4,3
+424,No,Research & Development,2,3,1,1,2,2,Human Resources,1,3,No,12,3,4,80,0,9,1,3
+425,No,Research & Development,7,3,1,1,3,3,Laboratory Technician,1,1,No,18,3,1,80,1,24,2,3
+426,No,Research & Development,2,4,1,3,3,1,Research Scientist,4,0,Yes,18,3,2,80,1,3,2,1
+428,No,Research & Development,5,4,1,4,3,3,Manager,2,6,No,11,3,2,80,2,12,2,3
+429,No,Research & Development,10,1,1,3,3,4,Manager,1,1,Yes,14,3,4,80,0,21,3,3
+430,No,Research & Development,10,4,1,3,3,1,Laboratory Technician,4,0,No,19,3,1,80,0,9,5,3
+431,No,Research & Development,1,2,1,3,2,4,Healthcare Representative,3,7,Yes,12,3,4,80,0,25,2,3
+433,Yes,Research & Development,8,4,1,3,2,2,Research Scientist,2,2,No,15,3,1,80,0,11,3,2
+434,No,Research & Development,5,3,1,3,3,1,Research Scientist,2,1,Yes,12,3,2,80,0,4,2,2
+436,No,Research & Development,8,2,1,3,2,2,Sales Executive,2,1,Yes,11,3,4,80,0,13,2,3
+437,No,Research & Development,2,3,1,4,3,2,Sales Executive,3,1,Yes,11,3,1,80,0,5,3,3
+438,No,Research & Development,7,3,1,4,3,2,Sales Executive,4,4,No,12,3,4,80,3,13,3,3
+439,No,Research & Development,2,4,1,1,4,2,Research Scientist,4,7,No,16,3,3,80,0,10,0,2
+440,Yes,Research & Development,2,4,1,1,1,1,Research Scientist,4,5,Yes,13,3,4,80,0,5,4,2
+441,No,Research & Development,28,2,1,4,3,2,Research Scientist,4,1,No,13,3,4,80,2,11,2,3
+442,No,Research & Development,7,2,1,3,2,3,Manufacturing Director,3,1,No,24,4,1,80,1,10,2,3
+444,No,Research & Development,7,2,1,3,2,5,Manager,4,1,No,15,3,1,80,1,21,2,3
+445,Yes,Research & Development,3,2,1,4,3,2,Sales Executive,3,4,Yes,18,3,1,80,0,12,3,2
+446,No,Research & Development,10,3,1,2,2,2,Sales Executive,4,3,No,14,3,3,80,0,9,6,2
+447,No,Research & Development,5,5,1,4,3,5,Research Director,3,4,No,11,3,2,80,1,21,2,3
+448,No,Research & Development,10,4,1,3,2,2,Laboratory Technician,3,1,No,11,3,2,80,1,9,3,4
+449,No,Research & Development,1,1,1,3,3,2,Sales Executive,2,0,Yes,13,3,4,80,1,6,0,3
+450,No,Research & Development,20,4,1,4,3,2,Research Scientist,3,3,No,12,3,4,80,0,20,4,2
+451,No,Research & Development,7,3,1,3,3,3,Healthcare Representative,1,8,No,16,3,1,80,1,10,1,2
+452,No,Research & Development,8,4,1,4,3,2,Research Scientist,4,9,No,14,3,1,80,2,12,3,3
+453,No,Research & Development,1,2,1,2,1,2,Sales Executive,4,2,Yes,22,4,3,80,3,6,2,2
+454,Yes,Research & Development,8,4,1,2,1,1,Laboratory Technician,1,1,Yes,11,3,4,80,0,7,4,2
+455,No,Research & Development,9,5,1,2,2,1,Laboratory Technician,4,0,No,17,3,3,80,0,4,2,3
+456,No,Research & Development,5,3,1,4,2,2,Sales Executive,3,1,No,13,3,3,80,3,10,2,3
+458,No,Research & Development,8,4,1,2,3,2,Sales Executive,2,1,No,18,3,1,80,1,8,3,3
+460,No,Research & Development,5,2,1,4,3,2,Manufacturing Director,4,7,No,16,3,3,80,2,8,2,2
+461,No,Research & Development,15,2,1,3,2,3,Research Director,4,0,Yes,14,3,2,80,1,12,3,3
+462,No,Research & Development,7,4,1,3,3,3,Manufacturing Director,4,1,Yes,14,3,3,80,0,11,2,2
+463,No,Research & Development,10,1,1,4,2,2,Sales Executive,2,1,Yes,14,3,1,80,2,7,2,3
+464,No,Research & Development,5,4,1,3,3,3,Manufacturing Director,2,0,No,13,3,4,80,0,17,5,3
+465,No,Research & Development,26,1,1,3,3,1,Research Scientist,4,1,No,12,3,3,80,2,4,2,2
+466,No,Research & Development,6,3,1,4,2,2,Manufacturing Director,2,6,Yes,15,3,4,80,0,8,3,3
+467,No,Research & Development,4,1,1,2,3,2,Sales Representative,3,3,No,19,3,1,80,0,5,3,3
+468,No,Research & Development,23,5,1,1,3,4,Research Director,4,2,No,14,3,2,80,0,16,2,3
+469,No,Research & Development,2,3,1,4,3,2,Sales Executive,3,1,No,14,3,1,80,1,4,3,2
+470,No,Research & Development,2,1,1,3,3,1,Human Resources,3,0,Yes,11,3,3,80,1,4,5,3
+471,No,Research & Development,2,3,1,3,3,1,Laboratory Technician,2,1,No,13,3,3,80,1,8,4,3
+473,No,Research & Development,29,1,1,1,3,3,Manager,3,3,No,21,4,2,80,1,15,3,1
+474,No,Research & Development,6,3,1,3,4,2,Research Scientist,1,4,Yes,13,3,1,80,2,13,2,3
+475,No,Research & Development,25,2,1,4,3,2,Sales Executive,3,7,Yes,12,3,2,80,1,4,2,4
+476,No,Research & Development,1,3,1,3,3,2,Sales Executive,3,1,No,17,3,2,80,1,8,3,3
+477,No,Research & Development,2,4,1,1,2,2,Healthcare Representative,4,3,No,23,4,2,80,0,14,6,3
+478,Yes,Research & Development,1,1,1,1,2,1,Sales Representative,2,1,Yes,11,3,3,80,0,3,3,3
+479,No,Research & Development,1,5,1,4,3,2,Sales Executive,4,4,No,15,3,2,80,0,7,6,3
+481,No,Research & Development,3,4,1,1,2,3,Sales Executive,4,4,No,11,3,1,80,1,16,2,3
+482,No,Research & Development,1,4,1,4,3,2,Healthcare Representative,3,2,No,11,3,3,80,0,15,2,3
+483,No,Research & Development,10,4,1,4,4,1,Laboratory Technician,3,3,Yes,13,3,3,80,1,10,3,3
+484,No,Research & Development,9,2,1,1,3,1,Sales Representative,4,1,No,24,4,3,80,0,3,3,2
+485,Yes,Research & Development,5,3,1,4,3,1,Sales Representative,3,1,Yes,13,3,2,80,0,1,2,3
+486,No,Research & Development,10,3,1,3,3,1,Laboratory Technician,1,6,No,20,4,2,80,1,17,3,3
+487,No,Research & Development,7,4,1,3,3,2,Manufacturing Director,3,2,No,14,3,3,80,0,7,2,4
+488,Yes,Research & Development,4,3,1,1,3,2,Sales Executive,2,1,No,18,3,3,80,0,8,5,3
+491,No,Research & Development,10,3,1,4,2,3,Healthcare Representative,4,6,No,15,3,4,80,0,20,2,3
+492,Yes,Research & Development,22,2,1,3,2,2,Sales Executive,3,2,Yes,12,3,1,80,2,8,6,3
+493,No,Research & Development,9,4,1,3,2,1,Research Scientist,2,0,Yes,16,3,4,80,0,3,5,3
+494,Yes,Research & Development,12,3,1,3,4,1,Sales Representative,2,1,No,15,3,4,80,0,1,0,3
+495,No,Research & Development,23,3,1,4,3,1,Research Scientist,4,9,No,16,3,4,80,0,6,4,3
+496,No,Research & Development,9,4,1,3,2,2,Healthcare Representative,2,9,No,19,3,3,80,0,10,5,3
+497,No,Research & Development,1,2,1,4,3,1,Laboratory Technician,2,1,No,11,3,2,80,1,5,2,3
+498,No,Research & Development,9,4,1,2,3,2,Sales Executive,4,1,No,16,3,4,80,0,7,1,3
+499,No,Research & Development,7,3,1,2,2,3,Healthcare Representative,3,8,No,24,4,3,80,0,26,2,3
+500,No,Research & Development,14,2,1,3,3,2,Sales Executive,4,4,No,11,3,3,80,1,18,2,2
+501,No,Research & Development,2,3,1,4,3,1,Research Scientist,3,4,No,13,3,2,80,1,6,3,3
+502,Yes,Research & Development,19,3,1,1,4,2,Sales Executive,4,8,Yes,13,3,2,80,0,9,3,2
+505,No,Research & Development,2,3,1,3,3,4,Manager,4,2,Yes,13,3,3,80,0,30,2,3
+507,No,Research & Development,10,4,1,4,3,2,Sales Executive,3,1,Yes,12,3,4,80,1,5,2,4
+508,No,Research & Development,2,1,1,3,3,1,Sales Representative,2,1,No,18,3,1,80,1,1,3,3
+510,Yes,Research & Development,3,1,1,3,3,1,Research Scientist,1,0,No,22,4,3,80,0,7,2,3
+511,No,Research & Development,11,3,1,1,3,1,Research Scientist,2,1,No,13,3,4,80,1,2,1,3
+513,No,Research & Development,2,2,1,2,2,3,Sales Executive,3,1,No,13,3,2,80,2,10,2,3
+514,Yes,Research & Development,4,3,1,3,3,1,Research Scientist,4,9,Yes,23,4,3,80,0,3,4,3
+515,No,Research & Development,14,3,1,4,3,1,Laboratory Technician,1,1,No,12,3,3,80,1,18,2,2
+516,No,Research & Development,2,2,1,4,3,2,Sales Executive,2,7,No,12,3,3,80,2,8,5,3
+517,No,Research & Development,1,4,1,2,3,1,Laboratory Technician,1,3,No,16,3,2,80,1,8,5,3
+518,No,Research & Development,10,4,1,3,3,2,Manufacturing Director,2,2,Yes,12,3,4,80,0,18,2,2
+520,No,Research & Development,12,3,1,1,2,4,Research Director,2,1,No,11,3,3,80,1,25,3,3
+521,No,Research & Development,2,3,1,2,2,2,Laboratory Technician,3,6,No,22,4,2,80,1,20,3,3
+522,No,Research & Development,5,2,1,1,3,5,Research Director,1,4,No,11,3,3,80,1,24,4,2
+523,No,Research & Development,4,4,1,3,3,2,Sales Executive,3,9,No,15,3,1,80,1,6,3,3
+524,No,Research & Development,7,2,1,2,3,2,Manufacturing Director,1,1,No,12,3,2,80,1,13,5,1
+525,No,Research & Development,21,3,1,4,3,1,Laboratory Technician,4,7,No,20,4,1,80,1,8,1,3
+526,No,Research & Development,8,4,1,3,3,2,Healthcare Representative,3,4,Yes,14,3,4,80,0,8,3,3
+527,No,Research & Development,4,2,1,2,2,2,Sales Executive,4,1,Yes,11,3,2,80,0,5,3,3
+529,No,Research & Development,25,5,1,2,3,2,Research Scientist,3,3,Yes,15,3,1,80,2,15,2,3
+530,No,Research & Development,1,2,1,4,2,1,Laboratory Technician,1,1,No,12,3,3,80,1,4,3,3
+531,No,Research & Development,1,1,1,2,3,5,Manager,3,1,Yes,14,3,3,80,1,21,3,3
+532,No,Research & Development,6,3,1,3,4,4,Sales Executive,1,9,No,11,3,4,80,3,36,0,2
+533,No,Research & Development,12,3,1,2,3,2,Sales Executive,3,0,No,11,3,2,80,0,6,6,3
+534,No,Research & Development,1,3,1,2,4,3,Sales Executive,1,1,No,16,3,3,80,1,10,2,3
+536,No,Research & Development,17,2,1,3,3,2,Laboratory Technician,1,1,No,12,3,4,80,1,10,2,3
+538,Yes,Research & Development,3,3,1,1,3,1,Laboratory Technician,1,5,No,13,3,3,80,1,6,5,3
+543,No,Research & Development,3,3,1,4,2,3,Manufacturing Director,3,2,Yes,14,3,3,80,0,28,4,3
+544,No,Research & Development,10,2,1,1,3,1,Research Scientist,4,3,No,21,4,4,80,2,8,3,2
+546,No,Research & Development,4,2,1,4,3,4,Manager,4,2,No,13,3,4,80,0,31,2,1
+547,No,Research & Development,29,2,1,1,3,2,Research Scientist,3,2,No,11,3,2,80,1,19,3,3
+548,No,Research & Development,2,3,1,3,1,2,Manufacturing Director,4,2,No,20,4,3,80,0,11,2,3
+549,No,Research & Development,7,3,1,1,3,5,Manager,1,5,No,11,3,4,80,0,33,5,1
+550,No,Research & Development,18,3,1,3,3,2,Manufacturing Director,3,2,No,14,3,3,80,1,19,5,2
+551,No,Research & Development,28,4,1,4,2,2,Healthcare Representative,4,0,No,11,3,4,80,3,7,4,4
+554,Yes,Research & Development,1,1,1,1,3,1,Sales Representative,2,1,Yes,16,3,2,80,0,6,4,3
+555,Yes,Research & Development,6,2,1,4,1,1,Sales Representative,3,0,No,16,3,4,80,1,3,3,2
+556,No,Research & Development,2,2,1,4,3,1,Laboratory Technician,4,1,Yes,23,4,3,80,1,1,3,3
+558,No,Research & Development,2,4,1,3,3,5,Manager,3,0,No,14,3,4,80,0,21,2,3
+560,No,Research & Development,23,3,1,1,3,1,Research Scientist,4,1,No,22,4,2,80,2,3,3,1
+562,No,Research & Development,3,3,1,3,3,1,Laboratory Technician,4,4,No,15,3,3,80,1,9,3,1
+564,No,Research & Development,3,4,1,2,2,3,Research Director,3,1,No,18,3,3,80,0,10,2,3
+565,Yes,Research & Development,25,5,1,3,2,1,Research Scientist,2,5,No,16,3,2,80,0,6,2,4
+566,Yes,Research & Development,2,2,1,1,2,1,Human Resources,4,1,No,12,3,3,80,0,1,3,4
+567,No,Research & Development,22,4,1,3,3,3,Sales Executive,1,0,No,11,3,3,80,0,10,3,3
+568,No,Research & Development,29,3,1,1,2,4,Manager,4,3,No,12,3,3,80,1,32,3,2
+569,No,Research & Development,29,4,1,2,2,4,Manager,3,0,No,15,3,2,80,1,28,2,3
+571,No,Research & Development,2,3,1,3,3,1,Laboratory Technician,4,0,No,14,3,3,80,0,12,2,2
+573,No,Research & Development,28,3,1,3,2,3,Sales Executive,1,4,No,19,3,4,80,0,22,5,4
+574,No,Research & Development,2,2,1,1,3,2,Manufacturing Director,4,5,No,13,3,3,80,3,20,2,3
+575,No,Research & Development,2,3,1,1,3,4,Research Director,3,6,No,13,3,3,80,0,26,2,1
+577,No,Research & Development,22,3,1,4,1,1,Laboratory Technician,3,0,No,15,3,3,80,0,6,2,3
+578,No,Research & Development,8,4,1,3,3,2,Laboratory Technician,3,7,No,11,3,3,80,0,19,3,3
+579,No,Research & Development,2,4,1,4,2,1,Research Scientist,3,3,No,12,3,3,80,1,14,3,3
+580,No,Research & Development,10,3,1,3,2,3,Sales Executive,4,2,Yes,19,3,3,80,1,15,3,3
+581,No,Research & Development,9,1,1,3,3,3,Manufacturing Director,2,1,No,25,4,4,80,1,13,6,4
+582,Yes,Research & Development,15,1,1,2,3,3,Manager,3,7,Yes,12,3,4,80,0,15,2,4
+584,Yes,Research & Development,10,1,1,1,1,1,Laboratory Technician,4,7,No,13,3,1,80,3,8,2,3
+585,No,Research & Development,7,1,1,4,3,1,Sales Representative,2,0,No,14,3,1,80,0,4,3,3
+586,No,Research & Development,16,3,1,4,3,3,Healthcare Representative,3,4,Yes,12,3,3,80,0,10,2,3
+587,Yes,Research & Development,20,3,1,1,3,3,Healthcare Representative,3,3,No,12,3,1,80,0,12,2,3
+590,Yes,Research & Development,23,3,1,2,3,3,Human Resources,1,9,Yes,15,3,3,80,3,11,2,3
+591,No,Research & Development,5,2,1,2,3,1,Laboratory Technician,3,4,No,17,3,4,80,1,8,4,3
+592,No,Research & Development,10,4,1,2,3,3,Sales Executive,4,1,No,14,3,4,80,0,10,3,2
+593,Yes,Research & Development,4,1,1,3,2,1,Laboratory Technician,3,5,No,16,3,3,80,0,4,3,3
+595,No,Research & Development,2,5,1,2,3,2,Sales Executive,4,2,No,14,3,1,80,1,14,2,3
+597,No,Research & Development,18,5,1,1,3,4,Manager,2,3,No,23,4,4,80,0,37,2,3
+599,No,Research & Development,10,2,1,4,3,2,Sales Executive,4,7,No,14,3,4,80,0,16,3,3
+600,No,Research & Development,1,3,1,2,3,2,Sales Executive,3,9,No,11,3,3,80,0,15,2,3
+601,No,Research & Development,6,3,1,2,3,4,Manufacturing Director,3,7,No,15,3,3,80,0,22,3,3
+602,No,Research & Development,8,1,1,3,3,1,Laboratory Technician,3,1,No,11,3,1,80,1,8,3,3
+604,No,Research & Development,2,1,1,2,3,2,Sales Executive,4,4,Yes,13,3,3,80,0,10,2,4
+605,No,Research & Development,24,3,1,4,3,3,Manufacturing Director,1,1,Yes,21,4,4,80,1,10,5,2
+606,No,Research & Development,2,3,1,4,3,2,Sales Executive,2,0,No,19,3,2,80,1,9,3,4
+608,Yes,Research & Development,17,4,1,2,3,1,Human Resources,3,0,Yes,11,3,2,80,1,8,2,2
+611,No,Research & Development,19,3,1,4,3,2,Manufacturing Director,4,4,No,12,3,2,80,2,8,2,4
+612,No,Research & Development,1,5,1,1,4,4,Research Director,3,4,No,19,3,3,80,1,10,2,3
+613,No,Research & Development,7,3,1,3,2,3,Manager,4,9,No,21,4,3,80,1,10,3,2
+614,Yes,Research & Development,5,3,1,2,3,1,Sales Representative,2,1,Yes,14,3,4,80,0,0,3,3
+615,No,Research & Development,28,3,1,3,1,3,Sales Executive,1,3,No,15,3,3,80,1,20,2,3
+616,No,Research & Development,2,4,1,1,2,2,Healthcare Representative,3,2,Yes,17,3,1,80,0,10,3,3
+618,No,Research & Development,29,2,1,1,3,2,Sales Executive,3,5,No,12,3,1,80,2,8,5,3
+620,No,Research & Development,1,3,1,1,3,2,Sales Executive,3,1,No,16,3,4,80,0,5,3,3
+621,No,Research & Development,21,4,1,4,4,2,Sales Executive,4,1,No,12,3,4,80,0,10,3,3
+622,Yes,Research & Development,24,3,1,3,1,1,Laboratory Technician,4,1,Yes,18,3,2,80,0,1,3,1
+623,No,Research & Development,1,3,1,2,3,3,Manufacturing Director,4,4,No,17,3,4,80,0,12,3,4
+624,No,Research & Development,18,1,1,1,3,3,Healthcare Representative,3,5,No,11,3,4,80,0,28,3,2
+625,No,Research & Development,2,5,1,2,3,4,Manager,1,7,No,16,3,2,80,1,22,2,3
+626,No,Research & Development,9,4,1,1,3,3,Sales Executive,2,1,No,13,3,4,80,1,9,6,3
+630,No,Research & Development,6,2,1,4,3,2,Research Scientist,1,3,Yes,12,3,2,80,2,18,3,3
+631,Yes,Research & Development,11,4,1,4,4,2,Sales Executive,3,8,No,12,3,4,80,0,6,2,3
+632,No,Research & Development,24,3,1,4,3,1,Sales Representative,4,0,No,13,3,3,80,2,3,3,3
+634,No,Research & Development,10,3,1,3,3,2,Healthcare Representative,3,3,No,19,3,3,80,1,18,4,3
+635,No,Research & Development,1,4,1,2,3,2,Manufacturing Director,2,6,No,12,3,2,80,1,8,2,2
+638,No,Research & Development,18,4,1,4,2,5,Research Director,3,1,Yes,17,3,3,80,1,31,5,3
+639,No,Research & Development,23,3,1,2,4,1,Research Scientist,4,1,Yes,11,3,2,80,2,6,3,3
+641,No,Research & Development,28,2,1,1,3,2,Sales Executive,2,1,No,20,4,4,80,2,6,5,4
+643,No,Research & Development,17,2,1,4,2,1,Laboratory Technician,2,1,No,21,4,4,80,1,1,2,3
+644,No,Research & Development,3,3,1,1,3,5,Manager,2,1,No,11,3,3,80,1,32,2,3
+645,No,Research & Development,13,1,1,2,3,1,Sales Representative,3,1,No,11,3,3,80,0,7,1,3
+647,Yes,Research & Development,7,3,1,1,3,1,Laboratory Technician,3,1,Yes,16,3,4,80,1,6,4,3
+648,Yes,Research & Development,12,4,1,2,2,1,Sales Representative,1,1,No,18,3,3,80,1,1,2,4
+649,No,Research & Development,1,2,1,2,2,1,Research Scientist,4,1,Yes,13,3,4,80,1,6,3,3
+650,Yes,Research & Development,13,4,1,2,3,2,Sales Executive,1,2,No,17,3,3,80,0,9,2,1
+652,No,Research & Development,25,2,1,1,2,2,Laboratory Technician,4,4,No,14,3,4,80,0,9,3,3
+653,No,Research & Development,6,4,1,1,4,2,Sales Executive,4,4,No,22,4,4,80,2,13,4,4
+655,No,Research & Development,6,4,1,1,2,1,Research Scientist,3,0,No,12,3,3,80,2,6,5,2
+656,No,Research & Development,2,3,1,4,3,2,Sales Executive,3,4,Yes,11,3,3,80,1,17,3,2
+657,No,Research & Development,1,3,1,4,2,1,Research Scientist,2,1,No,13,3,4,80,0,1,0,4
+659,No,Research & Development,2,4,1,3,3,2,Healthcare Representative,4,1,No,13,3,2,80,2,10,4,3
+661,No,Research & Development,6,4,1,2,2,4,Research Director,4,4,Yes,14,3,3,80,1,21,3,2
+662,No,Research & Development,1,1,1,3,3,1,Research Scientist,1,3,No,17,3,4,80,0,8,3,2
+663,No,Research & Development,9,5,1,4,3,2,Laboratory Technician,3,3,Yes,13,3,2,80,1,10,3,3
+664,No,Research & Development,1,4,1,4,2,4,Manager,1,7,No,11,3,1,80,1,21,3,1
+665,No,Research & Development,1,4,1,1,2,2,Human Resources,3,4,No,11,3,2,80,0,10,1,4
+666,No,Research & Development,14,3,1,3,3,1,Sales Representative,3,1,Yes,18,3,4,80,2,8,3,3
+667,Yes,Research & Development,2,1,1,3,3,1,Sales Representative,1,0,No,11,3,2,80,1,5,3,3
+669,No,Research & Development,22,1,1,3,3,1,Sales Representative,3,1,No,11,3,3,80,0,3,2,3
+671,No,Research & Development,3,4,1,4,3,5,Manager,4,4,Yes,12,3,1,80,1,26,2,4
+675,No,Research & Development,6,1,1,1,3,1,Research Scientist,3,0,No,20,4,4,80,0,3,3,3
+677,No,Research & Development,8,4,1,3,3,2,Sales Executive,3,0,No,12,3,4,80,0,6,3,3
+679,No,Research & Development,9,4,1,1,3,2,Research Scientist,4,1,Yes,12,3,4,80,1,6,2,2
+680,No,Research & Development,3,3,1,3,3,1,Research Scientist,3,1,No,20,4,3,80,1,1,2,3
+682,No,Research & Development,1,1,1,4,3,2,Sales Executive,1,7,No,20,4,4,80,0,18,2,4
+683,No,Research & Development,1,5,1,2,3,1,Research Scientist,4,1,No,12,3,4,80,1,10,4,2
+684,Yes,Research & Development,26,4,1,1,3,2,Sales Executive,1,2,No,14,3,4,80,2,5,4,3
+686,No,Research & Development,6,3,1,3,3,1,Laboratory Technician,4,1,Yes,13,3,3,80,1,3,2,3
+689,No,Research & Development,3,3,1,3,3,3,Manufacturing Director,3,1,No,15,3,3,80,1,10,2,3
+690,No,Research & Development,3,2,1,2,3,2,Sales Executive,3,1,No,14,3,1,80,1,6,5,2
+691,No,Research & Development,6,4,1,2,1,2,Research Scientist,4,1,No,13,3,2,80,0,17,3,3
+692,No,Research & Development,6,3,1,3,3,2,Healthcare Representative,4,3,No,23,4,3,80,1,15,2,1
+698,No,Research & Development,19,4,1,3,3,3,Human Resources,2,2,No,15,3,3,80,1,16,1,4
+699,No,Research & Development,9,2,1,2,2,2,Manufacturing Director,2,2,Yes,11,3,3,80,1,13,2,3
+700,No,Research & Development,3,4,1,1,2,1,Research Scientist,4,0,No,13,3,4,80,0,5,0,3
+701,Yes,Research & Development,10,1,1,4,3,1,Research Scientist,3,1,Yes,11,3,4,80,0,1,5,3
+702,Yes,Research & Development,3,3,1,1,3,1,Research Scientist,1,1,Yes,11,3,1,80,0,10,3,3
+704,No,Research & Development,3,3,1,3,2,1,Laboratory Technician,3,1,No,18,3,3,80,2,1,3,3
+705,No,Research & Development,4,3,1,1,4,1,Research Scientist,1,2,No,16,3,1,80,1,5,3,4
+707,No,Research & Development,8,3,1,4,4,2,Sales Executive,2,0,No,22,4,3,80,1,4,4,3
+709,No,Research & Development,7,4,1,4,2,2,Sales Executive,4,0,No,20,4,1,80,0,8,2,3
+710,No,Research & Development,1,4,1,2,1,1,Research Scientist,4,1,No,18,3,4,80,1,10,5,3
+712,No,Research & Development,2,1,1,2,4,2,Sales Executive,2,3,No,12,3,4,80,0,12,3,3
+714,No,Research & Development,3,1,1,4,4,2,Sales Executive,4,1,Yes,20,4,2,80,2,6,3,3
+715,No,Research & Development,10,2,1,4,4,1,Research Scientist,4,3,No,17,3,1,80,0,4,2,3
+716,No,Research & Development,28,1,1,4,4,1,Laboratory Technician,3,1,Yes,11,3,3,80,3,20,3,3
+717,No,Research & Development,9,3,1,4,2,3,Healthcare Representative,2,1,No,14,3,2,80,0,9,3,4
+720,Yes,Research & Development,3,2,1,1,3,2,Sales Executive,3,9,No,14,3,1,80,0,4,3,3
+721,No,Research & Development,2,4,1,4,2,2,Healthcare Representative,3,1,No,11,3,1,80,0,20,4,3
+722,No,Research & Development,10,3,1,4,3,2,Sales Executive,4,1,No,12,3,4,80,0,10,2,2
+723,Yes,Research & Development,8,2,1,2,3,2,Sales Executive,3,3,Yes,14,3,1,80,1,18,4,3
+724,No,Research & Development,1,4,1,2,4,2,Healthcare Representative,4,0,No,13,3,3,80,0,10,4,2
+725,No,Research & Development,1,2,1,3,3,3,Manufacturing Director,1,1,No,11,3,4,80,0,9,3,3
+727,No,Research & Development,3,2,1,3,3,3,Research Director,4,3,No,15,3,4,80,0,10,6,3
+728,No,Research & Development,14,4,1,4,3,2,Sales Executive,1,2,No,12,3,4,80,0,20,2,3
+729,No,Research & Development,5,4,1,4,2,3,Sales Executive,1,5,Yes,21,4,3,80,1,20,2,3
+730,No,Research & Development,7,3,1,3,4,4,Research Director,3,3,No,19,3,3,80,0,32,3,3
+731,No,Research & Development,10,4,1,2,2,5,Manager,4,3,No,15,3,2,80,3,23,2,2
+732,No,Research & Development,16,4,1,1,3,2,Sales Executive,1,8,No,14,3,4,80,0,10,1,3
+733,No,Research & Development,10,2,1,4,3,3,Manufacturing Director,1,1,No,21,4,3,80,2,9,4,2
+734,No,Research & Development,1,3,1,4,2,5,Manager,3,1,No,12,3,2,80,1,22,3,3
+738,No,Research & Development,8,4,1,4,3,1,Sales Representative,2,7,No,15,3,4,80,1,4,2,3
+741,Yes,Research & Development,1,2,1,1,1,1,Research Scientist,2,7,Yes,13,3,4,80,0,10,4,3
+742,No,Research & Development,8,3,1,1,4,3,Research Director,1,9,No,14,3,1,80,1,10,2,3
+743,No,Research & Development,1,3,1,3,3,3,Manufacturing Director,3,4,Yes,14,3,4,80,0,10,4,4
+744,No,Research & Development,24,3,1,1,1,1,Laboratory Technician,3,2,No,14,3,3,80,0,9,5,3
+746,No,Research & Development,3,3,1,4,3,4,Sales Executive,3,9,Yes,12,3,4,80,2,28,2,2
+747,No,Research & Development,27,5,1,3,3,2,Sales Executive,4,7,No,23,4,4,80,1,10,2,2
+749,No,Research & Development,10,3,1,3,3,1,Sales Representative,3,1,No,11,3,3,80,0,1,6,3
+752,Yes,Research & Development,19,3,1,3,4,1,Research Scientist,3,6,Yes,12,3,4,80,0,7,2,3
+754,No,Research & Development,15,3,1,4,2,2,Sales Executive,4,3,No,18,3,3,80,1,7,5,3
+757,No,Research & Development,8,2,1,2,3,2,Healthcare Representative,3,3,No,11,3,4,80,0,10,2,3
+758,No,Research & Development,9,1,1,2,3,1,Laboratory Technician,1,1,No,14,3,4,80,1,5,2,4
+760,No,Research & Development,3,3,1,3,4,2,Human Resources,2,9,No,15,3,3,80,1,12,3,1
+762,No,Research & Development,9,3,1,3,3,4,Healthcare Representative,4,7,No,11,3,3,80,0,30,1,2
+763,No,Research & Development,2,1,1,4,2,1,Research Scientist,4,0,Yes,20,4,4,80,0,5,2,2
+764,No,Research & Development,7,3,1,4,2,2,Healthcare Representative,1,8,No,19,3,1,80,0,9,2,1
+766,No,Research & Development,10,3,1,4,3,1,Sales Representative,2,1,No,14,3,4,80,2,2,2,3
+769,No,Research & Development,6,3,1,4,3,2,Laboratory Technician,4,2,No,17,3,4,80,0,19,4,3
+771,No,Research & Development,2,4,1,4,3,2,Healthcare Representative,1,2,No,11,3,1,80,1,16,2,4
+772,No,Research & Development,24,4,1,1,3,2,Laboratory Technician,4,1,No,15,3,4,80,2,10,2,3
+773,No,Research & Development,2,5,1,4,3,1,Research Scientist,3,6,Yes,13,3,2,80,1,6,0,1
+775,No,Research & Development,8,5,1,2,3,2,Manufacturing Director,1,3,No,14,3,3,80,1,7,3,3
+776,No,Research & Development,3,4,1,3,2,4,Manager,1,1,No,11,3,1,80,0,34,3,4
+780,Yes,Research & Development,1,4,1,4,3,1,Research Scientist,4,1,Yes,13,3,3,80,0,10,2,2
+781,No,Research & Development,26,1,1,3,3,2,Sales Executive,4,1,No,23,4,2,80,0,6,5,2
+783,No,Research & Development,2,2,1,2,1,2,Sales Representative,3,0,No,13,3,1,80,0,9,3,3
+784,No,Research & Development,10,1,1,1,4,1,Research Scientist,3,1,No,18,3,4,80,0,2,3,3
+785,Yes,Research & Development,27,2,1,2,4,2,Sales Executive,3,4,Yes,12,3,4,80,0,8,2,3
+786,No,Research & Development,2,3,1,4,3,2,Sales Executive,4,1,No,22,4,3,80,0,6,5,3
+787,Yes,Research & Development,2,3,1,4,3,5,Manager,1,5,Yes,13,3,4,80,1,24,2,3
+789,No,Research & Development,8,4,1,1,2,3,Sales Executive,1,1,No,15,3,2,80,0,10,1,3
+791,No,Research & Development,19,4,1,4,3,1,Research Scientist,4,0,No,18,3,1,80,1,5,3,3
+792,No,Research & Development,1,2,1,1,1,1,Laboratory Technician,4,3,No,14,3,1,80,1,5,2,3
+793,No,Research & Development,27,3,1,2,3,2,Healthcare Representative,3,4,No,12,3,1,80,1,11,3,2
+796,Yes,Research & Development,8,3,1,4,2,2,Sales Executive,1,6,No,17,3,3,80,0,6,2,2
+797,No,Research & Development,1,4,1,2,4,1,Research Scientist,4,2,No,16,3,3,80,0,10,2,3
+799,No,Research & Development,19,4,1,4,3,2,Manufacturing Director,1,9,Yes,11,3,2,80,2,9,4,3
+800,No,Research & Development,8,1,1,3,3,2,Sales Executive,4,0,No,19,3,2,80,1,5,3,3
+802,No,Research & Development,10,1,1,4,3,1,Research Scientist,1,0,Yes,13,3,2,80,2,6,3,2
+803,No,Research & Development,2,4,1,1,4,2,Manufacturing Director,1,6,Yes,12,3,4,80,0,17,2,3
+804,No,Research & Development,2,4,1,3,2,1,Research Scientist,1,1,No,11,3,3,80,0,6,3,3
+805,No,Research & Development,8,4,1,1,3,1,Sales Representative,4,1,No,16,3,2,80,1,3,1,2
+806,No,Research & Development,1,3,1,4,1,1,Laboratory Technician,3,3,No,21,4,3,80,2,7,2,3
+807,No,Research & Development,2,2,1,3,4,2,Healthcare Representative,2,1,No,24,4,4,80,1,8,2,3
+808,No,Research & Development,8,2,1,3,3,2,Sales Executive,1,5,No,17,3,2,80,1,6,1,3
+809,No,Research & Development,8,3,1,2,3,5,Manager,4,1,No,13,3,2,80,1,24,4,2
+811,Yes,Research & Development,6,3,1,3,4,1,Laboratory Technician,1,1,Yes,21,4,3,80,2,1,2,3
+812,No,Research & Development,9,3,1,3,2,1,Laboratory Technician,2,1,No,11,3,3,80,3,1,4,3
+813,No,Research & Development,11,4,1,4,3,2,Laboratory Technician,3,8,No,20,4,2,80,1,9,3,3
+815,No,Research & Development,2,3,1,3,3,4,Research Director,3,5,No,16,3,4,80,0,30,3,3
+816,Yes,Research & Development,1,2,1,2,2,1,Laboratory Technician,1,1,Yes,11,3,4,80,1,1,1,3
+817,No,Research & Development,7,3,1,3,3,3,Research Director,3,0,No,11,3,4,80,0,14,3,4
+819,Yes,Research & Development,16,3,1,1,3,2,Sales Executive,1,5,No,15,3,3,80,0,6,3,3
+820,No,Research & Development,2,2,1,3,3,4,Manager,4,1,Yes,11,3,3,80,1,26,3,2
+823,No,Research & Development,1,3,1,3,3,2,Manufacturing Director,2,0,No,15,3,1,80,1,10,2,3
+824,No,Research & Development,23,2,1,3,4,1,Research Scientist,3,1,No,24,4,3,80,1,10,3,3
+825,Yes,Research & Development,2,4,1,4,3,5,Research Director,2,7,Yes,12,3,4,80,0,40,2,3
+826,No,Research & Development,1,4,1,4,4,1,Research Scientist,3,3,No,13,3,3,80,0,7,0,3
+827,No,Research & Development,1,2,1,4,2,2,Manufacturing Director,4,9,Yes,13,3,4,80,1,8,4,3
+828,Yes,Research & Development,2,4,1,3,3,1,Research Scientist,3,6,No,17,3,4,80,0,5,3,2
+829,No,Research & Development,13,3,1,3,3,1,Human Resources,2,4,No,13,3,2,80,1,8,2,3
+830,No,Research & Development,4,3,1,3,2,2,Manufacturing Director,3,1,No,12,3,3,80,1,14,3,3
+832,No,Research & Development,16,4,1,1,2,2,Laboratory Technician,3,6,No,14,3,4,80,0,10,6,3
+833,No,Research & Development,2,3,1,3,2,2,Manufacturing Director,4,5,Yes,24,4,2,80,0,12,4,2
+834,No,Research & Development,2,3,1,2,2,1,Research Scientist,3,1,No,14,3,4,80,0,1,3,3
+836,No,Research & Development,29,3,1,2,3,2,Manufacturing Director,2,1,No,13,3,4,80,1,10,3,2
+837,No,Research & Development,12,3,1,1,2,2,Healthcare Representative,1,2,No,15,3,3,80,1,13,3,2
+838,No,Research & Development,16,4,1,3,2,1,Research Scientist,4,1,No,16,3,3,80,0,6,3,3
+840,Yes,Research & Development,11,3,1,3,3,3,Sales Executive,4,1,No,18,3,1,80,2,9,3,4
+842,Yes,Research & Development,2,1,1,3,3,2,Sales Executive,4,4,No,16,3,3,80,0,12,3,2
+843,No,Research & Development,14,2,1,2,3,4,Research Director,1,6,No,24,4,3,80,1,22,3,3
+844,No,Research & Development,5,1,1,3,2,3,Research Director,4,1,Yes,16,3,2,80,1,9,3,3
+845,No,Research & Development,7,3,1,3,3,3,Manufacturing Director,3,3,No,21,4,2,80,0,17,3,4
+846,No,Research & Development,2,4,1,2,3,2,Sales Executive,2,1,Yes,20,4,1,80,0,8,2,3
+847,No,Research & Development,3,2,1,3,3,1,Human Resources,4,0,No,19,3,3,80,1,4,1,1
+848,Yes,Research & Development,5,2,1,3,2,1,Research Scientist,3,1,Yes,14,3,1,80,1,8,2,3
+850,No,Research & Development,3,3,1,4,3,1,Research Scientist,4,1,No,11,3,3,80,3,0,6,2
+851,No,Research & Development,26,4,1,1,3,4,Manager,3,2,No,14,3,3,80,1,29,2,2
+852,No,Research & Development,4,3,1,4,3,2,Healthcare Representative,2,9,No,12,3,4,80,0,10,2,2
+854,No,Research & Development,2,1,1,1,4,1,Research Scientist,1,7,No,13,3,3,80,0,6,3,2
+855,No,Research & Development,1,3,1,1,4,2,Sales Executive,1,1,No,22,4,1,80,1,9,5,3
+856,No,Research & Development,27,1,1,3,2,1,Research Scientist,1,1,No,11,3,4,80,0,6,3,2
+857,No,Research & Development,1,2,1,2,3,2,Sales Executive,4,1,Yes,14,3,4,80,1,18,1,2
+859,No,Research & Development,13,4,1,2,3,2,Sales Executive,4,2,No,11,3,3,80,1,8,3,2
+861,No,Research & Development,5,4,1,2,2,1,Research Scientist,4,9,No,12,3,2,80,1,10,3,2
+862,No,Research & Development,7,2,1,1,2,3,Sales Executive,4,7,Yes,18,3,4,80,1,35,3,3
+864,No,Research & Development,9,3,1,4,3,3,Sales Executive,1,4,Yes,12,3,3,80,1,18,2,3
+865,No,Research & Development,8,2,1,3,4,2,Research Scientist,3,5,No,12,3,3,80,1,9,3,2
+867,No,Research & Development,25,4,1,3,2,4,Manufacturing Director,4,3,No,22,4,3,80,0,31,3,3
+868,No,Research & Development,16,4,1,4,2,2,Sales Executive,3,4,No,19,3,4,80,2,9,2,3
+869,No,Research & Development,8,2,1,2,2,1,Human Resources,4,1,No,13,3,4,80,1,6,6,3
+872,No,Research & Development,1,2,1,4,2,2,Manufacturing Director,4,6,No,22,4,1,80,2,4,2,1
+874,No,Research & Development,8,4,1,1,4,1,Laboratory Technician,4,2,Yes,24,4,3,80,1,10,2,2
+875,No,Research & Development,2,1,1,2,3,1,Research Scientist,4,5,Yes,14,3,4,80,0,8,2,3
+878,No,Research & Development,8,3,1,1,2,1,Human Resources,1,0,No,21,4,3,80,0,6,3,3
+879,No,Research & Development,3,1,1,3,3,2,Sales Executive,1,1,Yes,18,3,4,80,0,5,3,3
+880,No,Research & Development,9,3,1,4,2,3,Manufacturing Director,3,1,Yes,20,4,2,80,1,17,2,3
+881,Yes,Research & Development,25,4,1,4,3,1,Research Scientist,2,1,Yes,19,3,1,80,1,10,3,2
+882,No,Research & Development,1,3,1,4,3,1,Laboratory Technician,4,0,No,12,3,2,80,1,4,2,3
+885,No,Research & Development,4,1,1,3,2,2,Sales Executive,1,1,No,12,3,1,80,0,5,1,4
+887,No,Research & Development,1,3,1,3,3,1,Research Scientist,1,2,No,16,3,2,80,1,7,2,3
+888,No,Research & Development,4,1,1,1,2,1,Laboratory Technician,4,0,No,17,3,4,80,0,6,2,2
+889,No,Research & Development,5,2,1,2,3,2,Sales Executive,2,1,No,14,3,4,80,1,10,3,3
+893,No,Research & Development,9,3,1,2,2,1,Sales Representative,2,0,No,19,3,4,80,1,3,3,3
+894,No,Research & Development,3,3,1,3,4,2,Laboratory Technician,4,2,Yes,13,3,2,80,1,17,1,2
+895,No,Research & Development,11,4,1,4,3,1,Research Scientist,4,3,Yes,19,3,2,80,1,8,2,3
+896,Yes,Research & Development,1,3,1,2,2,1,Sales Representative,3,6,Yes,19,3,3,80,3,5,3,3
+897,No,Research & Development,8,3,1,1,3,4,Sales Executive,4,5,No,14,3,3,80,1,28,3,3
+899,No,Research & Development,25,3,1,4,2,3,Manufacturing Director,2,3,No,16,3,1,80,0,16,2,3
+900,No,Research & Development,21,2,1,3,3,1,Sales Representative,4,5,No,15,3,2,80,1,10,3,3
+901,No,Research & Development,23,4,1,4,3,4,Research Director,4,6,No,18,3,3,80,0,33,0,3
+902,No,Research & Development,1,3,1,4,3,2,Healthcare Representative,4,4,No,13,3,2,80,1,12,2,2
+903,No,Research & Development,2,2,1,3,3,2,Sales Executive,4,0,Yes,22,4,1,80,1,8,2,3
+904,No,Research & Development,19,2,1,1,3,3,Sales Executive,2,1,Yes,13,3,4,80,0,10,2,3
+905,No,Research & Development,2,4,1,1,3,4,Manager,1,1,No,11,3,4,80,1,31,3,3
+909,No,Research & Development,2,3,1,4,2,2,Human Resources,4,8,No,11,3,3,80,2,13,2,3
+910,No,Research & Development,3,2,1,4,3,1,Human Resources,2,3,Yes,11,3,3,80,1,7,4,4
+911,Yes,Research & Development,25,4,1,1,3,1,Laboratory Technician,4,1,Yes,24,4,3,80,0,1,2,1
+912,No,Research & Development,7,1,1,1,2,1,Laboratory Technician,4,6,No,14,3,3,80,3,8,5,3
+913,No,Research & Development,9,2,1,2,3,1,Research Scientist,1,1,Yes,13,3,4,80,0,8,0,3
+916,No,Research & Development,5,4,1,1,3,2,Sales Executive,4,1,No,14,3,2,80,0,4,3,3
+918,Yes,Research & Development,2,1,1,4,2,1,Laboratory Technician,4,9,Yes,14,3,4,80,1,3,3,2
+920,No,Research & Development,8,3,1,1,3,2,Manufacturing Director,2,4,No,21,4,3,80,1,4,2,4
+922,Yes,Research & Development,2,3,1,3,2,1,Sales Representative,3,1,No,13,3,4,80,0,2,3,2
+923,Yes,Research & Development,18,1,1,4,3,1,Research Scientist,4,1,No,19,3,1,80,0,1,3,2
+924,No,Research & Development,14,1,1,3,3,2,Healthcare Representative,4,0,Yes,17,3,1,80,1,17,2,2
+925,No,Research & Development,2,4,1,4,2,1,Sales Representative,4,1,Yes,18,3,1,80,0,3,3,2
+926,Yes,Research & Development,3,1,1,2,3,2,Manufacturing Director,3,0,Yes,19,3,1,80,1,4,3,4
+927,Yes,Research & Development,2,4,1,2,1,1,Laboratory Technician,4,4,Yes,13,3,3,80,1,10,1,2
+930,No,Research & Development,9,3,1,3,3,1,Research Scientist,3,5,No,18,3,2,80,1,6,2,3
+932,Yes,Research & Development,6,3,1,4,3,1,Laboratory Technician,1,7,Yes,21,4,4,80,0,8,2,1
+933,No,Research & Development,4,3,1,2,3,1,Research Scientist,3,1,No,19,3,3,80,0,1,2,3
+934,No,Research & Development,10,3,1,2,3,1,Laboratory Technician,2,1,No,14,3,2,80,2,1,3,3
+936,No,Research & Development,14,2,1,3,2,2,Sales Executive,3,7,No,17,3,1,80,0,10,6,3
+939,No,Research & Development,1,4,1,3,2,1,Research Scientist,1,3,Yes,11,3,2,80,0,6,1,3
+940,No,Research & Development,5,3,1,3,2,3,Healthcare Representative,2,2,Yes,13,3,4,80,1,24,3,3
+941,No,Research & Development,7,4,1,2,2,1,Sales Representative,3,3,No,15,3,2,80,0,13,2,4
+942,No,Research & Development,21,1,1,4,3,2,Healthcare Representative,4,1,Yes,25,4,4,80,1,10,2,1
+944,No,Research & Development,8,2,1,1,3,3,Laboratory Technician,2,4,No,11,3,3,80,1,29,3,2
+945,No,Research & Development,20,4,1,4,3,1,Research Scientist,3,4,No,17,3,1,80,2,13,2,2
+947,No,Research & Development,20,2,1,4,3,2,Sales Executive,3,1,No,13,3,4,80,1,9,2,2
+949,No,Research & Development,7,4,1,2,3,1,Research Scientist,4,2,No,18,3,3,80,0,8,6,3
+950,No,Research & Development,1,3,1,4,3,3,Research Director,1,1,No,13,3,2,80,1,15,3,3
+951,No,Research & Development,1,3,1,3,2,1,Laboratory Technician,2,6,No,20,4,3,80,0,5,3,3
+952,Yes,Research & Development,19,2,1,3,2,1,Sales Representative,2,1,Yes,18,3,3,80,3,1,2,3
+954,No,Research & Development,10,4,1,1,2,3,Sales Executive,2,2,No,12,3,2,80,1,11,2,2
+956,No,Research & Development,1,3,1,3,2,2,Sales Executive,1,1,No,12,3,2,80,0,7,2,3
+957,No,Research & Development,6,3,1,4,3,1,Laboratory Technician,1,2,Yes,13,3,3,80,0,20,3,3
+958,No,Research & Development,2,4,1,3,3,1,Laboratory Technician,3,4,No,21,4,3,80,0,16,6,3
+959,Yes,Research & Development,21,3,1,4,2,1,Sales Representative,2,1,Yes,13,3,2,80,0,1,3,4
+960,Yes,Research & Development,4,3,1,1,3,1,Laboratory Technician,1,1,No,19,3,2,80,0,1,2,3
+961,No,Research & Development,12,3,1,4,3,2,Healthcare Representative,4,0,Yes,11,3,3,80,2,10,2,1
+964,No,Research & Development,9,4,1,4,3,1,Research Scientist,2,8,Yes,14,3,4,80,1,3,2,3
+966,No,Research & Development,3,4,1,3,3,2,Manufacturing Director,1,1,No,12,3,3,80,1,8,2,4
+967,Yes,Research & Development,3,1,1,3,2,3,Sales Executive,4,1,Yes,11,3,1,80,1,16,6,3
+969,No,Research & Development,1,3,1,2,2,2,Healthcare Representative,4,0,No,14,3,1,80,0,6,3,3
+970,Yes,Research & Development,1,4,1,1,2,3,Sales Executive,3,5,No,11,3,3,80,0,17,2,1
+972,No,Research & Development,4,2,1,3,3,2,Laboratory Technician,2,1,No,12,3,2,80,0,9,5,2
+974,No,Research & Development,20,3,1,3,3,1,Sales Representative,4,1,No,15,3,2,80,1,3,5,3
+975,No,Research & Development,18,3,1,3,3,2,Sales Executive,3,1,No,16,3,2,80,0,5,3,3
+976,No,Research & Development,1,2,1,4,3,4,Manager,4,2,No,15,3,2,80,1,26,2,2
+977,Yes,Research & Development,2,3,1,4,3,1,Research Scientist,3,4,No,24,4,1,80,0,7,4,3
+981,No,Research & Development,2,2,1,3,3,4,Manager,3,6,No,13,3,3,80,1,22,3,4
+982,No,Research & Development,8,2,1,3,3,3,Sales Executive,3,5,No,11,3,1,80,1,10,2,4
+983,No,Research & Development,10,3,1,3,3,2,Sales Executive,4,1,Yes,13,3,2,80,0,6,1,3
+984,No,Research & Development,3,4,1,4,3,3,Sales Executive,4,6,No,13,3,2,80,1,12,2,3
+985,No,Research & Development,2,5,1,1,4,3,Sales Executive,3,0,No,18,3,4,80,0,9,3,3
+986,Yes,Research & Development,24,3,1,2,4,4,Sales Executive,2,4,Yes,16,3,4,80,0,22,2,2
+987,No,Research & Development,16,4,1,3,4,2,Manufacturing Director,3,1,Yes,19,3,3,80,0,20,3,4
+990,No,Research & Development,8,4,1,1,3,2,Sales Executive,4,4,No,13,3,4,80,2,12,3,3
+991,Yes,Research & Development,9,2,1,3,2,1,Research Scientist,1,0,Yes,22,4,1,80,0,4,0,3
+992,No,Research & Development,17,3,1,4,3,4,Manager,3,1,No,11,3,4,80,0,10,2,3
+994,Yes,Research & Development,10,3,1,4,2,1,Research Scientist,1,6,Yes,20,4,3,80,0,3,5,3
+995,No,Research & Development,13,1,1,2,3,1,Research Scientist,4,3,No,18,3,1,80,0,5,4,3
+996,No,Research & Development,1,4,1,4,3,1,Laboratory Technician,4,3,No,14,3,4,80,2,8,2,3
+997,No,Research & Development,1,2,1,4,3,4,Research Director,4,9,No,22,4,3,80,1,32,1,2
+998,No,Research & Development,1,4,1,3,4,2,Healthcare Representative,2,1,Yes,13,3,1,80,1,6,2,3
+999,No,Research & Development,9,3,1,1,3,5,Research Director,3,2,No,17,3,2,80,1,21,2,4
+1001,No,Research & Development,16,4,1,3,3,1,Laboratory Technician,2,9,No,14,3,2,80,1,4,2,3
+1002,No,Research & Development,23,2,1,4,3,2,Laboratory Technician,1,1,Yes,15,3,3,80,1,9,2,3
+1003,No,Research & Development,4,2,1,4,3,2,Sales Executive,4,1,Yes,17,3,3,80,0,9,0,3
+1004,Yes,Research & Development,22,3,1,1,3,1,Research Scientist,3,4,Yes,11,3,2,80,0,7,2,3
+1005,No,Research & Development,24,3,1,4,3,4,Manufacturing Director,3,3,Yes,18,3,4,80,1,22,2,3
+1006,No,Research & Development,10,1,1,3,3,1,Research Scientist,3,0,No,17,3,2,80,1,3,0,2
+1007,No,Research & Development,7,2,1,4,3,3,Manufacturing Director,3,6,No,13,3,2,80,1,13,3,3
+1009,No,Research & Development,17,1,1,4,2,2,Manufacturing Director,3,1,No,15,3,2,80,2,5,6,3
+1010,Yes,Research & Development,14,4,1,3,2,1,Laboratory Technician,2,1,Yes,24,4,4,80,1,5,2,1
+1011,No,Research & Development,1,1,1,3,3,2,Manufacturing Director,1,1,No,12,3,3,80,1,4,1,3
+1012,No,Research & Development,5,2,1,2,3,1,Research Scientist,4,1,No,15,3,4,80,0,0,2,3
+1013,No,Research & Development,17,3,1,3,3,3,Manufacturing Director,3,8,No,11,3,3,80,1,22,2,3
+1014,No,Research & Development,25,4,1,3,3,3,Healthcare Representative,3,1,Yes,11,3,3,80,1,16,3,2
+1015,No,Research & Development,8,2,1,2,4,3,Research Director,1,0,Yes,12,3,3,80,3,9,4,2
+1016,Yes,Research & Development,11,3,1,4,2,1,Research Scientist,1,1,Yes,15,3,1,80,0,1,2,3
+1017,Yes,Research & Development,5,3,1,2,3,1,Laboratory Technician,2,0,No,17,3,1,80,0,4,3,3
+1018,No,Research & Development,2,2,1,4,4,2,Manufacturing Director,4,1,No,12,3,2,80,0,8,2,3
+1019,No,Research & Development,8,1,1,2,1,1,Laboratory Technician,1,1,No,15,3,1,80,1,4,3,2
+1022,No,Research & Development,6,3,1,1,2,2,Healthcare Representative,3,2,No,13,3,4,80,0,19,0,3
+1024,No,Research & Development,4,4,1,3,2,3,Healthcare Representative,3,7,No,14,3,2,80,0,27,3,3
+1025,No,Research & Development,7,2,1,4,3,2,Manufacturing Director,3,6,No,14,3,2,80,0,8,6,3
+1026,No,Research & Development,1,1,1,4,2,4,Manufacturing Director,4,1,No,16,3,3,80,1,21,3,3
+1027,No,Research & Development,2,4,1,1,3,2,Manufacturing Director,4,0,No,18,3,2,80,1,4,2,3
+1028,No,Research & Development,10,3,1,2,3,1,Laboratory Technician,4,1,No,20,4,1,80,1,3,4,2
+1029,No,Research & Development,5,2,1,4,3,5,Manager,3,6,No,13,3,2,80,0,21,3,4
+1030,No,Research & Development,9,3,1,1,3,1,Laboratory Technician,4,4,No,18,3,2,80,0,8,5,3
+1032,No,Research & Development,2,3,1,3,2,4,Manufacturing Director,4,3,Yes,13,3,1,80,0,30,4,3
+1033,Yes,Research & Development,11,2,1,1,1,2,Healthcare Representative,2,5,No,15,3,1,80,0,15,2,1
+1034,No,Research & Development,18,4,1,3,3,2,Healthcare Representative,2,3,Yes,14,3,4,80,2,17,3,3
+1035,No,Research & Development,7,1,1,2,1,5,Research Director,3,1,No,22,4,2,80,2,21,3,3
+1036,No,Research & Development,3,4,1,2,3,2,Sales Executive,4,8,Yes,12,3,3,80,0,19,1,3
+1037,Yes,Research & Development,29,2,1,2,1,2,Sales Executive,1,8,No,18,3,4,80,0,7,6,3
+1038,Yes,Research & Development,2,1,1,1,1,5,Manager,4,1,No,15,3,4,80,1,33,3,3
+1039,No,Research & Development,28,3,1,4,4,4,Sales Executive,4,3,Yes,18,3,3,80,1,23,2,3
+1040,No,Research & Development,1,3,1,4,3,2,Sales Executive,3,0,No,12,3,1,80,1,19,3,3
+1042,Yes,Research & Development,16,4,1,3,4,1,Laboratory Technician,1,1,No,16,3,3,80,0,18,1,3
+1043,No,Research & Development,22,3,1,4,3,3,Manufacturing Director,1,1,Yes,13,3,3,80,0,21,2,3
+1044,No,Research & Development,8,1,1,2,2,1,Sales Representative,4,0,No,19,3,4,80,0,3,2,2
+1045,No,Research & Development,11,2,1,4,3,4,Manager,4,3,No,13,3,2,80,1,26,4,4
+1046,No,Research & Development,29,4,1,4,3,1,Laboratory Technician,3,9,No,12,3,2,80,0,10,2,3
+1047,No,Research & Development,1,4,1,2,4,2,Sales Executive,4,0,No,11,3,4,80,1,16,2,2
+1048,No,Research & Development,1,2,1,2,3,3,Manager,4,3,Yes,14,3,3,80,1,14,1,1
+1049,No,Research & Development,24,4,1,2,3,1,Human Resources,2,1,No,16,3,1,80,0,6,3,3
+1050,No,Research & Development,2,3,1,3,2,3,Sales Executive,2,2,No,12,3,1,80,1,30,2,3
+1052,Yes,Research & Development,15,3,1,1,3,2,Laboratory Technician,3,7,No,14,3,2,80,1,9,3,2
+1053,Yes,Research & Development,2,3,1,1,3,1,Research Scientist,1,6,Yes,14,3,2,80,1,6,2,3
+1055,No,Research & Development,10,4,1,3,3,1,Sales Representative,3,1,Yes,19,3,4,80,1,1,2,3
+1056,No,Research & Development,10,1,1,4,3,1,Sales Representative,2,1,No,22,4,2,80,0,1,5,3
+1060,No,Research & Development,3,4,1,3,3,1,Research Scientist,3,3,No,16,3,1,80,1,8,2,3
+1061,No,Research & Development,2,4,1,2,3,5,Research Director,3,2,Yes,11,3,4,80,1,29,2,2
+1062,No,Research & Development,3,3,1,4,3,2,Healthcare Representative,2,3,No,15,3,1,80,0,8,3,2
+1066,No,Research & Development,26,3,1,3,3,2,Sales Executive,1,1,No,14,3,2,80,1,8,3,2
+1068,No,Research & Development,1,1,1,1,2,1,Research Scientist,3,1,No,13,3,3,80,2,5,5,3
+1069,No,Research & Development,1,4,1,4,3,5,Research Director,4,9,No,17,3,4,80,2,23,0,3
+1070,No,Research & Development,2,4,1,3,2,3,Sales Executive,3,6,No,11,3,2,80,1,13,4,3
+1071,No,Research & Development,9,3,1,1,3,1,Research Scientist,3,2,No,19,3,2,80,1,18,4,3
+1073,No,Research & Development,12,5,1,4,2,3,Manufacturing Director,4,0,No,11,3,2,80,0,15,2,2
+1074,No,Research & Development,2,1,1,3,2,4,Manager,1,7,No,15,3,2,80,0,31,3,4
+1076,No,Research & Development,25,3,1,3,2,3,Sales Executive,4,5,No,13,3,3,80,1,18,5,3
+1077,Yes,Research & Development,9,3,1,4,3,1,Sales Representative,4,1,Yes,14,3,2,80,0,2,3,3
+1079,Yes,Research & Development,10,3,1,3,2,1,Laboratory Technician,1,1,No,13,3,1,80,0,1,6,2
+1080,No,Research & Development,8,4,1,4,2,2,Research Scientist,1,8,Yes,23,4,1,80,3,19,2,3
+1081,Yes,Research & Development,4,4,1,1,3,1,Research Scientist,3,9,Yes,12,3,3,80,3,18,2,4
+1082,Yes,Research & Development,24,2,1,2,2,3,Healthcare Representative,1,1,No,12,3,1,80,0,10,2,2
+1083,No,Research & Development,1,2,1,1,2,1,Laboratory Technician,1,1,No,16,3,1,80,2,6,2,3
+1084,No,Research & Development,20,3,1,3,3,2,Manufacturing Director,1,0,No,15,3,3,80,1,7,1,2
+1085,No,Research & Development,7,2,1,2,4,1,Research Scientist,3,1,No,13,3,3,80,0,10,3,3
+1088,No,Research & Development,17,1,1,3,2,3,Healthcare Representative,3,0,No,18,3,1,80,1,20,4,2
+1092,No,Research & Development,20,4,1,1,3,3,Healthcare Representative,4,4,No,20,4,4,80,1,14,6,3
+1094,No,Research & Development,8,5,1,1,1,1,Laboratory Technician,3,1,No,19,3,4,80,3,3,4,3
+1096,No,Research & Development,2,1,1,4,3,3,Manufacturing Director,2,3,No,18,3,2,80,1,23,4,3
+1097,No,Research & Development,10,3,1,3,3,2,Research Scientist,3,3,No,13,3,4,80,0,10,4,4
+1098,Yes,Research & Development,1,2,1,2,2,3,Human Resources,1,9,No,14,3,4,80,1,24,1,3
+1099,No,Research & Development,5,3,1,4,2,3,Healthcare Representative,4,4,No,15,3,3,80,1,9,2,3
+1100,Yes,Research & Development,4,3,1,4,3,3,Sales Executive,1,0,Yes,22,4,1,80,0,9,2,3
+1101,Yes,Research & Development,29,4,1,1,2,2,Research Scientist,3,1,No,22,4,2,80,0,14,4,3
+1102,No,Research & Development,15,2,1,1,3,1,Laboratory Technician,3,1,No,16,3,4,80,1,4,5,2
+1103,No,Research & Development,3,1,1,1,3,2,Healthcare Representative,4,0,No,17,3,3,80,0,7,1,2
+1105,No,Research & Development,10,4,1,4,2,2,Sales Executive,4,2,Yes,14,3,3,80,3,8,5,3
+1106,Yes,Research & Development,4,1,1,4,3,1,Laboratory Technician,4,1,Yes,15,3,2,80,1,7,3,4
+1107,Yes,Research & Development,21,3,1,1,3,1,Laboratory Technician,3,1,No,20,4,3,80,1,1,0,2
+1108,Yes,Research & Development,25,3,1,1,2,1,Research Scientist,2,4,Yes,20,4,2,80,0,5,0,3
+1109,No,Research & Development,2,2,1,4,3,4,Manager,1,0,No,17,3,4,80,1,23,3,3
+1111,Yes,Research & Development,1,3,1,1,2,1,Laboratory Technician,2,1,No,15,3,1,80,2,1,2,3
+1113,Yes,Research & Development,1,4,1,4,3,2,Sales Executive,3,3,Yes,14,3,4,80,0,5,4,3
+1114,No,Research & Development,7,3,1,4,3,2,Sales Executive,2,0,No,17,3,3,80,1,4,3,3
+1115,No,Research & Development,3,4,1,3,2,1,Research Scientist,4,3,No,17,3,4,80,3,6,2,3
+1116,No,Research & Development,1,4,1,1,4,4,Manager,4,2,No,22,4,3,80,0,27,3,2
+1117,No,Research & Development,9,4,1,2,2,2,Sales Executive,3,1,No,13,3,4,80,1,15,2,3
+1118,No,Research & Development,7,4,1,2,3,3,Healthcare Representative,2,7,No,19,3,4,80,0,18,4,3
+1119,No,Research & Development,10,4,1,3,2,3,Sales Executive,3,0,Yes,14,3,2,80,2,9,2,3
+1120,No,Research & Development,28,4,1,3,3,1,Research Scientist,4,4,No,22,4,1,80,1,11,1,3
+1121,No,Research & Development,3,3,1,4,3,3,Manufacturing Director,2,0,No,17,3,2,80,3,10,3,2
+1124,No,Research & Development,3,1,1,1,3,4,Manager,3,3,No,12,3,4,80,1,23,3,3
+1125,No,Research & Development,2,2,1,4,3,3,Sales Executive,2,7,No,16,3,3,80,0,10,2,3
+1126,No,Research & Development,27,3,1,3,3,3,Manufacturing Director,1,8,No,11,3,3,80,1,18,1,3
+1127,Yes,Research & Development,2,3,1,1,3,4,Healthcare Representative,4,7,No,11,3,4,80,3,21,4,3
+1128,No,Research & Development,14,3,1,3,2,5,Research Director,3,1,No,14,3,1,80,0,21,2,4
+1131,No,Research & Development,1,1,1,4,2,1,Research Scientist,2,1,Yes,11,3,3,80,0,2,6,4
+1132,No,Research & Development,9,3,1,3,3,2,Laboratory Technician,2,9,No,15,3,3,80,0,9,2,2
+1133,No,Research & Development,18,4,1,1,3,2,Manufacturing Director,4,2,No,20,4,1,80,0,18,0,3
+1135,No,Research & Development,20,3,1,3,4,1,Sales Representative,4,0,No,12,3,1,80,1,3,4,3
+1136,No,Research & Development,2,1,1,1,2,1,Research Scientist,2,0,No,17,3,1,80,0,6,2,1
+1137,No,Research & Development,11,2,1,4,3,2,Sales Executive,4,1,No,11,3,4,80,1,5,3,3
+1138,No,Research & Development,8,4,1,4,2,4,Sales Executive,2,6,No,17,3,2,80,1,22,3,3
+1140,No,Research & Development,2,2,1,4,3,2,Manufacturing Director,3,2,No,11,3,4,80,0,5,3,2
+1143,No,Research & Development,10,3,1,4,3,1,Research Scientist,2,0,No,14,3,4,80,2,8,2,2
+1148,No,Research & Development,29,3,1,2,1,2,Laboratory Technician,4,4,No,19,3,1,80,0,16,3,3
+1150,No,Research & Development,8,1,1,2,2,2,Manufacturing Director,4,1,Yes,15,3,3,80,1,10,2,2
+1152,No,Research & Development,1,3,1,3,4,1,Human Resources,3,1,No,13,3,4,80,1,7,2,4
+1154,No,Research & Development,6,3,1,3,2,1,Research Scientist,3,1,Yes,14,3,4,80,1,3,2,3
+1156,Yes,Research & Development,8,1,1,3,3,1,Laboratory Technician,3,1,No,12,3,4,80,0,0,0,3
+1157,Yes,Research & Development,9,4,1,1,3,2,Sales Executive,1,0,Yes,17,3,1,80,0,6,3,3
+1158,No,Research & Development,12,4,1,2,3,1,Laboratory Technician,4,3,Yes,11,3,1,80,1,6,4,3
+1160,Yes,Research & Development,15,3,1,3,3,1,Laboratory Technician,3,1,No,12,3,3,80,1,2,5,2
+1161,No,Research & Development,25,2,1,3,2,2,Healthcare Representative,4,7,No,13,3,3,80,2,9,2,3
+1162,No,Research & Development,6,3,1,4,2,1,Research Scientist,3,1,No,13,3,3,80,1,4,0,3
+1163,No,Research & Development,9,1,1,2,3,2,Sales Executive,3,1,No,20,4,1,80,0,6,3,2
+1164,No,Research & Development,8,4,1,3,3,1,Human Resources,3,1,No,17,3,2,80,0,6,2,1
+1165,Yes,Research & Development,23,1,1,4,2,3,Sales Executive,1,1,No,13,3,1,80,1,11,3,1
+1166,No,Research & Development,9,4,1,2,3,3,Research Director,3,9,No,17,3,3,80,0,20,3,2
+1167,Yes,Research & Development,12,3,1,3,3,4,Sales Executive,1,0,Yes,12,3,2,80,0,22,2,2
+1171,No,Research & Development,4,4,1,2,3,2,Sales Executive,1,7,No,13,3,4,80,0,9,3,4
+1172,No,Research & Development,1,4,1,4,2,1,Laboratory Technician,3,6,No,12,3,2,80,1,10,2,3
+1173,No,Research & Development,24,3,1,4,3,1,Laboratory Technician,2,8,No,22,4,4,80,0,6,2,3
+1175,Yes,Research & Development,12,1,1,3,3,1,Laboratory Technician,4,1,Yes,11,3,4,80,0,1,4,2
+1177,No,Research & Development,3,4,1,1,4,1,Laboratory Technician,4,1,No,22,4,2,80,1,8,2,3
+1179,No,Research & Development,10,3,1,3,2,2,Sales Executive,3,1,No,18,3,1,80,1,10,3,3
+1180,No,Research & Development,26,2,1,3,2,2,Research Scientist,4,3,Yes,13,3,4,80,1,16,3,1
+1182,No,Research & Development,2,3,1,3,2,3,Manufacturing Director,2,2,No,18,3,2,80,1,15,2,4
+1184,No,Research & Development,1,3,1,4,2,2,Healthcare Representative,1,0,No,20,4,3,80,0,14,3,3
+1185,No,Research & Development,4,4,1,4,2,1,Laboratory Technician,4,1,No,13,3,2,80,1,2,2,4
+1188,Yes,Research & Development,9,3,1,1,1,2,Sales Executive,3,8,No,13,3,2,80,0,7,2,2
+1190,No,Research & Development,2,1,1,3,3,1,Sales Representative,1,1,No,12,3,3,80,3,1,3,3
+1191,No,Research & Development,4,4,1,4,3,5,Manager,1,4,No,13,3,4,80,1,28,2,3
+1192,No,Research & Development,6,1,1,2,3,1,Laboratory Technician,4,1,No,13,3,1,80,1,10,5,3
+1193,No,Research & Development,9,2,1,3,3,1,Research Scientist,1,1,No,25,4,3,80,0,1,4,3
+1195,No,Research & Development,7,3,1,1,3,1,Research Scientist,3,4,Yes,19,3,3,80,1,7,2,2
+1196,No,Research & Development,1,3,1,4,2,2,Manufacturing Director,4,1,No,13,3,2,80,1,14,2,2
+1198,No,Research & Development,3,3,1,1,2,1,Laboratory Technician,3,1,No,12,3,1,80,0,2,2,2
+1200,Yes,Research & Development,10,4,1,3,3,1,Research Scientist,3,1,Yes,11,3,3,80,0,6,4,3
+1201,No,Research & Development,7,2,1,4,3,5,Manager,3,3,No,18,3,2,80,1,26,6,3
+1202,No,Research & Development,15,1,1,2,1,1,Research Scientist,4,0,Yes,18,3,1,80,1,6,2,2
+1203,Yes,Research & Development,3,4,1,3,2,1,Research Scientist,4,0,Yes,11,3,2,80,1,1,5,3
+1204,No,Research & Development,2,3,1,3,3,4,Manager,1,8,No,23,4,1,80,0,28,2,3
+1206,No,Research & Development,17,3,1,4,1,1,Research Scientist,3,2,No,13,3,4,80,0,6,3,3
+1207,No,Research & Development,2,3,1,2,3,1,Human Resources,3,1,No,13,3,4,80,1,5,2,3
+1210,Yes,Research & Development,5,2,1,1,2,1,Research Scientist,1,6,No,17,3,1,80,1,5,2,1
+1211,No,Research & Development,29,4,1,3,3,2,Sales Executive,1,8,No,19,3,3,80,3,8,3,3
+1212,No,Research & Development,2,4,1,2,3,2,Sales Executive,2,5,No,12,3,4,80,3,5,2,3
+1215,No,Research & Development,2,3,1,4,3,4,Manager,1,2,No,22,4,3,80,1,32,3,3
+1216,No,Research & Development,19,4,1,4,2,1,Laboratory Technician,1,1,No,12,3,3,80,3,6,2,3
+1217,No,Research & Development,15,2,1,4,3,5,Research Director,2,5,No,11,3,1,80,1,25,2,3
+1218,No,Research & Development,17,4,1,3,3,2,Sales Executive,1,3,Yes,15,3,4,80,3,15,2,3
+1219,Yes,Research & Development,17,2,1,4,3,1,Laboratory Technician,2,1,No,13,3,1,80,1,1,3,1
+1220,No,Research & Development,25,3,1,2,3,2,Sales Executive,3,1,No,12,3,1,80,1,10,3,2
+1221,No,Research & Development,6,4,1,3,1,1,Laboratory Technician,3,1,No,14,3,3,80,1,7,4,3
+1224,No,Research & Development,7,4,1,3,3,2,Laboratory Technician,3,1,No,13,3,1,80,3,10,4,2
+1225,No,Research & Development,29,4,1,4,3,2,Research Scientist,4,1,No,25,4,2,80,0,20,3,3
+1226,No,Research & Development,21,3,1,3,4,1,Sales Representative,4,1,No,17,3,4,80,0,2,2,3
+1228,No,Research & Development,2,4,1,4,3,2,Manufacturing Director,4,2,No,11,3,3,80,1,12,3,2
+1231,No,Research & Development,2,5,1,4,4,2,Human Resources,1,7,No,16,3,1,80,1,10,3,4
+1233,No,Research & Development,7,4,1,2,4,2,Sales Executive,4,0,Yes,18,3,2,80,1,12,3,3
+1234,No,Research & Development,13,3,1,3,2,1,Laboratory Technician,2,1,No,20,4,3,80,1,2,2,3
+1235,No,Research & Development,2,2,1,4,3,2,Research Scientist,3,4,Yes,14,3,4,80,0,10,2,3
+1237,No,Research & Development,1,3,1,3,1,3,Manufacturing Director,1,2,Yes,21,4,3,80,1,17,2,3
+1238,No,Research & Development,9,3,1,1,3,1,Research Scientist,4,0,No,13,3,2,80,1,15,5,3
+1239,No,Research & Development,10,3,1,2,2,2,Sales Executive,2,7,No,12,3,2,80,1,7,2,4
+1240,No,Research & Development,10,4,1,3,3,2,Sales Executive,4,0,No,14,3,2,80,0,5,4,3
+1241,No,Research & Development,1,3,1,4,3,1,Research Scientist,2,0,Yes,21,4,1,80,1,12,2,3
+1242,No,Research & Development,26,5,1,1,3,3,Research Director,1,3,Yes,17,3,3,80,0,20,6,3
+1243,No,Research & Development,8,2,1,3,2,3,Sales Executive,4,4,Yes,11,3,2,80,1,16,6,2
+1244,No,Research & Development,14,3,1,1,3,1,Research Scientist,1,1,Yes,14,3,4,80,2,9,3,2
+1245,No,Research & Development,1,4,1,4,3,3,Manufacturing Director,3,7,No,17,3,1,80,1,33,2,1
+1246,No,Research & Development,2,1,1,1,4,1,Research Scientist,4,1,No,13,3,4,80,1,10,5,3
+1248,Yes,Research & Development,10,3,1,1,2,1,Research Scientist,2,1,Yes,25,4,2,80,0,1,2,4
+1249,No,Research & Development,1,3,1,1,3,1,Research Scientist,4,1,No,15,3,1,80,3,3,5,3
+1250,No,Research & Development,3,3,1,4,3,4,Research Director,4,3,No,14,3,1,80,0,36,2,3
+1251,No,Research & Development,11,2,1,3,3,2,Healthcare Representative,1,1,Yes,12,3,4,80,0,6,2,2
+1252,No,Research & Development,24,3,1,3,2,2,Healthcare Representative,1,1,No,19,3,2,80,0,10,2,3
+1254,No,Research & Development,3,3,1,3,2,2,Sales Executive,4,5,No,17,3,4,80,0,13,2,3
+1255,No,Research & Development,3,3,1,3,1,5,Research Director,4,3,No,14,3,2,80,1,25,2,3
+1256,No,Research & Development,4,2,1,1,2,5,Manager,3,2,No,13,3,3,80,1,23,2,4
+1257,No,Research & Development,3,3,1,3,3,1,Research Scientist,2,1,No,12,3,3,80,0,12,2,2
+1258,No,Research & Development,2,2,1,4,4,1,Laboratory Technician,2,5,No,11,3,3,80,0,7,4,2
+1259,No,Research & Development,4,2,1,1,3,1,Research Scientist,3,1,No,11,3,2,80,3,5,2,3
+1260,No,Research & Development,7,3,1,3,3,2,Healthcare Representative,4,1,Yes,11,3,2,80,2,6,2,3
+1263,No,Research & Development,1,3,1,4,2,5,Research Director,4,6,No,12,3,3,80,0,25,3,4
+1264,No,Research & Development,1,3,1,4,2,4,Research Director,4,3,No,14,3,2,80,2,9,2,2
+1265,No,Research & Development,20,3,1,3,4,1,Research Scientist,3,0,No,17,3,4,80,0,2,5,2
+1267,No,Research & Development,5,3,1,2,3,5,Manager,2,7,No,11,3,3,80,1,26,5,3
+1268,No,Research & Development,10,5,1,4,4,3,Sales Executive,3,0,Yes,14,3,4,80,2,10,3,3
+1269,No,Research & Development,25,3,1,2,4,1,Research Scientist,4,1,Yes,12,3,4,80,0,1,2,3
+1270,No,Research & Development,1,2,1,4,3,1,Research Scientist,3,1,No,22,4,4,80,1,1,2,3
+1273,Yes,Research & Development,24,1,1,3,1,1,Sales Representative,4,1,Yes,14,3,4,80,0,1,4,3
+1275,No,Research & Development,4,2,1,3,3,1,Research Scientist,4,1,Yes,20,4,2,80,0,8,2,2
+1277,Yes,Research & Development,2,3,1,1,1,5,Manager,2,2,Yes,16,3,1,80,0,26,2,3
+1278,No,Research & Development,8,1,1,4,2,4,Healthcare Representative,2,1,Yes,15,3,4,80,1,34,3,3
+1279,Yes,Research & Development,10,2,1,1,2,1,Laboratory Technician,3,1,No,20,4,3,80,0,2,2,1
+1280,No,Research & Development,4,2,1,4,2,5,Manager,2,2,No,14,3,3,80,1,26,2,3
+1281,No,Research & Development,2,3,1,3,3,2,Sales Executive,1,0,Yes,12,3,4,80,0,4,3,3
+1282,No,Research & Development,9,3,1,4,3,5,Manager,2,4,Yes,24,4,1,80,1,31,5,2
+1283,No,Research & Development,18,4,1,4,3,3,Manufacturing Director,4,6,No,12,3,4,80,0,25,6,2
+1285,No,Research & Development,19,3,1,3,3,2,Laboratory Technician,2,4,No,13,3,3,80,2,15,2,4
+1286,No,Research & Development,1,4,1,4,3,1,Laboratory Technician,3,0,Yes,11,3,3,80,0,5,2,2
+1288,No,Research & Development,4,2,1,3,4,5,Manager,1,1,No,14,3,4,80,2,26,4,2
+1289,No,Research & Development,11,3,1,3,2,2,Human Resources,2,4,No,11,3,4,80,2,14,5,4
+1291,No,Research & Development,6,1,1,3,3,1,Research Scientist,3,0,Yes,14,3,4,80,0,4,3,3
+1292,No,Research & Development,7,4,1,2,4,2,Research Scientist,2,6,Yes,16,3,4,80,0,18,2,3
+1293,No,Research & Development,4,4,1,4,2,3,Sales Executive,4,3,No,14,3,4,80,0,23,3,4
+1294,No,Research & Development,2,4,1,3,3,2,Manufacturing Director,2,9,Yes,11,3,4,80,0,18,2,3
+1295,Yes,Research & Development,15,3,1,1,3,3,Healthcare Representative,4,1,No,11,3,4,80,1,10,2,3
+1296,No,Research & Development,2,3,1,4,2,1,Laboratory Technician,4,1,Yes,12,3,2,80,1,2,2,3
+1297,No,Research & Development,6,2,1,2,2,1,Laboratory Technician,3,0,No,14,3,2,80,0,8,6,2
+1298,No,Research & Development,9,2,1,3,3,2,Manufacturing Director,3,7,Yes,18,3,3,80,0,10,3,3
+1299,Yes,Research & Development,7,3,1,2,3,1,Laboratory Technician,3,3,Yes,13,3,1,80,2,10,2,3
+1301,No,Research & Development,1,3,1,4,3,1,Research Scientist,1,2,No,11,3,2,80,0,5,2,2
+1303,No,Research & Development,1,3,1,4,3,1,Research Scientist,2,1,No,18,3,4,80,0,2,3,2
+1304,No,Research & Development,8,3,1,3,4,2,Sales Executive,4,1,No,15,3,3,80,2,10,4,4
+1306,No,Research & Development,25,3,1,2,3,5,Manager,2,3,No,22,4,3,80,0,22,4,3
+1307,No,Research & Development,13,4,1,3,2,4,Manager,2,6,Yes,13,3,4,80,2,21,4,3
+1308,No,Research & Development,23,4,1,1,3,1,Research Scientist,3,1,No,12,3,4,80,2,2,3,3
+1309,Yes,Research & Development,7,2,1,4,3,2,Laboratory Technician,3,1,No,18,3,1,80,1,10,3,3
+1310,Yes,Research & Development,23,3,1,3,3,1,Research Scientist,1,0,No,13,3,1,80,0,6,2,3
+1311,No,Research & Development,6,3,1,1,2,2,Laboratory Technician,4,0,No,12,3,1,80,1,10,6,3
+1312,No,Research & Development,10,4,1,4,3,3,Healthcare Representative,3,3,No,12,3,1,80,0,10,0,3
+1314,No,Research & Development,1,2,1,4,3,1,Human Resources,1,6,No,12,3,3,80,0,10,3,4
+1315,No,Research & Development,1,3,1,3,1,2,Laboratory Technician,4,0,No,11,3,1,80,3,10,6,3
+1317,No,Research & Development,28,3,1,4,3,4,Research Director,1,4,Yes,11,3,2,80,0,25,2,3
+1318,Yes,Research & Development,25,4,1,4,2,3,Sales Executive,2,2,Yes,12,3,3,80,0,9,2,3
+1319,Yes,Research & Development,5,3,1,2,3,3,Sales Executive,2,9,Yes,19,3,3,80,0,10,2,2
+1321,No,Research & Development,17,4,1,2,3,3,Manager,1,1,Yes,23,4,4,80,2,9,2,3
+1322,No,Research & Development,18,2,1,1,3,2,Manufacturing Director,3,0,No,11,3,1,80,0,9,6,3
+1324,No,Research & Development,2,4,1,4,3,3,Sales Executive,3,1,Yes,19,3,1,80,1,10,5,2
+1329,No,Research & Development,10,2,1,3,1,2,Sales Executive,2,1,No,13,3,1,80,0,19,4,3
+1331,Yes,Research & Development,1,3,1,4,3,1,Sales Representative,2,1,Yes,11,3,1,80,0,3,2,4
+1333,Yes,Research & Development,3,3,1,1,3,1,Laboratory Technician,1,4,No,12,3,3,80,0,10,4,4
+1334,No,Research & Development,2,1,1,3,3,4,Manager,3,0,Yes,13,3,4,80,0,21,3,2
+1336,No,Research & Development,2,2,1,4,1,5,Manager,3,4,No,14,3,4,80,1,23,5,3
+1338,No,Research & Development,8,4,1,4,3,5,Manager,2,6,No,14,3,1,80,0,36,4,3
+1340,No,Research & Development,16,2,1,3,3,1,Research Scientist,3,9,No,16,3,2,80,1,6,0,3
+1344,No,Research & Development,9,3,1,4,3,3,Healthcare Representative,4,0,No,11,3,4,80,1,10,0,2
+1346,No,Research & Development,2,3,1,3,3,2,Research Scientist,4,1,No,13,3,3,80,0,9,4,3
+1349,No,Research & Development,1,3,1,3,3,2,Sales Executive,1,0,No,17,3,4,80,1,10,2,3
+1350,No,Research & Development,4,4,1,3,3,2,Research Scientist,3,1,Yes,11,3,2,80,0,9,3,3
+1352,No,Research & Development,5,3,1,3,3,4,Manager,2,1,Yes,11,3,2,80,1,33,2,3
+1355,No,Research & Development,2,2,1,2,3,2,Sales Executive,1,3,No,15,3,4,80,1,11,3,3
+1356,No,Research & Development,15,2,1,3,3,2,Sales Executive,1,1,No,12,3,4,80,0,10,6,4
+1358,No,Research & Development,19,1,1,4,3,1,Laboratory Technician,4,3,No,11,3,3,80,3,7,6,2
+1360,Yes,Research & Development,7,4,1,3,2,3,Manufacturing Director,1,7,Yes,14,3,4,80,0,31,0,2
+1361,No,Research & Development,1,4,1,2,3,1,Laboratory Technician,2,3,No,22,4,3,80,1,7,3,3
+1362,No,Research & Development,7,3,1,1,4,2,Sales Executive,1,2,No,16,3,4,80,1,17,2,2
+1363,No,Research & Development,4,3,1,4,3,3,Manufacturing Director,4,1,No,11,3,3,80,0,11,2,3
+1364,No,Research & Development,11,3,1,3,4,1,Sales Representative,4,8,No,14,3,2,80,1,5,4,3
+1367,No,Research & Development,11,2,1,4,2,4,Manufacturing Director,2,3,No,16,3,2,80,0,29,1,2
+1368,No,Research & Development,1,3,1,4,3,1,Laboratory Technician,4,1,No,15,3,3,80,0,0,5,4
+1369,No,Research & Development,1,3,1,4,2,2,Laboratory Technician,4,0,No,12,3,2,80,1,10,0,3
+1371,No,Research & Development,2,1,1,4,1,2,Sales Executive,4,3,No,20,4,2,80,0,8,3,3
+1372,Yes,Research & Development,13,4,1,1,4,4,Sales Executive,3,6,Yes,17,3,3,80,0,24,2,2
+1373,No,Research & Development,23,3,1,4,3,4,Manufacturing Director,2,4,Yes,12,3,1,80,1,33,0,3
+1374,No,Research & Development,26,1,1,1,2,1,Research Scientist,3,1,No,20,4,3,80,3,5,2,3
+1375,No,Research & Development,2,1,1,2,4,2,Healthcare Representative,3,5,No,20,4,2,80,3,15,0,3
+1377,No,Research & Development,29,3,1,2,3,2,Laboratory Technician,3,4,No,13,3,1,80,2,10,1,3
+1379,Yes,Research & Development,2,3,1,3,2,1,Sales Representative,4,7,No,14,3,3,80,0,3,3,4
+1380,Yes,Research & Development,18,4,1,4,3,2,Sales Executive,3,0,Yes,18,3,3,80,1,5,0,2
+1382,No,Research & Development,7,3,1,4,4,1,Research Scientist,3,1,No,11,3,4,80,3,4,2,3
+1383,No,Research & Development,2,4,1,3,3,2,Healthcare Representative,4,1,No,11,3,4,80,0,14,2,4
+1387,No,Research & Development,26,3,1,3,2,2,Sales Executive,1,1,No,11,3,3,80,1,5,0,3
+1389,Yes,Research & Development,22,4,1,4,3,2,Manufacturing Director,3,1,Yes,15,3,4,80,2,10,3,2
+1390,No,Research & Development,21,4,1,1,2,2,Sales Executive,4,3,Yes,12,3,4,80,2,8,2,4
+1391,No,Research & Development,2,3,1,2,3,3,Sales Executive,2,2,No,11,3,2,80,0,14,5,3
+1392,No,Research & Development,22,3,1,4,3,2,Research Scientist,4,3,Yes,14,3,1,80,2,12,4,2
+1394,No,Research & Development,4,1,1,3,3,1,Research Scientist,3,7,Yes,15,3,4,80,0,8,2,3
+1395,No,Research & Development,5,1,1,2,3,2,Sales Executive,4,6,No,13,3,1,80,0,8,2,4
+1396,No,Research & Development,2,1,1,3,3,2,Sales Executive,2,0,Yes,13,3,1,80,3,4,3,2
+1397,No,Research & Development,25,2,1,3,3,3,Healthcare Representative,3,3,No,21,4,2,80,1,13,2,3
+1399,No,Research & Development,18,1,1,1,4,2,Sales Executive,3,2,No,11,3,2,80,0,6,3,2
+1401,No,Research & Development,28,2,1,4,4,4,Manufacturing Director,3,2,Yes,11,3,2,80,1,24,3,2
+1402,No,Research & Development,6,3,1,1,2,2,Research Scientist,3,1,Yes,14,3,1,80,0,20,3,1
+1403,No,Research & Development,10,3,1,4,2,2,Sales Executive,4,1,Yes,11,3,4,80,0,6,3,3
+1405,Yes,Research & Development,17,4,1,4,3,1,Research Scientist,3,1,Yes,13,3,4,80,0,8,2,3
+1407,No,Research & Development,2,1,1,1,2,1,Research Scientist,4,0,No,12,3,4,80,0,5,2,3
+1408,No,Research & Development,10,3,1,3,3,4,Manager,1,0,No,14,3,3,80,1,21,5,3
+1409,No,Research & Development,8,4,1,3,3,1,Laboratory Technician,1,9,No,13,3,3,80,0,12,2,1
+1411,No,Research & Development,11,3,1,1,3,1,Laboratory Technician,3,4,No,18,3,1,80,0,8,6,3
+1412,No,Research & Development,18,2,1,3,3,3,Manufacturing Director,4,2,No,11,3,3,80,0,10,2,3
+1415,No,Research & Development,1,3,1,1,3,1,Laboratory Technician,4,4,No,11,3,2,80,1,7,2,2
+1417,No,Research & Development,7,3,1,3,4,1,Laboratory Technician,1,0,No,12,3,4,80,0,8,2,3
+1419,No,Research & Development,17,3,1,2,2,3,Human Resources,1,1,No,13,3,1,80,0,10,3,2
+1420,Yes,Research & Development,28,2,1,1,2,2,Laboratory Technician,1,3,No,20,4,1,80,0,20,2,3
+1421,Yes,Research & Development,14,1,1,3,3,3,Healthcare Representative,4,0,Yes,12,3,1,80,0,9,1,3
+1422,No,Research & Development,1,3,1,4,3,4,Research Director,4,6,No,19,3,4,80,0,29,3,2
+1423,No,Research & Development,1,3,1,4,3,5,Research Director,1,3,Yes,21,4,3,80,1,32,3,3
+1424,No,Research & Development,1,4,1,2,4,4,Research Director,4,2,No,13,3,4,80,2,31,4,4
+1425,No,Research & Development,3,4,1,1,3,2,Sales Executive,2,3,Yes,16,3,4,80,0,15,3,3
+1427,Yes,Research & Development,1,4,1,2,1,1,Sales Representative,3,1,No,12,3,2,80,0,1,3,3
+1428,No,Research & Development,7,4,1,4,3,2,Sales Executive,1,7,No,14,3,2,80,2,8,3,3
+1430,No,Research & Development,8,5,1,1,3,4,Research Director,2,3,No,11,3,3,80,0,9,3,4
+1431,No,Research & Development,1,4,1,4,3,1,Research Scientist,1,5,No,14,3,3,80,2,10,2,3
+1433,Yes,Research & Development,8,3,1,1,2,1,Research Scientist,2,1,No,12,3,3,80,0,1,3,4
+1434,No,Research & Development,11,1,1,2,3,1,Laboratory Technician,1,0,No,14,3,2,80,0,6,3,4
+1435,No,Research & Development,4,4,1,1,2,2,Laboratory Technician,4,1,No,16,3,3,80,0,10,2,2
+1436,No,Research & Development,16,4,1,3,2,2,Sales Executive,1,4,No,13,3,1,80,2,11,3,2
+1438,No,Research & Development,1,3,1,1,3,1,Research Scientist,4,7,No,12,3,3,80,1,17,2,2
+1439,Yes,Research & Development,9,2,1,1,2,1,Sales Representative,1,3,No,12,3,1,80,0,6,2,3
+1440,No,Research & Development,5,2,1,3,4,1,Laboratory Technician,3,0,No,14,3,1,80,0,7,2,1
+1441,No,Research & Development,1,2,1,1,3,1,Research Scientist,1,2,No,22,4,4,80,1,5,3,4
+1443,No,Sales,2,4,1,1,3,4,Research Director,3,3,No,19,3,2,80,2,26,2,4
+1445,No,Sales,4,1,1,4,3,2,Sales Executive,3,1,Yes,12,3,3,80,2,5,3,3
+1446,No,Sales,7,5,1,4,3,2,Sales Executive,4,4,No,12,3,3,80,1,7,3,2
+1447,No,Sales,1,3,1,4,2,1,Laboratory Technician,2,5,No,17,3,1,80,1,7,2,2
+1448,No,Sales,5,5,1,2,4,1,Research Scientist,3,2,Yes,12,3,1,80,0,7,5,2
+1449,No,Sales,9,4,1,3,3,2,Laboratory Technician,3,3,No,11,3,3,80,2,11,2,4
+1453,No,Sales,8,2,1,1,3,3,Sales Executive,4,1,No,18,3,1,80,1,13,5,3
+1457,Yes,Sales,9,3,1,1,3,3,Sales Executive,4,4,No,11,3,1,80,1,28,1,4
+1458,Yes,Sales,2,3,1,1,2,1,Laboratory Technician,1,2,Yes,23,4,2,80,0,11,2,4
+1459,Yes,Sales,1,5,1,3,4,3,Manufacturing Director,2,1,No,11,3,1,80,0,10,2,3
+1460,No,Sales,20,3,1,2,1,3,Healthcare Representative,1,2,Yes,18,3,2,80,1,24,2,3
+1461,No,Sales,8,2,1,4,4,1,Human Resources,2,9,No,18,3,4,80,0,8,3,3
+1464,Yes,Sales,2,3,1,2,3,1,Laboratory Technician,4,6,Yes,13,3,3,80,1,7,2,1
+1465,No,Sales,29,3,1,2,3,3,Manufacturing Director,4,4,Yes,18,3,4,80,2,10,4,4
+1466,No,Sales,7,3,1,3,3,2,Sales Executive,1,4,No,11,3,1,80,3,15,3,3
+1467,Yes,Sales,9,4,1,1,3,1,Human Resources,3,1,No,15,3,4,80,0,2,0,3
+1468,No,Sales,8,1,1,4,2,3,Research Director,2,2,No,11,3,3,80,1,16,5,3
+1469,No,Sales,5,3,1,4,3,2,Sales Executive,1,0,No,18,3,4,80,0,6,4,3
+1471,No,Sales,5,3,1,3,2,1,Laboratory Technician,3,3,No,14,3,4,80,0,7,5,3
+1472,No,Sales,2,3,1,4,4,4,Research Director,2,4,No,12,3,2,80,0,35,2,2
+1473,No,Sales,5,4,1,1,3,2,Healthcare Representative,3,2,No,14,3,2,80,1,20,0,2
+1474,No,Sales,2,3,1,3,3,1,Research Scientist,3,2,No,14,3,3,80,1,8,3,4
+1475,No,Sales,20,3,1,4,3,1,Research Scientist,2,1,No,13,3,3,80,0,6,3,2
+1477,No,Sales,7,3,1,4,3,2,Sales Executive,1,0,No,14,3,1,80,2,5,2,3
+1478,No,Sales,3,3,1,4,1,2,Sales Executive,1,3,No,18,3,4,80,0,15,2,3
+1479,No,Sales,16,1,1,4,3,2,Sales Executive,3,8,No,15,3,3,80,2,4,2,2
+1480,No,Sales,9,2,1,1,3,1,Laboratory Technician,4,1,No,13,3,3,80,0,12,3,3
+1481,No,Sales,1,5,1,1,3,2,Sales Executive,3,7,No,12,3,3,80,1,11,4,2
+1482,No,Sales,7,3,1,3,3,1,Research Scientist,3,1,No,13,3,2,80,2,1,2,2
+1483,No,Sales,1,2,1,2,4,2,Research Scientist,3,0,No,24,4,1,80,1,13,2,2
+1484,No,Sales,7,4,1,3,3,3,Healthcare Representative,2,3,No,14,3,2,80,2,29,3,3
+1485,No,Sales,15,3,1,2,3,4,Research Director,1,7,No,14,3,4,80,2,16,3,2
+1486,Yes,Sales,1,3,1,1,3,1,Sales Representative,3,3,No,15,3,4,80,1,5,3,4
+1487,Yes,Sales,13,3,1,1,3,2,Sales Executive,2,5,No,11,3,1,80,0,7,4,1
+1489,Yes,Sales,24,4,1,1,2,2,Sales Executive,2,0,Yes,23,4,3,80,0,16,2,4
+1492,No,Sales,7,1,1,4,3,1,Sales Representative,3,1,No,13,3,1,80,1,1,3,3
+1494,Yes,Sales,9,3,1,2,3,1,Laboratory Technician,1,2,Yes,11,3,3,80,0,4,2,2
+1495,No,Sales,13,2,1,4,3,1,Sales Representative,2,1,No,13,3,3,80,1,1,2,3
+1496,No,Sales,2,1,1,2,3,3,Manufacturing Director,3,5,Yes,18,3,2,80,0,16,2,2
+1497,No,Sales,19,3,1,3,2,2,Sales Executive,3,1,No,14,3,3,80,2,10,3,3
+1499,No,Sales,1,3,1,3,3,1,Human Resources,3,0,No,21,4,1,80,1,6,3,4
+1501,No,Sales,4,4,1,4,3,2,Healthcare Representative,3,0,Yes,16,3,2,80,0,4,2,3
+1502,No,Sales,4,4,1,1,2,1,Laboratory Technician,2,8,No,11,3,4,80,0,8,5,3
+1503,No,Sales,14,3,1,3,3,2,Sales Executive,3,3,Yes,17,3,3,80,1,11,4,2
+1504,Yes,Sales,2,2,1,3,2,1,Laboratory Technician,1,7,No,11,3,3,80,0,8,2,2
+1506,No,Sales,1,3,1,1,2,1,Research Scientist,3,1,No,14,3,4,80,1,1,2,1
+1507,No,Sales,7,3,1,3,3,2,Sales Executive,1,0,No,14,3,4,80,0,5,5,3
+1509,No,Sales,3,2,1,3,2,2,Laboratory Technician,1,4,No,25,4,1,80,1,10,3,3
+1513,No,Sales,2,1,1,4,3,1,Laboratory Technician,2,0,No,13,3,3,80,3,4,3,3
+1514,No,Sales,29,1,1,3,1,2,Manufacturing Director,2,1,No,14,3,2,80,2,8,2,2
+1515,No,Sales,8,5,1,4,3,2,Healthcare Representative,3,2,Yes,17,3,1,80,0,14,6,3
+1516,No,Sales,10,3,1,3,3,3,Manager,4,2,No,25,4,2,80,0,10,5,4
+1520,No,Sales,11,4,1,2,3,4,Manager,4,3,No,20,4,1,80,1,26,2,3
+1522,Yes,Sales,1,4,1,1,2,1,Research Scientist,1,6,No,13,3,3,80,0,11,2,1
+1523,No,Sales,28,3,1,4,3,4,Research Director,1,3,No,13,3,3,80,1,24,1,4
+1525,No,Sales,6,3,1,2,3,3,Manufacturing Director,2,4,No,18,3,4,80,0,9,3,3
+1527,No,Sales,3,3,1,3,3,4,Manager,2,8,No,12,3,4,80,1,23,2,4
+1529,No,Sales,16,3,1,4,2,3,Healthcare Representative,2,1,No,19,3,4,80,0,11,3,1
+1533,No,Sales,20,1,1,1,3,2,Laboratory Technician,3,0,No,14,3,2,80,0,5,2,3
+1534,Yes,Sales,9,4,1,4,3,1,Laboratory Technician,1,3,No,14,3,2,80,0,15,3,1
+1535,No,Sales,1,3,1,4,2,3,Sales Executive,3,1,Yes,14,3,4,80,0,10,3,3
+1537,Yes,Sales,3,3,1,4,3,1,Research Scientist,3,1,No,12,3,1,80,0,7,2,1
+1539,No,Sales,22,5,1,3,1,4,Research Director,4,1,Yes,13,3,4,80,0,32,2,3
+1541,No,Sales,7,2,1,2,3,1,Sales Representative,3,0,Yes,25,4,2,80,1,12,4,3
+1542,No,Sales,2,3,1,3,2,1,Laboratory Technician,2,4,No,14,3,2,80,1,4,3,3
+1543,No,Sales,13,3,1,1,3,2,Research Scientist,4,1,No,17,3,1,80,0,10,2,3
+1544,No,Sales,8,1,1,3,1,2,Healthcare Representative,1,3,No,13,3,3,80,1,9,3,3
+1545,No,Sales,25,3,1,4,2,2,Manufacturing Director,2,1,No,13,3,4,80,0,5,2,3
+1546,No,Sales,28,3,1,4,3,1,Research Scientist,4,4,No,20,4,4,80,1,8,3,3
+1547,No,Sales,2,3,1,4,3,3,Healthcare Representative,4,2,Yes,14,3,3,80,1,24,3,1
+1548,No,Sales,9,2,1,1,3,2,Sales Executive,1,0,No,12,3,4,80,0,9,5,4
+1549,No,Sales,28,4,1,2,3,2,Laboratory Technician,3,1,Yes,12,3,2,80,1,15,3,3
+1550,No,Sales,6,2,1,3,3,4,Manager,4,1,Yes,21,4,4,80,0,21,2,3
+1551,No,Sales,21,2,1,3,2,1,Laboratory Technician,1,0,No,14,3,2,80,3,2,3,3
+1552,No,Sales,8,2,1,4,3,2,Healthcare Representative,4,3,Yes,18,3,3,80,0,8,2,3
+1553,No,Sales,1,4,1,1,3,3,Healthcare Representative,2,1,No,12,3,1,80,3,10,4,3
+1554,No,Sales,28,4,1,2,2,1,Sales Representative,3,0,No,23,4,1,80,2,6,5,3
+1555,No,Sales,5,2,1,4,2,2,Research Scientist,2,3,No,12,3,1,80,1,12,2,3
+1556,No,Sales,2,4,1,3,3,1,Sales Representative,4,3,Yes,21,4,4,80,0,7,3,2
+1557,No,Sales,16,4,1,3,3,2,Sales Executive,3,8,No,14,3,3,80,1,18,2,3
+1558,No,Sales,9,3,1,3,4,1,Research Scientist,3,6,No,18,3,1,80,2,5,2,2
+1560,No,Sales,8,4,1,1,3,2,Sales Executive,1,2,No,13,3,4,80,1,8,6,1
+1562,Yes,Sales,1,3,1,2,2,2,Sales Executive,1,1,No,11,3,4,80,1,10,4,3
+1563,No,Sales,10,4,1,3,3,2,Human Resources,3,3,No,11,3,3,80,0,10,2,3
+1564,No,Sales,1,3,1,4,2,1,Laboratory Technician,1,1,No,19,3,2,80,0,3,3,3
+1568,No,Sales,29,4,1,3,3,3,Sales Executive,2,3,No,12,3,2,80,1,9,3,3
+1569,Yes,Sales,2,3,1,1,3,1,Laboratory Technician,1,1,Yes,12,3,4,80,1,1,2,3
+1572,Yes,Sales,2,5,1,3,2,3,Manufacturing Director,4,0,No,16,3,2,80,1,34,4,3
+1573,Yes,Sales,2,3,1,3,3,2,Manufacturing Director,2,4,No,11,3,1,80,2,7,2,3
+1574,No,Sales,1,4,1,4,3,2,Research Scientist,1,4,No,14,3,2,80,1,9,3,2
+1576,No,Sales,15,4,1,3,3,1,Research Scientist,1,8,No,12,3,4,80,1,10,3,2
+1577,No,Sales,7,4,1,1,3,1,Research Scientist,4,1,No,13,3,3,80,0,1,4,1
+1578,No,Sales,26,5,1,3,2,5,Manager,4,1,No,21,4,3,80,1,36,3,3
+1580,No,Sales,1,4,1,2,3,2,Research Scientist,4,9,No,17,3,2,80,1,9,3,2
+1581,No,Sales,3,3,1,1,3,1,Research Scientist,4,1,No,21,4,1,80,0,1,5,3
+1582,No,Sales,14,3,1,3,3,2,Sales Executive,2,0,No,11,3,4,80,1,10,3,3
+1583,No,Sales,16,3,1,2,3,2,Sales Executive,2,2,No,12,3,2,80,0,8,5,4
+1585,No,Sales,1,4,1,2,3,2,Sales Executive,3,6,No,13,3,1,80,0,15,5,3
+1586,No,Sales,3,1,1,2,3,1,Laboratory Technician,1,1,Yes,18,3,4,80,0,10,3,3
+1587,No,Sales,10,4,1,1,3,2,Healthcare Representative,3,3,Yes,16,3,3,80,0,10,4,3
+1588,No,Sales,6,3,1,4,4,3,Sales Executive,3,2,No,11,3,1,80,1,11,3,3
+1590,No,Sales,2,1,1,1,3,2,Healthcare Representative,4,1,No,19,3,4,80,1,6,0,4
+1591,No,Sales,9,3,1,3,3,5,Manager,3,4,Yes,16,3,3,80,1,27,2,3
+1592,No,Sales,10,3,1,4,4,1,Research Scientist,3,2,No,16,3,4,80,1,4,2,3
+1594,No,Sales,6,4,1,1,4,2,Laboratory Technician,1,3,Yes,13,3,4,80,1,9,3,3
+1595,No,Sales,9,2,1,4,2,5,Manager,4,8,No,22,4,4,80,0,24,2,3
+1596,No,Sales,28,3,1,2,4,2,Laboratory Technician,3,1,No,17,3,4,80,2,10,3,2
+1597,No,Sales,10,4,1,4,2,2,Healthcare Representative,3,1,No,14,3,2,80,1,8,3,2
+1598,No,Sales,14,2,1,4,3,2,Sales Executive,1,1,No,15,3,3,80,1,5,2,3
+1599,No,Sales,27,3,1,4,4,1,Laboratory Technician,2,5,No,12,3,3,80,1,8,0,3
+1601,No,Sales,7,2,1,3,2,1,Laboratory Technician,4,1,No,18,3,4,80,1,1,5,2
+1602,No,Sales,1,4,1,4,4,4,Manager,1,1,No,15,3,2,80,0,27,5,1
+1604,Yes,Sales,24,3,1,3,3,1,Laboratory Technician,2,1,Yes,17,3,3,80,3,1,3,3
+1605,No,Sales,26,2,1,2,2,1,Research Scientist,3,1,Yes,14,3,2,80,0,4,2,2
+1606,No,Sales,20,5,1,2,3,4,Healthcare Representative,3,2,Yes,15,3,3,80,1,32,3,3
+1607,No,Sales,5,4,1,2,4,1,Research Scientist,4,3,No,17,3,4,80,2,6,3,3
+1608,No,Sales,7,3,1,2,3,5,Research Director,4,0,Yes,14,3,4,80,1,23,4,2
+1609,No,Sales,7,3,1,2,2,1,Research Scientist,2,1,No,12,3,2,80,1,6,3,2
+1611,No,Sales,5,5,1,3,1,2,Laboratory Technician,1,1,Yes,14,3,1,80,0,10,3,3
+1612,No,Sales,26,3,1,1,2,2,Sales Executive,1,1,No,15,3,1,80,1,10,2,3
+1613,No,Sales,2,4,1,4,3,2,Sales Executive,1,7,No,13,3,4,80,0,10,3,3
+1614,No,Sales,12,4,1,3,3,2,Manufacturing Director,3,9,Yes,12,3,2,80,2,7,2,3
+1615,No,Sales,10,4,1,3,4,2,Manufacturing Director,4,1,No,13,3,1,80,1,9,3,3
+1617,No,Sales,25,4,1,3,3,1,Laboratory Technician,1,1,No,14,3,4,80,1,10,3,2
+1618,No,Sales,10,5,1,2,3,2,Manufacturing Director,1,2,No,13,3,4,80,3,10,3,3
+1619,No,Sales,19,3,1,4,2,1,Laboratory Technician,1,1,No,11,3,1,80,2,7,3,3
+1621,No,Sales,18,5,1,2,4,2,Research Scientist,1,1,No,11,3,4,80,0,16,2,3
+1622,No,Sales,27,3,1,2,1,2,Manufacturing Director,1,0,No,21,4,2,80,1,6,5,2
+1623,No,Sales,5,1,1,3,3,1,Research Scientist,4,1,No,18,3,3,80,0,3,2,3
+1624,Yes,Sales,3,2,1,2,3,1,Sales Representative,4,1,Yes,12,3,3,80,0,0,2,4
+1625,No,Sales,26,4,1,4,3,5,Manager,3,3,No,11,3,3,80,1,27,2,3
+1627,No,Sales,3,2,1,3,2,2,Laboratory Technician,3,0,No,15,3,4,80,1,11,3,3
+1628,No,Sales,15,3,1,1,2,3,Manufacturing Director,3,1,No,13,3,4,80,2,18,2,3
+1630,No,Sales,8,4,1,3,3,2,Healthcare Representative,3,1,No,12,3,4,80,1,15,5,3
+1631,No,Sales,19,3,1,3,3,2,Manufacturing Director,3,3,No,17,3,1,80,3,9,2,2
+1633,No,Sales,4,3,1,1,3,2,Manufacturing Director,3,0,No,13,3,4,80,0,10,2,1
+1635,No,Sales,2,2,1,4,2,2,Manufacturing Director,4,1,No,19,3,1,80,2,10,3,3
+1638,No,Sales,2,2,1,4,2,3,Manufacturing Director,3,3,Yes,19,3,4,80,1,10,6,4
+1639,Yes,Sales,10,3,1,4,2,3,Sales Executive,1,9,No,17,3,3,80,0,15,3,3
+1640,No,Sales,10,3,1,2,3,1,Research Scientist,2,1,No,11,3,1,80,1,8,2,1
+1641,No,Sales,16,3,1,3,3,3,Manufacturing Director,4,6,Yes,15,3,4,80,0,18,2,2
+1642,No,Sales,1,5,1,1,3,2,Human Resources,4,4,Yes,11,3,3,80,0,14,3,3
+1644,No,Sales,4,5,1,3,2,4,Manager,4,2,No,25,4,2,80,1,23,3,3
+1645,Yes,Sales,15,2,1,1,1,2,Sales Executive,4,6,Yes,14,3,4,80,2,7,2,2
+1646,No,Sales,2,1,1,1,3,1,Research Scientist,4,1,Yes,13,3,3,80,0,6,2,3
+1647,No,Sales,8,3,1,2,4,1,Research Scientist,3,7,No,17,3,1,80,0,5,0,3
+1648,No,Sales,2,3,1,4,3,1,Research Scientist,4,2,No,13,3,3,80,0,6,0,2
+1649,Yes,Sales,7,3,1,1,3,1,Laboratory Technician,1,3,Yes,14,3,2,80,0,10,3,1
+1650,No,Sales,10,3,1,3,2,2,Sales Executive,3,9,No,11,3,3,80,0,8,2,3
+1651,No,Sales,5,4,1,2,3,3,Healthcare Representative,1,4,No,12,3,3,80,2,9,6,3
+1653,No,Sales,2,1,1,4,4,2,Manufacturing Director,3,1,No,17,3,3,80,2,7,6,3
+1654,No,Sales,12,3,1,4,3,2,Manufacturing Director,2,4,No,21,4,3,80,0,7,3,3
+1655,No,Sales,22,4,1,1,3,4,Research Director,2,3,No,16,3,2,80,2,27,2,3
+1656,No,Sales,17,5,1,4,2,3,Research Director,1,5,No,15,3,3,80,3,19,3,3
+1657,No,Sales,2,3,1,3,3,1,Sales Representative,3,1,No,19,3,1,80,0,2,3,3
+1658,No,Sales,3,3,1,4,3,2,Research Scientist,2,1,No,12,3,3,80,1,11,2,3
+1659,No,Sales,7,3,1,1,3,1,Laboratory Technician,2,2,No,11,3,3,80,0,15,4,3
+1661,No,Sales,6,1,1,3,2,4,Healthcare Representative,3,2,Yes,19,3,2,80,1,30,3,3
+1662,No,Sales,1,4,1,4,2,2,Manufacturing Director,3,0,No,15,3,3,80,0,4,6,3
+1664,No,Sales,3,2,1,4,4,2,Healthcare Representative,1,6,No,20,4,1,80,1,13,3,3
+1665,No,Sales,22,5,1,2,3,4,Manager,3,3,No,25,4,3,80,1,36,6,3
+1666,No,Sales,15,2,1,3,2,4,Research Director,3,1,No,24,4,1,80,1,14,3,3
+1667,Yes,Sales,12,4,1,4,3,2,Sales Executive,4,3,Yes,24,4,1,80,0,13,2,4
+1668,No,Sales,1,3,1,4,3,2,Research Scientist,4,7,No,15,3,4,80,2,19,4,4
+1669,No,Sales,5,3,1,1,2,2,Sales Executive,2,1,Yes,13,3,2,80,1,10,3,2
+1670,No,Sales,2,4,1,4,3,2,Sales Executive,4,1,No,14,3,3,80,2,6,5,3
+1671,No,Sales,2,3,1,4,3,2,Research Scientist,2,0,No,13,3,3,80,2,10,4,2
+1673,No,Sales,5,4,1,1,3,2,Sales Executive,4,1,No,11,3,1,80,2,10,2,3
+1674,No,Sales,16,3,1,4,3,1,Laboratory Technician,1,4,Yes,16,3,2,80,1,17,2,2
+1675,No,Sales,2,3,1,4,2,1,Laboratory Technician,2,1,No,22,4,2,80,0,4,3,3
+1676,No,Sales,2,4,1,2,4,4,Manager,2,6,No,14,3,3,80,3,29,2,3
+1677,No,Sales,1,3,1,3,3,4,Manager,3,4,No,14,3,1,80,0,23,2,3
+1678,No,Sales,23,2,1,4,3,3,Sales Executive,3,3,Yes,16,3,4,80,0,21,2,3
+1680,No,Sales,9,1,1,4,3,1,Sales Representative,1,1,No,11,3,1,80,0,2,3,3
+1681,No,Sales,16,3,1,3,3,2,Sales Executive,4,1,Yes,25,4,3,80,1,7,2,3
+1682,No,Sales,26,4,1,1,3,2,Healthcare Representative,3,6,No,14,3,2,80,2,10,2,2
+1683,No,Sales,1,3,1,3,3,1,Human Resources,4,4,Yes,18,3,1,80,3,8,2,3
+1684,Yes,Sales,8,1,1,4,2,1,Laboratory Technician,3,1,Yes,11,3,1,80,0,5,2,3
+1687,No,Sales,4,2,1,4,3,1,Laboratory Technician,3,7,No,19,3,4,80,1,7,5,2
+1689,No,Sales,24,4,1,2,4,3,Healthcare Representative,4,3,No,15,3,3,80,0,11,2,3
+1691,Yes,Sales,7,2,1,4,3,1,Sales Representative,3,2,Yes,11,3,3,80,2,19,3,3
+1692,Yes,Sales,2,4,1,4,3,1,Laboratory Technician,2,1,No,12,3,1,80,0,1,2,3
+1693,No,Sales,7,3,1,4,3,1,Laboratory Technician,4,1,No,20,4,3,80,0,7,5,3
+1694,No,Sales,22,3,1,1,2,1,Research Scientist,2,5,No,12,3,4,80,1,8,1,3
+1696,No,Sales,5,2,1,2,2,2,Laboratory Technician,4,1,No,14,3,3,80,1,15,3,4
+1697,No,Sales,1,4,1,3,1,3,Healthcare Representative,4,3,No,20,4,3,80,1,19,2,4
+1698,No,Sales,21,3,1,2,4,1,Laboratory Technician,2,1,No,18,3,4,80,3,14,6,3
+1700,No,Sales,1,4,1,3,1,2,Sales Executive,4,1,No,14,3,3,80,2,6,2,2
+1701,No,Sales,19,3,1,2,2,1,Research Scientist,4,1,No,12,3,2,80,0,10,3,3
+1702,Yes,Sales,7,3,1,3,3,1,Sales Representative,4,1,Yes,21,4,2,80,1,3,2,3
+1703,No,Sales,2,3,1,3,4,3,Healthcare Representative,4,1,Yes,19,3,2,80,1,9,2,3
+1704,No,Sales,2,4,1,1,2,1,Research Scientist,4,0,Yes,14,3,3,80,0,6,2,4
+1706,No,Sales,2,3,1,4,3,2,Sales Executive,4,1,Yes,17,3,1,80,1,10,3,3
+1707,No,Sales,9,3,1,3,4,1,Research Scientist,3,1,No,16,3,4,80,1,5,1,3
+1708,No,Sales,6,3,1,4,3,3,Sales Executive,3,1,No,12,3,2,80,0,10,3,3
+1709,No,Sales,9,4,1,4,3,1,Laboratory Technician,3,9,No,17,3,3,80,1,9,2,3
+1710,No,Sales,2,4,1,3,3,2,Sales Representative,4,3,No,15,3,3,80,0,17,2,2
+1712,No,Sales,1,1,1,3,2,3,Healthcare Representative,3,3,No,23,4,4,80,1,25,3,2
+1714,Yes,Sales,22,1,1,4,1,1,Human Resources,3,1,No,11,3,3,80,1,1,2,3
+1716,Yes,Sales,9,3,1,3,1,4,Sales Executive,3,7,No,11,3,3,80,0,25,3,1
+1718,No,Sales,17,4,1,4,1,1,Laboratory Technician,3,1,No,15,3,3,80,3,3,3,4
+1719,No,Sales,28,2,1,4,2,4,Research Director,2,1,No,11,3,3,80,0,21,2,3
+1720,No,Sales,10,3,1,1,3,1,Research Scientist,3,6,No,13,3,1,80,1,10,3,2
+1721,No,Sales,2,4,1,2,3,1,Laboratory Technician,3,1,No,14,3,4,80,1,6,2,4
+1722,No,Sales,4,3,1,3,1,2,Human Resources,2,6,No,19,3,2,80,1,10,4,3
+1724,No,Sales,8,2,1,2,3,2,Manufacturing Director,1,2,Yes,16,3,2,80,1,18,3,3
+1725,No,Sales,29,1,1,2,3,1,Laboratory Technician,1,1,No,13,3,2,80,3,6,2,4
+1727,No,Sales,13,4,1,3,3,2,Healthcare Representative,2,6,No,14,3,4,80,0,19,3,3
+1728,No,Sales,27,4,1,4,3,2,Manufacturing Director,3,2,No,16,3,2,80,1,17,3,3
+1729,No,Sales,16,1,1,2,3,1,Research Scientist,4,1,No,12,3,2,80,1,10,2,2
+1731,No,Sales,2,4,1,3,3,2,Sales Executive,2,7,No,11,3,4,80,1,4,3,1
+1732,No,Sales,2,3,1,3,3,3,Sales Executive,4,4,Yes,12,3,2,80,1,13,5,2
+1733,Yes,Sales,13,5,1,2,2,2,Sales Executive,1,5,Yes,13,3,2,80,3,16,3,3
+1734,Yes,Sales,1,2,1,1,1,2,Sales Executive,2,6,No,15,3,2,80,0,10,2,3
+1735,No,Sales,4,1,1,3,3,1,Laboratory Technician,2,1,No,13,3,3,80,0,3,3,1
+1736,No,Sales,24,1,1,4,3,2,Manufacturing Director,4,2,No,20,4,4,80,0,9,3,2
+1737,No,Sales,1,3,1,4,3,2,Laboratory Technician,4,1,Yes,15,3,4,80,1,9,2,3
+1739,No,Sales,19,3,1,4,1,3,Sales Executive,3,3,No,13,3,3,80,1,10,2,1
+1740,No,Sales,7,4,1,2,3,5,Manager,2,1,No,14,3,2,80,0,21,3,2
+1744,No,Sales,4,3,1,3,1,3,Human Resources,3,4,No,21,4,3,80,2,9,2,4
+1745,No,Sales,2,4,1,4,2,1,Research Scientist,1,0,No,16,3,4,80,0,10,2,3
+1746,No,Sales,10,3,1,1,3,1,Human Resources,4,0,No,14,3,4,80,1,3,2,3
+1747,Yes,Sales,8,3,1,3,2,1,Human Resources,4,6,No,11,3,3,80,1,6,0,2
+1749,No,Sales,5,3,1,1,3,2,Sales Executive,3,1,No,19,3,3,80,1,6,3,3
+1751,No,Sales,8,3,1,3,3,1,Research Scientist,4,1,No,11,3,3,80,0,6,5,2
+1752,Yes,Sales,9,3,1,2,1,1,Sales Representative,2,1,No,13,3,3,80,0,2,3,3
+1753,No,Sales,1,3,1,4,4,2,Healthcare Representative,3,8,Yes,12,3,4,80,0,10,5,4
+1754,No,Sales,15,2,1,3,2,3,Sales Executive,1,2,No,11,3,1,80,1,12,2,3
+1755,No,Sales,2,4,1,4,4,1,Research Scientist,4,0,Yes,14,3,1,80,3,6,3,3
+1756,No,Sales,2,3,1,4,3,2,Sales Executive,2,8,No,15,3,4,80,0,13,2,2
+1757,No,Sales,11,4,1,4,3,2,Sales Executive,4,3,No,12,3,3,80,0,8,1,4
+1758,Yes,Sales,16,3,1,1,3,3,Sales Executive,1,2,Yes,20,4,3,80,0,11,2,2
+1760,No,Sales,2,2,1,3,2,1,Laboratory Technician,2,4,No,14,3,2,80,1,9,4,2
+1761,Yes,Sales,16,4,1,1,3,3,Sales Executive,3,2,No,13,3,1,80,3,10,2,3
+1762,No,Sales,4,3,1,4,2,1,Research Scientist,1,1,No,13,3,3,80,1,1,2,3
+1763,No,Sales,16,3,1,3,4,2,Healthcare Representative,3,3,No,16,3,3,80,1,10,3,3
+1764,No,Sales,5,4,1,2,3,1,Research Scientist,2,2,No,14,3,2,80,0,12,3,3
+1766,No,Sales,18,3,1,2,1,2,Healthcare Representative,4,3,Yes,16,3,3,80,1,15,2,3
+1767,Yes,Sales,17,3,1,3,2,1,Research Scientist,3,9,Yes,16,3,4,80,1,6,4,3
+1768,No,Sales,12,3,1,2,3,1,Laboratory Technician,2,8,No,22,4,2,80,3,7,6,2
+1770,No,Sales,2,3,1,3,2,5,Research Director,1,8,No,12,3,2,80,3,34,2,3
+1771,No,Sales,4,3,1,4,3,2,Research Scientist,2,5,No,15,3,4,80,2,11,2,2
+1772,No,Sales,9,4,1,3,3,1,Laboratory Technician,1,1,No,20,4,2,80,2,5,2,3
+1774,No,Sales,10,3,1,4,3,2,Sales Executive,3,1,Yes,14,3,3,80,1,15,3,3
+1775,No,Sales,1,4,1,1,2,4,Manufacturing Director,3,4,Yes,20,4,4,80,3,27,2,2
+1778,No,Sales,2,3,1,2,3,1,Human Resources,4,0,No,13,3,2,80,0,10,5,3
+1779,No,Sales,3,2,1,4,1,2,Sales Executive,4,5,No,12,3,1,80,0,6,3,3
+1780,Yes,Sales,7,1,1,2,3,1,Sales Representative,2,1,No,13,3,2,80,0,1,3,3
+1782,No,Sales,6,2,1,4,2,1,Laboratory Technician,3,1,No,11,3,2,80,1,5,3,3
+1783,Yes,Sales,8,1,1,3,3,1,Laboratory Technician,1,1,Yes,17,3,3,80,0,1,6,3
+1784,No,Sales,29,4,1,1,2,2,Sales Executive,4,1,No,14,3,1,80,2,13,3,3
+1786,No,Sales,3,3,1,1,3,3,Manager,3,2,No,11,3,4,80,0,15,2,3
+1787,No,Sales,9,2,1,2,2,2,Sales Executive,2,1,No,14,3,1,80,2,5,2,3
+1789,No,Sales,2,4,1,3,3,5,Research Director,4,7,Yes,17,3,3,80,1,24,3,3
+1790,No,Sales,10,3,1,4,3,3,Healthcare Representative,1,7,Yes,13,3,4,80,1,15,1,3
+1792,Yes,Sales,1,2,1,3,3,1,Research Scientist,2,1,Yes,12,3,3,80,3,6,2,2
+1794,No,Sales,8,2,1,3,3,2,Human Resources,2,2,No,13,3,3,80,0,19,4,2
+1797,Yes,Sales,27,3,1,3,3,2,Sales Executive,4,1,Yes,18,3,4,80,0,10,2,3
+1798,No,Sales,8,4,1,4,4,1,Research Scientist,1,6,No,19,3,2,80,1,14,1,3
+1799,No,Sales,1,3,1,3,3,1,Research Scientist,4,1,No,11,3,3,80,1,5,6,4
+1800,No,Sales,10,1,1,3,3,3,Research Director,3,7,No,21,4,3,80,0,9,3,3
+1801,No,Sales,26,2,1,2,2,2,Sales Executive,2,8,No,15,3,3,80,0,6,3,3
+1802,No,Sales,2,2,1,3,3,1,Laboratory Technician,1,4,No,17,3,4,80,1,7,5,2
+1803,No,Sales,13,3,1,2,4,2,Healthcare Representative,1,5,No,18,3,3,80,2,10,2,2
+1804,No,Sales,2,2,1,2,3,2,Manufacturing Director,4,2,No,14,3,3,80,1,15,6,3
+1805,No,Sales,2,3,1,1,3,1,Human Resources,2,5,No,13,3,4,80,3,13,3,3
+1807,Yes,Sales,9,4,1,4,3,2,Laboratory Technician,1,4,No,17,3,3,80,1,11,3,2
+1809,Yes,Sales,10,4,1,4,3,2,Manufacturing Director,1,1,No,15,3,2,80,0,10,4,1
+1812,No,Sales,20,3,1,3,3,2,Sales Executive,4,2,No,18,3,4,80,1,7,6,3
+1813,No,Sales,9,3,1,1,3,1,Research Scientist,3,4,No,13,3,3,80,0,7,2,2
+1814,No,Sales,5,3,1,2,4,2,Healthcare Representative,2,3,No,12,3,1,80,0,11,3,1
+1815,No,Sales,4,1,1,3,3,3,Sales Executive,3,0,Yes,13,3,4,80,1,23,3,4
+1816,No,Sales,10,3,1,1,3,3,Manufacturing Director,3,9,No,14,3,2,80,0,9,3,3
+1818,Yes,Sales,20,2,1,4,3,1,Human Resources,2,0,Yes,11,3,3,80,0,6,3,3
+1821,Yes,Sales,21,2,1,4,3,2,Healthcare Representative,2,4,No,22,4,4,80,1,13,2,4
+1822,No,Sales,1,3,1,3,3,2,Healthcare Representative,4,4,No,17,3,4,80,1,12,3,3
+1823,No,Sales,8,2,1,2,4,2,Sales Executive,3,1,No,21,4,3,80,2,10,5,3
+1824,No,Sales,2,3,1,2,3,4,Manager,2,4,No,22,4,4,80,1,37,0,2
+1826,No,Sales,23,4,1,2,1,1,Laboratory Technician,3,0,No,16,3,2,80,1,6,2,4
+1827,No,Sales,4,3,1,3,2,3,Manufacturing Director,2,8,Yes,12,3,3,80,1,28,4,3
+1829,No,Sales,12,3,1,2,3,2,Healthcare Representative,1,2,No,12,3,2,80,1,15,3,3
+1830,No,Sales,7,4,1,4,3,2,Research Scientist,4,4,No,15,3,2,80,1,14,2,2
+1833,No,Sales,7,4,1,1,3,3,Sales Executive,1,2,No,14,3,4,80,2,9,3,3
+1834,No,Sales,1,3,1,3,3,1,Research Scientist,1,1,No,25,4,3,80,1,3,3,3
+1835,No,Sales,2,4,1,2,1,2,Sales Representative,4,2,Yes,20,4,1,80,2,20,4,2
+1836,No,Sales,10,3,1,3,3,2,Sales Executive,4,1,No,13,3,1,80,0,5,4,3
+1837,No,Sales,15,4,1,1,3,4,Research Director,3,2,Yes,14,3,2,80,0,23,3,3
+1839,No,Sales,14,3,1,2,3,1,Research Scientist,3,1,No,16,3,3,80,0,0,4,1
+1842,Yes,Sales,18,5,1,4,4,1,Human Resources,1,0,No,17,3,3,80,0,2,4,3
+1844,Yes,Sales,13,3,1,1,2,1,Human Resources,1,4,Yes,15,3,4,80,3,4,3,3
+1845,No,Sales,2,4,1,3,3,2,Sales Executive,3,4,No,22,4,2,80,2,10,3,4
+1847,No,Sales,2,4,1,4,3,2,Research Scientist,2,4,Yes,22,4,4,80,1,15,2,3
+1849,No,Sales,2,4,1,1,3,2,Sales Executive,4,1,No,20,4,3,80,1,7,5,3
+1850,No,Sales,5,2,1,4,3,1,Laboratory Technician,4,0,Yes,14,3,3,80,0,6,3,2
+1852,No,Sales,20,1,1,4,3,1,Laboratory Technician,4,1,No,13,3,2,80,0,11,3,4
+1853,No,Sales,10,4,1,4,3,2,Sales Executive,4,8,No,13,3,3,80,0,4,2,4
+1854,No,Sales,10,4,1,3,3,1,Research Scientist,3,3,No,22,4,2,80,2,10,1,2
+1856,No,Sales,9,4,1,2,3,1,Laboratory Technician,3,4,No,12,3,3,80,0,7,2,3
+1857,No,Sales,2,2,1,4,3,3,Manufacturing Director,4,3,No,14,3,3,80,1,12,4,2
+1858,No,Sales,1,2,1,3,3,1,Human Resources,4,1,No,15,3,2,80,1,3,2,3
+1859,No,Sales,29,1,1,4,1,2,Healthcare Representative,3,8,No,17,3,4,80,2,11,3,3
+1860,No,Sales,8,3,1,4,3,1,Laboratory Technician,3,4,No,13,3,4,80,0,8,3,3
+1862,Yes,Sales,2,4,1,3,2,2,Sales Executive,2,7,Yes,12,3,3,80,0,7,3,2
+1863,No,Sales,3,3,1,1,4,4,Sales Executive,1,2,No,12,3,4,80,1,25,5,3
+1864,No,Sales,23,1,1,2,2,2,Sales Representative,3,1,No,21,4,4,80,1,9,5,3
+1865,No,Sales,6,1,1,4,2,1,Human Resources,2,1,No,11,3,4,80,0,1,3,3
+1866,No,Sales,6,3,1,1,2,5,Manager,3,7,No,13,3,4,80,0,21,2,3
+1867,No,Sales,10,3,1,4,2,5,Research Director,2,4,No,12,3,4,80,0,29,3,3
+1868,Yes,Sales,24,2,1,4,2,1,Research Scientist,4,1,Yes,24,4,2,80,0,1,3,2
+1869,Yes,Sales,10,3,1,3,3,3,Sales Executive,2,5,No,21,4,3,80,3,14,2,3
+1870,No,Sales,15,3,1,4,2,1,Research Scientist,1,0,No,19,3,4,80,1,8,2,2
+1871,No,Sales,19,4,1,4,3,2,Research Scientist,4,8,No,14,3,2,80,3,7,2,3
+1873,No,Sales,2,4,1,2,2,1,Research Scientist,4,8,No,20,4,2,80,1,19,2,4
+1875,No,Sales,3,3,1,2,3,1,Sales Representative,2,1,No,19,3,4,80,1,1,3,3
+1876,Yes,Sales,9,3,1,2,3,1,Sales Representative,4,1,No,13,3,3,80,0,1,3,2
+1878,Yes,Sales,7,1,1,4,3,1,Research Scientist,2,1,Yes,23,4,1,80,0,1,2,3
+1880,No,Sales,10,4,1,2,2,2,Sales Executive,3,1,Yes,13,3,1,80,1,10,4,3
+1881,No,Sales,20,3,1,2,3,2,Laboratory Technician,3,1,No,11,3,1,80,1,10,2,3
+1882,No,Sales,4,3,1,3,3,3,Sales Executive,4,2,Yes,13,3,4,80,3,9,3,3
+1883,No,Sales,7,3,1,4,3,1,Laboratory Technician,1,3,No,14,3,2,80,0,11,2,3
+1885,No,Sales,7,4,1,4,3,2,Research Scientist,1,5,Yes,22,4,3,80,1,16,2,3
+1886,No,Sales,16,2,1,4,2,2,Manufacturing Director,2,0,Yes,11,3,4,80,0,4,2,3
+1888,No,Sales,25,2,1,2,2,2,Manufacturing Director,4,0,No,13,3,4,80,2,10,2,2
+1890,No,Sales,2,1,1,2,2,2,Human Resources,4,1,No,21,4,4,80,0,10,2,2
+1892,No,Sales,1,4,1,1,3,4,Manager,1,2,No,11,3,1,80,1,22,3,3
+1893,No,Sales,1,2,1,2,2,1,Research Scientist,3,1,Yes,13,3,3,80,1,1,3,2
+1898,No,Sales,2,2,1,1,4,2,Sales Executive,3,0,No,14,3,2,80,0,9,5,2
+1900,No,Sales,22,3,1,4,3,4,Manager,4,3,No,11,3,2,80,1,24,3,3
+1903,No,Sales,1,4,1,2,4,2,Healthcare Representative,1,2,No,15,3,4,80,1,10,5,3
+1905,Yes,Sales,16,4,1,4,1,1,Research Scientist,1,1,Yes,23,4,2,80,1,5,2,3
+1907,Yes,Sales,24,2,1,1,3,1,Laboratory Technician,4,1,No,16,3,4,80,0,5,3,3
+1908,No,Sales,17,2,1,3,2,2,Sales Executive,2,2,No,16,3,3,80,2,12,1,1
+1909,No,Sales,8,3,1,3,3,2,Sales Executive,2,5,No,21,4,3,80,1,14,3,3
+1911,No,Sales,6,3,1,3,3,3,Research Director,1,9,No,13,3,2,80,1,18,3,4
+1912,No,Sales,10,2,1,3,3,2,Sales Executive,4,2,Yes,11,3,4,80,1,8,2,3
+1915,No,Sales,3,1,1,4,2,2,Sales Executive,4,3,Yes,12,3,3,80,0,9,3,2
+1916,No,Sales,4,3,1,1,4,1,Laboratory Technician,3,8,No,12,3,2,80,1,4,0,2
+1918,No,Sales,6,3,1,3,4,1,Laboratory Technician,4,0,No,18,3,1,80,1,8,3,3
+1922,No,Sales,1,4,1,2,3,2,Healthcare Representative,3,4,No,12,3,3,80,0,12,3,3
+1924,No,Sales,10,4,1,2,3,2,Sales Executive,3,1,No,14,3,2,80,0,10,2,2
+1927,No,Sales,1,2,1,3,2,2,Sales Executive,4,1,Yes,12,3,3,80,1,7,2,3
+1928,Yes,Sales,24,3,1,3,4,1,Sales Representative,1,1,No,17,3,4,80,0,1,3,3
+1929,No,Sales,21,4,1,1,1,2,Sales Executive,3,6,No,19,3,3,80,1,10,1,3
+1931,No,Sales,2,4,1,2,3,1,Research Scientist,2,1,No,11,3,3,80,1,6,3,2
+1932,No,Sales,22,4,1,3,2,2,Research Scientist,4,1,Yes,15,3,2,80,0,16,3,3
+1933,Yes,Sales,13,2,1,4,3,2,Sales Executive,3,3,Yes,11,3,4,80,0,6,0,3
+1934,No,Sales,14,4,1,3,3,2,Research Scientist,2,8,No,18,3,3,80,1,16,4,4
+1935,No,Sales,11,5,1,4,2,2,Sales Executive,1,4,No,16,3,3,80,1,6,3,3
+1936,No,Sales,9,2,1,1,3,2,Manufacturing Director,1,1,No,25,4,4,80,1,10,3,3
+1937,No,Sales,8,3,1,4,2,2,Research Scientist,2,1,Yes,16,3,3,80,1,20,3,3
+1938,No,Sales,21,3,1,4,3,4,Manager,4,4,Yes,13,3,3,80,1,29,2,2
+1939,Yes,Sales,5,2,1,1,4,1,Research Scientist,3,3,Yes,14,3,1,80,0,8,2,3
+1940,No,Sales,9,2,1,2,3,1,Research Scientist,4,2,No,19,3,4,80,2,10,0,4
+1941,No,Sales,2,1,1,2,3,5,Research Director,4,3,No,15,3,4,80,0,28,3,3
+1943,No,Sales,12,4,1,2,3,2,Sales Executive,4,3,Yes,12,3,3,80,2,14,4,3
+1944,Yes,Sales,22,3,1,1,2,1,Human Resources,2,1,No,12,3,1,80,0,1,2,3
+1945,No,Sales,18,4,1,2,3,2,Sales Executive,1,0,No,16,3,4,80,1,6,2,1
+1947,No,Sales,16,3,1,3,3,1,Research Scientist,3,1,No,14,3,3,80,0,5,3,2
+1948,No,Sales,3,2,1,3,3,1,Research Scientist,1,1,Yes,13,3,4,80,1,4,3,4
+1949,No,Sales,9,4,1,1,4,1,Laboratory Technician,2,1,No,22,4,2,80,0,5,3,3
+1950,No,Sales,1,3,1,1,3,3,Sales Executive,4,1,No,21,4,1,80,0,14,3,2
+1951,No,Sales,13,4,1,4,3,3,Sales Executive,3,1,No,18,3,3,80,1,9,2,2
+1952,No,Sales,1,3,1,3,3,1,Laboratory Technician,1,0,No,13,3,4,80,0,8,6,2
+1954,No,Sales,1,3,1,1,3,2,Healthcare Representative,1,0,No,12,3,1,80,1,6,5,2
+1955,No,Sales,15,4,1,3,3,2,Healthcare Representative,4,5,No,18,3,2,80,1,9,6,3
+1956,No,Sales,1,3,1,4,1,2,Research Scientist,1,1,No,21,4,2,80,0,10,6,3
+1960,Yes,Sales,17,3,1,3,2,1,Laboratory Technician,4,5,No,12,3,1,80,1,6,2,2
+1961,No,Sales,1,3,1,1,2,1,Sales Representative,1,4,No,14,3,1,80,0,20,3,2
+1962,No,Sales,7,4,1,3,3,2,Sales Executive,4,1,Yes,11,3,4,80,0,10,2,3
+1965,No,Sales,9,3,1,4,3,2,Sales Executive,4,1,No,14,3,1,80,0,7,5,3
+1966,No,Sales,5,4,1,4,2,2,Manufacturing Director,4,8,No,24,4,2,80,0,8,1,3
+1967,Yes,Sales,26,4,1,1,3,2,Sales Executive,4,1,Yes,11,3,3,80,0,10,4,3
+1968,Yes,Sales,24,4,1,1,3,3,Sales Executive,1,6,Yes,13,3,2,80,0,15,2,2
+1969,No,Sales,9,2,1,1,3,2,Research Scientist,3,3,No,11,3,3,80,2,9,6,2
+1970,No,Sales,7,2,1,4,3,2,Healthcare Representative,3,1,No,20,4,3,80,3,9,2,3
+1971,No,Sales,11,3,1,1,3,3,Healthcare Representative,3,1,No,17,3,2,80,1,10,1,3
+1972,No,Sales,1,4,1,4,3,1,Human Resources,2,0,Yes,11,3,2,80,1,7,2,3
+1973,No,Sales,26,4,1,3,4,5,Manager,2,4,Yes,18,3,1,80,1,35,0,3
+1974,No,Sales,2,1,1,4,1,1,Laboratory Technician,4,1,Yes,11,3,3,80,3,1,4,3
+1975,No,Sales,15,4,1,2,3,4,Sales Executive,1,0,No,12,3,1,80,0,21,3,3
+1976,No,Sales,23,2,1,4,2,2,Research Scientist,3,1,No,12,3,4,80,0,20,2,3
+1979,No,Sales,10,3,1,3,3,3,Research Director,3,4,No,20,4,3,80,1,13,2,4
+1980,No,Sales,10,3,1,3,3,2,Manufacturing Director,1,6,Yes,19,3,4,80,0,9,3,3
+1981,No,Sales,1,2,1,2,2,2,Healthcare Representative,3,1,No,12,3,2,80,0,4,2,2
+1982,No,Sales,12,2,1,4,3,1,Laboratory Technician,4,1,No,13,3,3,80,0,5,6,4
+1985,No,Sales,11,3,1,4,3,2,Laboratory Technician,3,1,No,11,3,1,80,1,10,2,4
+1986,No,Sales,2,2,1,2,3,2,Sales Executive,2,3,No,14,3,3,80,1,15,4,3
+1987,No,Sales,2,3,1,3,3,1,Human Resources,2,4,No,14,3,3,80,0,6,3,3
+1989,No,Sales,1,2,1,4,3,1,Laboratory Technician,2,1,No,13,3,3,80,0,12,6,2
+1992,No,Sales,2,1,1,4,3,1,Laboratory Technician,3,6,Yes,19,3,3,80,1,7,2,2
+1993,No,Sales,25,3,1,1,3,3,Healthcare Representative,3,2,No,23,4,2,80,0,25,3,3
+1994,No,Sales,1,2,1,2,2,1,Laboratory Technician,3,1,No,12,3,3,80,3,1,2,2
+1995,No,Sales,1,4,1,4,3,2,Sales Executive,2,0,No,15,3,1,80,2,16,3,3
+1996,No,Sales,2,2,1,1,3,1,Sales Representative,3,0,No,19,3,3,80,1,3,1,3
+1997,No,Sales,6,4,1,1,2,2,Manufacturing Director,3,2,No,11,3,4,80,1,10,1,3
+1998,No,Sales,18,4,1,4,3,2,Research Scientist,1,6,Yes,17,3,3,80,1,9,3,2
+1999,No,Sales,1,3,1,4,3,1,Research Scientist,4,3,No,22,4,1,80,1,12,3,3
+2000,No,Sales,1,1,1,3,3,3,Research Director,2,0,No,18,3,1,80,2,14,3,1
+2003,No,Sales,11,4,1,4,3,1,Laboratory Technician,3,7,Yes,11,3,3,80,1,5,3,3
+2007,No,Sales,1,2,1,4,3,1,Research Scientist,3,0,No,12,3,4,80,0,4,2,4
+2008,No,Sales,9,4,1,2,3,2,Research Scientist,3,1,No,19,3,2,80,0,10,5,3
+2009,No,Sales,15,2,1,2,3,2,Healthcare Representative,4,0,Yes,13,3,1,80,1,10,6,3
+2010,No,Sales,29,4,1,3,2,1,Laboratory Technician,2,1,No,13,3,3,80,0,6,3,3
+2012,No,Sales,1,4,1,1,3,1,Laboratory Technician,4,8,No,19,3,3,80,2,8,3,2
+2013,No,Sales,1,4,1,2,2,1,Sales Representative,2,0,No,14,3,2,80,1,3,2,3
+2014,No,Sales,24,1,1,1,3,2,Research Scientist,4,7,No,13,3,1,80,0,18,2,3
+2015,No,Sales,10,3,1,2,1,3,Research Director,3,3,No,12,3,1,80,1,20,3,3
+2016,No,Sales,1,4,1,3,3,3,Sales Executive,4,1,No,19,3,3,80,2,14,3,3
+2017,No,Sales,10,3,1,3,4,3,Research Director,4,1,Yes,25,4,1,80,1,16,2,3
+2018,No,Sales,8,2,1,1,3,2,Sales Executive,3,0,Yes,22,4,2,80,1,6,3,2
+2019,No,Sales,29,4,1,1,3,1,Sales Representative,4,2,No,15,3,2,80,2,16,3,2
+2020,No,Sales,1,3,1,2,3,1,Research Scientist,4,6,Yes,12,3,3,80,0,6,2,3
+2021,No,Sales,5,1,1,3,3,1,Sales Representative,1,1,Yes,11,3,4,80,0,2,6,3
+2022,No,Sales,9,3,1,4,3,5,Manager,4,2,No,13,3,3,80,0,21,3,2
+2023,Yes,Sales,9,3,1,4,3,1,Sales Representative,1,1,No,19,3,1,80,1,1,3,2
+2024,No,Sales,3,3,1,1,2,3,Sales Executive,4,0,No,19,3,3,80,2,10,2,3
+2025,No,Sales,4,2,1,4,3,2,Manufacturing Director,2,7,No,13,3,2,80,3,18,3,3
+2026,No,Sales,1,4,1,3,3,2,Healthcare Representative,3,1,No,21,4,1,80,1,13,2,2
+2027,Yes,Sales,1,4,1,1,3,1,Research Scientist,4,9,Yes,14,3,2,80,3,4,3,4
+2031,No,Sales,2,3,1,1,3,5,Manager,3,5,No,11,3,1,80,0,24,2,2
+2032,Yes,Sales,7,2,1,4,3,1,Laboratory Technician,3,8,No,11,3,4,80,1,14,4,1
+2034,No,Sales,28,4,1,1,2,4,Manufacturing Director,2,0,No,23,4,3,80,1,21,3,3
+2035,No,Sales,28,3,1,4,2,2,Sales Executive,3,1,No,21,4,4,80,2,8,2,3
+2036,No,Sales,15,4,1,4,1,2,Sales Executive,4,1,No,24,4,1,80,1,15,4,2
+2037,No,Sales,3,3,1,3,2,2,Sales Executive,2,2,No,11,3,3,80,1,14,5,3
+2038,No,Sales,2,3,1,4,3,1,Research Scientist,1,1,No,14,3,4,80,0,4,4,3
+2040,No,Sales,26,4,1,3,3,3,Human Resources,4,1,Yes,16,3,3,80,0,9,2,3
+2041,No,Sales,10,2,1,1,3,2,Sales Executive,4,1,No,11,3,3,80,1,10,1,3
+2044,Yes,Sales,1,4,1,2,3,2,Sales Executive,3,7,No,12,3,4,80,2,12,3,3
+2045,No,Sales,11,4,1,2,2,2,Sales Executive,4,4,No,13,3,1,80,1,8,2,2
+2046,No,Sales,20,3,1,4,3,2,Sales Executive,3,8,No,15,3,3,80,0,8,3,3
+2048,No,Sales,2,4,1,3,2,1,Research Scientist,3,2,No,14,3,4,80,0,8,2,3
+2049,No,Sales,18,4,1,3,3,2,Healthcare Representative,3,1,Yes,14,3,4,80,2,10,2,4
+2051,No,Sales,2,4,1,3,3,1,Research Scientist,3,2,No,14,3,2,80,3,20,2,3
+2052,No,Sales,1,4,1,3,1,1,Research Scientist,4,1,No,12,3,4,80,1,4,5,3
+2053,No,Sales,13,2,1,4,2,2,Laboratory Technician,2,4,Yes,13,3,1,80,1,10,2,3
+2054,No,Sales,28,4,1,4,2,1,Research Scientist,1,1,No,14,3,2,80,0,5,3,1
+2055,Yes,Sales,28,3,1,4,2,3,Sales Executive,1,4,Yes,13,3,2,80,1,20,3,3
+2056,No,Sales,24,1,1,2,2,4,Sales Executive,4,0,No,11,3,1,80,1,21,2,2
+2057,No,Sales,5,3,1,2,3,2,Manufacturing Director,1,0,No,19,3,2,80,0,10,2,3
+2060,No,Sales,5,3,1,4,2,1,Sales Representative,3,0,No,18,3,4,80,0,5,2,3
+2061,No,Sales,23,2,1,3,4,2,Laboratory Technician,4,4,No,17,3,3,80,1,17,3,3
+2062,No,Sales,6,1,1,4,2,3,Healthcare Representative,1,4,No,15,3,1,80,1,9,5,3
+2064,No,Sales,4,3,1,2,4,2,Manufacturing Director,2,1,Yes,20,4,2,80,1,6,0,3
+2065,No,Sales,2,3,1,4,2,2,Sales Executive,2,2,No,14,3,4,80,0,17,3,2
+2068,No,Sales,8,3,1,2,4,2,Laboratory Technician,3,2,No,12,3,1,80,0,6,3,4

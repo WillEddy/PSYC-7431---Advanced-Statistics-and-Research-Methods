@@ -1,0 +1,7 @@
+I am using a simulated HR dataset from IBM. I created a subset for this assignment which includes variables representing Attrition (Yes or no), Department (Sales or Research), Job satisfaction rating, Satisfaction with work environment rating, and Distance from home in miles.
+
+There was no signifigant relationship between the Attrition variable and the Department variable, phi = 0.0166, Chi-square(1, N = 1407)= 0.7432, p = .3886.
+
+People who had a "Yes" value for the Attrition variable had signifigantly lower Job satisfaction, rpb = -0.108, t(1405) = -4.072, p < .001.
+
+Distance from home and Satisfaction with work environment had no signifigant relationship, r(N = 1407) = 0.0199, p = 0.457, 95% CI [ -0.072, 0.0324].
