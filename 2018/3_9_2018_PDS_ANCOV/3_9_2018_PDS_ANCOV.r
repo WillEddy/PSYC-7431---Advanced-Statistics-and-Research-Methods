@@ -1,0 +1,1 @@
+DATA <- read.csv("IBM_HR_TRIMMED_3.csv", row.names=1)
