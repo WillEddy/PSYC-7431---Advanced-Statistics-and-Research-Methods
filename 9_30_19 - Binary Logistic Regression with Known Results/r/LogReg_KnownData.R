@@ -1,42 +1,70 @@
-library(ggplot2)
-library(cowplot)
-library(rstudioapi)
-library(compareGroups)
+library(ggplot2); library(cowplot); library(rstudioapi); library(compareGroups); library(tidyverse); library(psych); library(lmtest); library(mdscore)
 
 # Set working directiory where this R file is
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) 
 
 #Import raw data
-data <- read.table("../data/Log-06.dat")
+data <- read.csv("../data/Known.csv")
+
+glimpse(data)
 
 # Name columns
-colnames(data) <- c("SOCPROB","REPEAT","ADDSC","DROPOUT")
+# colnames(data) <- c("SOCPROB","REPEAT","ADDSC","DROPOUT")
 
 # Label variable values - this also sets them as dichotomous variables (factors in r)
-data$SOCPROB <- factor(data$SOCPROB,
-                       levels = c(0,1),
-                       labels = c("Yes 9th grade social problems", "No 9th grade social problems"))
+colnames(data)[1] <- "decision"
 
-data$REPEAT <- factor(data$REPEAT,
+data$decision <- factor(data$decision,
+                       levels = c(0,1),
+                       labels = c("0 - Stop the research", "1 - Continue the research"))
+
+data$gender <- factor(data$gender,
                       levels = c(0,1),
-                      labels = c("Didn't repeat a grade", "Repeated a grade"))
+                      labels = c("0 - Female", "1 - Male"))
 
-data$DROPOUT <- factor(data$DROPOUT,
-                       levels = c(0,1),
-                       labels = c("Completed high school", "Dropped out of high school"))
+# Intercept only model
+LR1 <- glm(decision ~ 1, data, family = "binomial")
+LR1
+summary(LR1)
+# To get Exp(B), view exponentiated Estimate below:
+exp(LR1$coefficients)
+# Return -2 Log Liklihood
+-2*(logLik(LR1))
 
+# Wald chisq test?
+# wald.test(coef(LR1), vcov(LR1), Terms=1)
+# wald.test(LR2,2)
+
+ll.null <- LR1$null.deviance/-2
+ll.proposed <- LR1$deviance/-2
+
+## McFadden's Pseudo R^2 = [ LL(Null) - LL(Proposed) ] / LL(Null)
+(ll.null - ll.proposed) / ll.null
+
+
+# For bigger models?
+#  exp(cbind(ODDS=coef(LR1), confint(LR1)))
 
 xtabs(~DROPOUT + SOCPROB, data = data)
 xtabs(~DROPOUT + REPEAT, data = data)
-
 
 ###########
 ##
 ## Now do the actual logistic regression
 ##
 ###########
-logistic <- glm(DROPOUT ~ SOCPROB, data=data, family="binomial")
-summary(logistic)
+LR2 <- glm(decision ~ gender, data=data, family="binomial")
+summary(LR2)
+# To get Exp(B), view exponentiated Estimate below:
+exp(LR2$coefficients)
+# Return -2 Log Liklihood
+-2*(logLik(LR2))
+
+## McFadden's Pseudo R^2 = [ LL(Null) - LL(Proposed) ] / LL(Null)
+ll.null.2 <- LR2$null.deviance/-2
+ll.proposed.2 <- LR2$deviance/-2
+(ll.null.2 - ll.proposed.2) / ll.null.2
+
 # In output:
 # First Estimate is log(odds) that someone who is"Yes Social Problems" is also "Yes drop out of high school"
 
@@ -83,8 +111,10 @@ xtabs(~ probability.of.DROPOUT + SOCPROB, data=predicted.data)
 ##
 #####################################
 
-logistic <- glm(DROPOUT ~ ., data=data, family="binomial")
-summary(logistic)
+LR3 <- glm(decision ~ gender + idealism + relatvsm, data=data, family="binomial")
+summary(LR3)
+# To get Exp(B), view exponentiated Estimate below:
+exp(LR3$coefficients)
 
 ## Now calculate the overall "Pseudo R-squared" and its p-value
 ll.null <- logistic$null.deviance/-2
