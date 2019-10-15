@@ -54,6 +54,18 @@ ggplot(data, aes(x=TIME_z, y=EXAM_z, col=GROUP)) + geom_point() +
 #######
 
 FULL_MODEL_1 <- lm(TIME_z~EXAM_z + TIMExGROUP_z, data)
+FULL_MODEL_2 <- lm(TIME_z~EXAM_z, data)
+
+
+var.test(FULL_MODEL_1, FULL_MODEL_2, alternative = "two.sided")
+
+var.test(CONTROL_MODEL_1, EXPERIMENTAL_MODEL_1, alternative = "two.sided")
+
+?var.test
+
+
+
+
 
 library(lsmeans)
 
@@ -62,6 +74,7 @@ FullModel_slopes <- lstrends(FULL_MODEL_1, Exam_z, var="")
 pairs(FULL_MODEL_1)
 
 
+anova(FULL_MODEL_1, FULL_MODEL_2)
 
 anova(CONTROL_MODEL_1, EXPERIMENTAL_MODEL_1)
 
@@ -72,12 +85,12 @@ processR::fit2alpha(FULL_MODEL_1, 3)
 # UNUSED CODE
 # 
 # # Separate 2 groups
-# CONTROL_GROUP <- subset(data, GROUP == "0 - Control")
-# EXPERIMENTAL_GROUP <- subset(data, GROUP == "1 - Experimental")
-# 
-# # Create regression models for each group
-# CONTROL_MODEL_1 <- lm(TIME_z~EXAM_z, CONTROL_GROUP)
-# EXPERIMENTAL_MODEL_1 <- lm(TIME_z~EXAM_z, EXPERIMENTAL_GROUP)
+CONTROL_GROUP <- subset(data, GROUP == "0 - Control")
+EXPERIMENTAL_GROUP <- subset(data, GROUP == "1 - Experimental")
+
+# Create regression models for each group
+CONTROL_MODEL_1 <- lm(TIME_z~EXAM_z, CONTROL_GROUP)
+EXPERIMENTAL_MODEL_1 <- lm(TIME_z~EXAM_z, EXPERIMENTAL_GROUP)
 
 
 # 
