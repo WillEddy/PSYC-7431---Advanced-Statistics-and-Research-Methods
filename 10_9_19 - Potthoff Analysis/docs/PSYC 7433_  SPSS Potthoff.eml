@@ -1,0 +1,260 @@
+Received: from BL0PR0102MB3539.prod.exchangelabs.com (2603:10b6:408:94::28) by
+ BN7PR01MB3634.prod.exchangelabs.com with HTTPS via
+ BN8PR03CA0015.NAMPRD03.PROD.OUTLOOK.COM; Thu, 10 Oct 2019 00:44:43 +0000
+Received: from BL0PR0102MB3585.prod.exchangelabs.com (52.132.18.30) by
+ BL0PR0102MB3539.prod.exchangelabs.com (52.132.17.28) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.2347.16; Thu, 10 Oct 2019 00:44:43 +0000
+Received: from BL0PR0102MB3585.prod.exchangelabs.com ([fe80::bd03:4788:f7c0:9858]) by
+ BL0PR0102MB3585.prod.exchangelabs.com ([fe80::bd03:4788:f7c0:9858%6]) with
+ mapi id 15.20.2347.016; Thu, 10 Oct 2019 00:44:43 +0000
+Authentication-Results: students.ecu.edu; dkim=none (message not signed)
+ header.d=none;students.ecu.edu; dmarc=none action=none header.from=ecu.edu;
+From: "Wuensch, Karl Louis" <WUENSCHK@ecu.edu>
+To: "Al-Hammori, Deanna Waled" <alhammorid15@students.ecu.edu>, "Bond, Dillon"
+ <bondd18@students.ecu.edu>, "Crespo, Julian Fernando"
+ <crespoj15@students.ecu.edu>, "Demott, Beatrice L"
+ <demottb18@students.ecu.edu>, "Donelan, Jennifer Marie"
+ <donelanj18@students.ecu.edu>, "Eddy, William Sebastian"
+ <eddyw18@students.ecu.edu>, "Long, Kelli Ros" <longke13@students.ecu.edu>,
+ "McAdams, Ellen Elizabeth" <mcadamse18@students.ecu.edu>, "Mcintyre, Joel
+ Nicholas" <mcintyrej18@students.ecu.edu>, "Meier, Brittany Nicole"
+ <meierb18@students.ecu.edu>, "Nguyen, Vanessa Chau Tuyen"
+ <nguyenv18@students.ecu.edu>, "Owens, Brittnie Tierra"
+ <owensb11@students.ecu.edu>, "Robinson, Demi" <robinsonde17@students.ecu.edu>,
+ "Skinner, Lonnisa M" <skinnerl18@students.ecu.edu>, "Wuensch, Karl Louis"
+ <WUENSCHK@ecu.edu>, "Wynn, Taylor" <wynnt18@students.ecu.edu>
+Subject: PSYC 7433:  SPSS Potthoff
+Thread-Topic: PSYC 7433: SPSS Potthoff
+Thread-Index: AdV/A2idDSkVDCUtSDCbOM+ObqJMQw==
+Date: Thu, 10 Oct 2019 00:44:43 +0000
+Message-Id: <BL0PR0102MB358522B527FF41CEC95F9484C9940@bl0pr0102mb3585.prod.exchangelabs.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <BL0PR0102MB358522B527FF41CEC95F9484C9940@BL0PR0102MB3585.prod.exchangelabs.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: BL0PR0102MB3585.prod.exchangelabs.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [75.110.73.192]
+X-MS-Exchange-Organization-Network-Message-Id: 44f8fdbb-3007-4e3b-9ac1-08d74d1b0aa1
+X-MS-PublicTrafficType: Email
+Return-Path: WUENSCHK@ecu.edu
+X-MS-Exchange-Organization-ExpirationStartTime: 10 Oct 2019 00:44:43.5501 (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Office365-Filtering-Correlation-Id: 44f8fdbb-3007-4e3b-9ac1-08d74d1b0aa1
+X-MS-TrafficTypeDiagnostic: BL0PR0102MB3539:|BL0PR0102MB3539:
+X-MS-Exchange-PUrlCount: 3
+X-MS-Exchange-Transport-Forked: True
+X-MS-Oob-TLC-OOBClassifiers: OLM:1751;
+X-Forefront-Antispam-Report: SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BL0PR0102MB3539;H:BL0PR0102MB3585.prod.exchangelabs.com;FPR:;SPF:None;LANG:en;
+X-Microsoft-Antispam: BCL:0;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 10 Oct 2019 00:44:43.2594 (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: 17143cbb-385c-4c45-a36a-c65b72e3eae8
+X-MS-Exchange-CrossTenant-Network-Message-Id: 44f8fdbb-3007-4e3b-9ac1-08d74d1b0aa1
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: JkByIqBPxDP55PiIjJ3e+kdkFFHmZhUOySiV60pwxqxsY0oEcF1JpAEJRKTOyl3Mp3TIjQs8MnNkLAQoMq3RwA==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL0PR0102MB3539
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5874886
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.2347.014
+X-Microsoft-Antispam-Mailbox-Delivery: ucf:0;jmr:0;ex:0;auth:0;dest:I;ENG:(750127)(520011016)(706158)(944506383)(944626516);
+X-Microsoft-Antispam-Message-Info: ysfLUFoMOfL8QswWGxnP7bgWbsFBRH5MLtOOKukB4qi2x+IydkPdnPt5zQFa8UuCF70bJrLw6bBQ+P7Rvww4FwfK3WdNladRmZC8ULXPbbMX4CrwqNn0uSJnQfslRH48HzyUIIViaGuP+9sHZf/tdwVfAX9YeFoNbbwLPG+5ic/7RbFanI3gsCRjuZmnmW6rAWktxG43VQ81cu8019zoCWgCSjbtFu/UNz7CE0JSvhuFXEymiGIWW8vGN0yd/1gQtZVZsA7aK7Op6wjNNVviXyMhTEcXu422Si2eV9FvB/SJUwr6Uz83T/I/lxxNGxXR0el1xQrNdypAR9zRBUx0pY3BteUAZOm/+/mr4CJkxPpRRqo5mZ2TlDEVxc5QK1KnAzRusWsBUpLXuFoJmvjrezQnY9LNqSPO6eqAIrxQugOoomdmyqyllfxiNh7+044du2aWbW1OOG3s6wu8ARNnO/HAeCHiwJq98XRwVCiyj2o=
+Reply-To: "Wuensch, Karl Louis" <WUENSCHK@ecu.edu>
+Mime-Version: 1.0
+Content-Type: multipart/related; boundary="------=_MBE8C7D704-17E3-4B61-94EB-01C411E03D19"
+
+--------=_MBE8C7D704-17E3-4B61-94EB-01C411E03D19
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word"=
+ xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Arial",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial&quot;,sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+; Revised tonight just for you.&nbsp;
+<a href=3D"http://core.ecu.edu/psyc/wuenschk/SPSS/Potthoff-SPSS.pdf">http:/=
+/core.ecu.edu/psyc/wuenschk/SPSS/Potthoff-SPSS.pdf</a><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-size:13.5pt;font-family:&quot;Arial&quot;,sans=
+-serif;color:black">Cheers,<o:p></o:p></span></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"3" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-size:13.5pt;font-family:&quot;Arial&quot;,sans=
+-serif;color:black"><img border=3D"0" width=3D"213" height=3D"86" style=3D"=
+width:2.2166in;height:.9in" id=3D"Picture_x0020_2" src=3D"cid:image001.jpg@=
+01D57EE2.411DAC30"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:13.5pt;font-family:&quot;Ar=
+ial&quot;,sans-serif;color:black">Karl L. Wuensch, Professor and ECU Schola=
+r/Teacher, Dept. of Psychology<br>
+East Carolina University, Greenville NC&nbsp; 27858-4353, USA,&nbsp;</span>=
+<a href=3D"http://core.ecu.edu/psyc/wuenschk/Earth.htm" title=3D"http://cor=
+e.ecu.edu/psyc/wuenschk/Earth.htmhttp://core.ecu.edu/psyc/wuenschk/Earth.ht=
+m"><span style=3D"font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif=
+;color:blue">Earth</span></a><span style=3D"font-size:13.5pt;font-family:&q=
+uot;Arial&quot;,sans-serif;color:black"><br>
+Voice:&nbsp; 252-328-9420&nbsp;&nbsp;&nbsp;&nbsp; Fax:&nbsp; 252-328-6283<o=
+:p></o:p></span></p>
+<p class=3D"MsoNormal"><u><span style=3D"font-size:13.5pt;font-family:&quot=
+;Arial&quot;,sans-serif;color:blue"><a href=3D"http://core.ecu.edu/psyc/wue=
+nschk/klw.htm"><span style=3D"color:blue">http://core.ecu.edu/psyc/wuenschk=
+/klw.htm</span></a></span></u><span style=3D"font-size:12.0pt;font-family:&=
+quot;Arial&quot;,sans-serif"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--------=_MBE8C7D704-17E3-4B61-94EB-01C411E03D19
+X-Attachment-Id: AAMkAGI5ZDBkNzU4LThkMDktNDI2My04MzVjLThmMzQ2MTEzZmNhYgBGAAAAAAC7/DKiITeuRouDwlZjEmRhBwCr3ZFiUJJ+SZfIZpnJmpERAAAAAAEMAACr3ZFiUJJ+SZfIZpnJmpERAAFzGU/uAAABEgAQAP6pNsLHzZhLrcBY2khd5lU=
+Content-Type: image/jpeg; name=image001.jpg
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename=image001.jpg
+Content-Id: <image001.jpg@01D57EE2.411DAC30>
+
+/9j/4AAQSkZJRgABAQEAeAB4AAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCABWANUDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiii
+gBKKrXF7b2uPtE8cWegdgCfpUI1W3bbgyle7+UwUD1LEYA9807MCOw1iC/v7+0iWVZLKQRyF1wCS
+u4bT3GK06828GeJLe58W+IAGJW7kE1uAMmRVyp2juSuDjrXcnV7NWAllMJPTzkaMfmwFOpBxdrFN
+WZo0VFHKksYeNwynoQcg1LUkhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QBBcTC3t5ZWBIjUsQO+BmuC1/wAbzW18NPjhuLq9ZVP2a2yqruXcAXALMcEfdCiu31X/AJBF5/1x
+f/0E1xPhsBvilrGQMiyix/3zHWlNKzk1exUbblS00jxrqg3q1rosL84RQJCPc/MxP1YVcn8H7NIu
+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
+ooooAKKKKACiiigD/9k=
+--------=_MBE8C7D704-17E3-4B61-94EB-01C411E03D19--
