@@ -8,7 +8,7 @@
 ## Use these packages
 ##
 ##########
-library(rstudioapi); library(jtools); library(psych); library(interactions)
+library(rstudioapi); library(jtools); library(psych); library(psychometric); library(interactions)
 
 
 ## Set working directiory where this R file is
@@ -35,6 +35,10 @@ Reg1 <- lm(Catch ~ Priapam + Koleos, data = data)
 
 # "part.r" is semipartial correlations
 summ(Reg1, confint = TRUE, part.corr = TRUE)
+
+# From psychometric package, confidence interval for r^2
+CI.Rsqlm(Reg1)
+
 # Include standardized slopes (beta weights)
 summ(Reg1, confint = TRUE, part.corr = TRUE, scale = TRUE)
 
@@ -65,4 +69,5 @@ sim_slopes(Reg2, pred = Priapam_z, modx = Koleos_z, johnson_neyman = FALSE, conf
 
 # https://cran.r-project.org/web/packages/interactions/vignettes/interactions.html
 # library(psycho)
+
 
