@@ -1,7 +1,4 @@
 # Author: William Eddy, M.A. Candidate East Carolina University, william.sebastian.eddy@gmail.com
-# Alternative name provided by Professor Poopypants algorithm: Booger Burger? Go Poopypants.
-
-# For reproduction purposes, I have included installation commands for all required packages.
 
 ##########
 ##
@@ -11,7 +8,7 @@
 library(ggplot2); library(cowplot); library(rstudioapi); library(compareGroups)
 library(tidyverse); library(psych); library(mdscore); library(car)
 library(stargazer)
-
+library(processR)
 
 ## Set working directiory where this R file is
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) 
@@ -91,6 +88,8 @@ EXPERIMENTAL_GROUP <- subset(data, GROUP == "1 - Experimental")
 # Create regression models for each group
 CONTROL_MODEL_1 <- lm(TIME_z~EXAM_z, CONTROL_GROUP)
 EXPERIMENTAL_MODEL_1 <- lm(TIME_z~EXAM_z, EXPERIMENTAL_GROUP)
+
+processR::mo
 
 
 # 
