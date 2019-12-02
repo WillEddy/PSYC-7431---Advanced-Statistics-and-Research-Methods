@@ -11,6 +11,7 @@
 library(rstudioapi); library(jtools); library(psych); library(psychometric); library(interactions)
 
 
+
 ## Set working directiory where this R file is
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) 
 
@@ -58,9 +59,12 @@ data$CatchXKoleos_Z <- data$Catch_z * data$Koleos_z
 # Conduct multiple regression predicting catch from other 2 plus the interaction term
 Reg2 <- lm(Catch_z ~ Priapam_z * Koleos_z, data = data)
 summ(Reg2, confint = TRUE, part.corr = TRUE)
+<<<<<<< HEAD
 
 # From psychometric package, confidence interval for r^2
 CI.Rsqlm(Reg2)
+=======
+>>>>>>> 1245810a90b8eeb7cd132acee84b4fef1b9a745d
 
 # Use interact_plot from "interactions" package to create plot
 interact_plot(Reg2, pred = Priapam_z, modx = Koleos_z, x.label = "Standardized Priapam", y.label = "Standardized Catch", 
