@@ -57,14 +57,16 @@ data$CatchXKoleos_Z <- data$Catch_z * data$Koleos_z
 
 # Conduct multiple regression predicting catch from other 2 plus the interaction term
 Reg2 <- lm(Catch_z ~ Priapam_z * Koleos_z, data = data)
-summ(Reg2, confint = TRUE, part.corr = TRUE))
+summ(Reg2, confint = TRUE, part.corr = TRUE)
+
+# From psychometric package, confidence interval for r^2
+CI.Rsqlm(Reg2)
 
 # Use interact_plot from "interactions" package to create plot
 interact_plot(Reg2, pred = Priapam_z, modx = Koleos_z, x.label = "Standardized Priapam", y.label = "Standardized Catch", 
               legend.main = "Standardized Koleos")
 # Simple slopes analysis
 sim_slopes(Reg2, pred = Priapam_z, modx = Koleos_z, johnson_neyman = FALSE, confint = TRUE)
-
 
 
 # https://cran.r-project.org/web/packages/interactions/vignettes/interactions.html
